@@ -1,0 +1,55 @@
++------------------+------------------+-----------------------------------------+------------+-----------------------------------------------------+
+| Bowler1          | Bowler2          | Match                                   | Start Date | Venue                                               |
++------------------+------------------+-----------------------------------------+------------+-----------------------------------------------------+
+| John Valentine   | John Vaughan     | Canada(1st) v Pakistan                  | 1979-06-09 | Headingley, Leeds                                   |
+| Simon Davis      | Simon O'Donnell  | Australia(1st) v West Indies            | 1987-01-28 | Sydney Cricket Ground, Sydney                       |
+| Simon Davis      | Simon O'Donnell  | Australia(1st) v England                | 1987-02-01 | Melbourne Cricket Ground, Melbourne                 |
+| Simon Davis      | Simon O'Donnell  | Australia(1st) v West Indies            | 1987-02-06 | Sydney Cricket Ground, Sydney                       |
+| Simon Davis      | Simon O'Donnell  | Australia(1st) v England                | 1987-02-08 | Melbourne Cricket Ground, Melbourne                 |
+| Simon Davis      | Simon O'Donnell  | Australia(1st) v England                | 1987-02-11 | Sydney Cricket Ground, Sydney                       |
+| Golam Nousher    | Golam Faruq      | Bangladesh(1st) v India                 | 1988-10-27 | Chittagong Stadium, Chittagong                      |
+| Golam Nousher    | Golam Faruq      | Bangladesh(1st) v Sri Lanka             | 1988-11-02 | National Stadium, Dhaka                             |
+| Golam Nousher    | Golam Faruq      | Bangladesh(1st) v New Zealand           | 1990-04-28 | Sharjah Cricket Association Stadium, Sharjah        |
+| Chris Pringle    | Chris Cairns     | New Zealand(1st) v South Africa         | 1994-01-08 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| Paul Wilson      | Paul Reiffel     | Australia(1st) v South Africa           | 1998-01-11 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| Paul Wilson      | Paul Reiffel     | Australia(1st) v New Zealand            | 1998-01-14 | Sydney Cricket Ground, Sydney                       |
+| Paul Wilson      | Paul Reiffel     | Australia(1st) v New Zealand            | 1998-01-21 | Melbourne Cricket Ground, Melbourne                 |
+| Paul Wilson      | Paul Reiffel     | Australia(1st) v South Africa           | 1998-01-23 | Melbourne Cricket Ground, Melbourne                 |
+| Chris Cairns     | Chris Drum       | New Zealand(1st) v India                | 1999-11-11 | Captain Roop Singh Stadium, Gwalior                 |
+| Chris Drum       | Chris Cairns     | New Zealand(1st) v India                | 1999-11-14 | Nehru Stadium, Guwahati                             |
+| Chris Cairns     | Chris Drum       | New Zealand(1st) v India                | 1999-11-17 | Feroz Shah Kotla, Delhi                             |
+| Chris Cairns     | Chris Martin     | New Zealand(1st) v Zimbabwe             | 2001-01-02 | Owen Delany Park, Taupo                             |
+| James Kirtley    | James Anderson   | England(1st) v Australia                | 2002-12-15 | Melbourne Cricket Ground, Melbourne                 |
+| James Anderson   | James Kirtley    | England(1st) v Bangladesh               | 2003-11-12 | Bangabandhu National Stadium, Dhaka                 |
+| Nuwan Zoysa      | Nuwan Kulasekara | Sri Lanka(1st) v Australia              | 2004-02-29 | Sinhalese Sports Club Ground, Colombo               |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v India                   | 2006-02-16 | Multan Cricket Stadium, Multan                      |
+| Mohammad Sami    | Mohammad Asif    | Pakistan(1st) v India                   | 2006-02-19 | National Stadium, Karachi                           |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v Sri Lanka               | 2007-05-18 | Sheikh Zayed Stadium, Abu Dhabi                     |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v Sri Lanka               | 2007-05-20 | Sheikh Zayed Stadium, Abu Dhabi                     |
+| Sohail Tanvir    | Sohail Khan      | Pakistan(1st) v Bangladesh              | 2008-04-13 | Gaddafi Stadium, Lahore                             |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v Australia               | 2010-01-22 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| Gordon Goudie    | Gordon Drummond  | Scotland(1st) v Netherlands             | 2011-06-28 | Mannofield Park, Aberdeen                           |
+| Sohail Tanvir    | Sohail Khan      | Pakistan(1st) v Zimbabwe                | 2011-09-14 | Harare Sports Club, Harare                          |
+| Mitchell Starc   | Mitchell Johnson | Australia(1st) v England                | 2013-06-08 | Edgbaston, Birmingham                               |
+| Mohammad Irfan   | Mohammad Hafeez  | Pakistan(1st) v West Indies             | 2013-07-21 | Beausejour Stadium, Gros Islet                      |
+| Mohammad Hafeez  | Mohammad Irfan   | Pakistan(1st) v West Indies             | 2013-07-24 | Beausejour Stadium, Gros Islet                      |
+| Mohammad Irfan   | Mohammad Hafeez  | Pakistan(1st) v Zimbabwe                | 2013-08-31 | Harare Sports Club, Harare                          |
+| James Faulkner   | James Pattinson  | Australia(1st) v England                | 2014-01-19 | Sydney Cricket Ground, Sydney                       |
+| Mohammad Naveed  | Mohammad Shehzad | United Arab Emirates(1st) v Afghanistan | 2014-05-02 | Kinrara Academy Oval, Kuala Lumpur                  |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v Zimbabwe               | 2014-08-25 | Harare Sports Club, Harare                          |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v South Africa           | 2014-08-27 | Harare Sports Club, Harare                          |
+| Mitchell Starc   | Mitchell Marsh   | Australia(1st) v Zimbabwe               | 2014-08-31 | Harare Sports Club, Harare                          |
+| Mohammad Naveed  | Mohammad Shehzad | United Arab Emirates(1st) v Afghanistan | 2014-12-02 | ICC Cricket Academy Ground, Dubai                   |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v New Zealand            | 2015-02-28 | Eden Park, Auckland                                 |
+| Mitchell Starc   | Mitchell Johnson | Australia(1st) v Sri Lanka              | 2015-03-08 | Sydney Cricket Ground, Sydney                       |
+| Mohammad Irfan   | Mohammad Aamer   | Pakistan(1st) v New Zealand             | 2016-01-25 | Basin Reserve, Wellington                           |
+| Mohammad Irfan   | Mohammad Aamer   | Pakistan(1st) v New Zealand             | 2016-01-31 | Eden Park, Auckland                                 |
+| Mohammad Aamer   | Mohammad Hafeez  | Pakistan(1st) v Australia               | 2017-01-13 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| Mohammad Hafeez  | Mohammad Aamer   | Pakistan(1st) v Australia               | 2017-01-19 | Western Australia Cricket Association Ground, Perth |
+| Mohammad Hafeez  | Mohammad Aamer   | Pakistan(1st) v Australia               | 2017-01-22 | Sydney Cricket Ground, Sydney                       |
+| Tendai Chatara   | Tendai Chisoro   | Zimbabwe(1st) v Scotland                | 2018-03-12 | Queens Sports Club, Bulawayo                        |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Australia               | 2019-03-22 | Sharjah Cricket Association Stadium, Sharjah        |
+| Mohammad Hafeez  | Mohammad Aamer   | Pakistan(1st) v South Africa            | 2019-06-23 | Lord's Cricket Ground, St John's Wood               |
+| Mohammad Hafeez  | Mohammad Aamer   | Pakistan(1st) v New Zealand             | 2019-06-26 | Edgbaston, Birmingham                               |
+| Mohammad Hafeez  | Mohammad Aamer   | Pakistan(1st) v Bangladesh              | 2019-07-05 | Lord's Cricket Ground, St John's Wood               |
++------------------+------------------+-----------------------------------------+------------+-----------------------------------------------------+
