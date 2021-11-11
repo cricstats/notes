@@ -1,0 +1,103 @@
++------------------+------------------+------------------------------+------------+--------------------------------------------------+
+| Bowler1          | Bowler2          | Match                        | Start Date | Venue                                            |
++------------------+------------------+------------------------------+------------+--------------------------------------------------+
+| Jack O'Connor    | Jack Saunders    | Australia(1st) v England     | 1908-01-10 | Adelaide Oval, Adelaide                          |
+| Jack O'Connor    | Jack Saunders    | Australia(1st) v England     | 1908-01-10 | Adelaide Oval, Adelaide                          |
+| Jack Saunders    | Jack O'Connor    | Australia(1st) v England     | 1908-02-07 | Melbourne Cricket Ground, Melbourne              |
+| Bob Newson       | Bob Catterall    | South Africa(1st) v England  | 1930-12-24 | Old Wanderers, Johannesburg                      |
+| Maurice Tate     | Maurice Allom    | England(1st) v South Africa  | 1931-01-16 | Kingsmead, Durban                                |
+| Bill Bowes       | Bill Voce        | England(1st) v India         | 1932-06-25 | Lord's Cricket Ground, St John's Wood            |
+| Bill Bowes       | Bill Voce        | England(1st) v India         | 1932-06-25 | Lord's Cricket Ground, St John's Wood            |
+| Jack Cowie       | Jack Dunning     | New Zealand(1st) v England   | 1937-07-24 | Old Trafford, Manchester                         |
+| Jack Cowie       | Jack Dunning     | New Zealand(1st) v England   | 1937-07-24 | Old Trafford, Manchester                         |
+| Bill Bowes       | Bill Copson      | England(1st) v West Indies   | 1939-06-24 | Lord's Cricket Ground, St John's Wood            |
+| Bill Bowes       | Bill Copson      | England(1st) v West Indies   | 1939-06-24 | Lord's Cricket Ground, St John's Wood            |
+| Bill Bowes       | Bill Copson      | England(1st) v West Indies   | 1939-07-22 | Old Trafford, Manchester                         |
+| Bill Bowes       | Bill Copson      | England(1st) v West Indies   | 1939-07-22 | Old Trafford, Manchester                         |
+| Alec Bedser      | Alec Coxon       | England(1st) v Australia     | 1948-06-24 | Lord's Cricket Ground, St John's Wood            |
+| Alec Bedser      | Alec Coxon       | England(1st) v Australia     | 1948-06-24 | Lord's Cricket Ground, St John's Wood            |
+| Frank King       | Frank Worrell    | West Indies(1st) v India     | 1953-03-11 | Bourda, Georgetown                               |
+| Frank King       | Frank Worrell    | West Indies(1st) v England   | 1954-03-17 | Queen's Park Oval, Port of Spain                 |
+| Frank King       | Frank Worrell    | West Indies(1st) v England   | 1954-03-30 | Sabina Park, Kingston                            |
+| Frank King       | Frank Worrell    | West Indies(1st) v Australia | 1955-03-26 | Sabina Park, Kingston                            |
+| Frank King       | Frank Worrell    | West Indies(1st) v Australia | 1955-04-26 | Bourda, Georgetown                               |
+| Frank King       | Frank Worrell    | West Indies(1st) v Australia | 1955-04-26 | Bourda, Georgetown                               |
+| Fred Trueman     | Fred Titmus      | England(1st) v Australia     | 1964-07-02 | Headingley, Leeds                                |
+| Fred Rumsey      | Fred Trueman     | England(1st) v New Zealand   | 1965-05-27 | Edgbaston, Birmingham                            |
+| Fred Rumsey      | Fred Trueman     | England(1st) v New Zealand   | 1965-05-27 | Edgbaston, Birmingham                            |
+| Fred Rumsey      | Fred Trueman     | England(1st) v New Zealand   | 1965-06-17 | Lord's Cricket Ground, St John's Wood            |
+| Fred Rumsey      | Fred Trueman     | England(1st) v New Zealand   | 1965-06-17 | Lord's Cricket Ground, St John's Wood            |
+| Asif Masood      | Asif Iqbal       | Pakistan(1st) v England      | 1969-02-21 | Gaddafi Stadium, Lahore                          |
+| Asif Masood      | Asif Iqbal       | Pakistan(1st) v New Zealand  | 1969-10-24 | National Stadium, Karachi                        |
+| Asif Masood      | Asif Iqbal       | Pakistan(1st) v England      | 1971-06-03 | Edgbaston, Birmingham                            |
+| John Price       | John Snow        | England(1st) v India         | 1971-07-22 | Lord's Cricket Ground, St John's Wood            |
+| John Price       | John Snow        | England(1st) v India         | 1971-07-22 | Lord's Cricket Ground, St John's Wood            |
+| John Snow        | John Price       | England(1st) v India         | 1971-08-19 | Kennington Oval, Kennington                      |
+| John Snow        | John Price       | England(1st) v India         | 1971-08-19 | Kennington Oval, Kennington                      |
+| John Snow        | John Price       | England(1st) v Australia     | 1972-06-22 | Lord's Cricket Ground, St John's Wood            |
+| John Snow        | John Price       | England(1st) v Australia     | 1972-06-22 | Lord's Cricket Ground, St John's Wood            |
+| Mike Hendrick    | Mike Selvey      | England(1st) v West Indies   | 1976-07-08 | Old Trafford, Manchester                         |
+| Mike Hendrick    | Mike Selvey      | England(1st) v West Indies   | 1976-07-08 | Old Trafford, Manchester                         |
+| Mohammad Zahid   | Mohammad Akram   | Pakistan(1st) v New Zealand  | 1996-11-28 | Rawalpindi Cricket Stadium, Rawalpindi           |
+| Chris Cairns     | Chris Drum       | New Zealand(1st) v England   | 2002-03-13 | Jade Stadium, Christchurch                       |
+| James Anderson   | James Kirtley    | England(1st) v South Africa  | 2003-08-14 | Trent Bridge, Nottingham                         |
+| James Kirtley    | James Anderson   | England(1st) v Sri Lanka     | 2003-12-18 | Sinhalese Sports Club Ground, Colombo            |
+| Chris Martin     | Chris Cairns     | New Zealand(1st) v England   | 2004-06-10 | Trent Bridge, Nottingham                         |
+| Mohammad Sami    | Mohammad Khalil  | Pakistan(1st) v India        | 2005-03-16 | Eden Gardens, Kolkata                            |
+| Mohammad Khalil  | Mohammad Sami    | Pakistan(1st) v India        | 2005-03-16 | Eden Gardens, Kolkata                            |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v South Africa | 2007-01-19 | Sahara Oval St George's, Port Elizabeth          |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v South Africa | 2007-01-26 | Sahara Park Newlands, Cape Town                  |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v New Zealand  | 2009-11-24 | University Oval, Dunedin                         |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v New Zealand  | 2009-11-24 | University Oval, Dunedin                         |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v New Zealand  | 2009-12-03 | Basin Reserve, Wellington                        |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v New Zealand  | 2009-12-03 | Basin Reserve, Wellington                        |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v New Zealand  | 2009-12-11 | McLean Park, Napier                              |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v New Zealand  | 2009-12-11 | McLean Park, Napier                              |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v Australia    | 2009-12-26 | Melbourne Cricket Ground, Melbourne              |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v Australia    | 2009-12-26 | Melbourne Cricket Ground, Melbourne              |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v Australia    | 2010-01-03 | Sydney Cricket Ground, Sydney                    |
+| Mohammad Asif    | Mohammad Sami    | Pakistan(1st) v Australia    | 2010-01-03 | Sydney Cricket Ground, Sydney                    |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v Australia    | 2010-01-14 | Bellerive Oval, Hobart                           |
+| Mohammad Asif    | Mohammad Aamer   | Pakistan(1st) v Australia    | 2010-01-14 | Bellerive Oval, Hobart                           |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v Australia    | 2010-07-13 | Lord's Cricket Ground, St John's Wood            |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v Australia    | 2010-07-13 | Lord's Cricket Ground, St John's Wood            |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v Australia    | 2010-07-21 | Headingley, Leeds                                |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v Australia    | 2010-07-21 | Headingley, Leeds                                |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-07-29 | Trent Bridge, Nottingham                         |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-07-29 | Trent Bridge, Nottingham                         |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-08-06 | Edgbaston, Birmingham                            |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-08-06 | Edgbaston, Birmingham                            |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-08-18 | The Brit Oval, Kennington                        |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-08-18 | The Brit Oval, Kennington                        |
+| Mohammad Aamer   | Mohammad Asif    | Pakistan(1st) v England      | 2010-08-26 | Lord's Cricket Ground, St John's Wood            |
+| Nuwan Kulasekara | Nuwan Pradeep    | Sri Lanka(1st) v Pakistan    | 2012-06-22 | Galle International Stadium, Galle               |
+| Nuwan Kulasekara | Nuwan Pradeep    | Sri Lanka(1st) v Pakistan    | 2012-06-22 | Galle International Stadium, Galle               |
+| Nuwan Kulasekara | Nuwan Pradeep    | Sri Lanka(1st) v Pakistan    | 2012-06-30 | Sinhalese Sports Club Ground, Colombo            |
+| Nuwan Kulasekara | Nuwan Pradeep    | Sri Lanka(1st) v England     | 2014-06-12 | Lord's Cricket Ground, St John's Wood            |
+| Nuwan Kulasekara | Nuwan Pradeep    | Sri Lanka(1st) v England     | 2014-06-12 | Lord's Cricket Ground, St John's Wood            |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v Pakistan    | 2014-10-30 | Sheikh Zayed Stadium, Abu Dhabi                  |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v West Indies | 2015-06-03 | Windsor Park, Roseau                             |
+| Mitchell Starc   | Mitchell Johnson | Australia(1st) v England     | 2015-08-20 | The Kia Oval, Kennington                         |
+| Mitchell Johnson | Mitchell Starc   | Australia(1st) v England     | 2015-08-20 | The Kia Oval, Kennington                         |
+| Mitchell Starc   | Mitchell Johnson | Australia(1st) v New Zealand | 2015-11-05 | Brisbane Cricket Ground, Woolloongabba, Brisbane |
+| Mitchell Starc   | Mitchell Johnson | Australia(1st) v New Zealand | 2015-11-05 | Brisbane Cricket Ground, Woolloongabba, Brisbane |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-04-21 | Sabina Park, Kingston                            |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-04-21 | Sabina Park, Kingston                            |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-04-30 | Kensington Oval, Bridgetown                      |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-04-30 | Kensington Oval, Bridgetown                      |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-05-10 | Windsor Park, Roseau                             |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v West Indies  | 2017-05-10 | Windsor Park, Roseau                             |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Sri Lanka    | 2017-09-28 | Sheikh Zayed Stadium, Abu Dhabi                  |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Sri Lanka    | 2017-09-28 | Sheikh Zayed Stadium, Abu Dhabi                  |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Sri Lanka    | 2017-10-06 | Dubai Sports City Stadium, Dubai                 |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Ireland      | 2018-05-11 | The Village, Malahide, Dublin                    |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v Ireland      | 2018-05-11 | The Village, Malahide, Dublin                    |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v England      | 2018-05-24 | Lord's Cricket Ground, St John's Wood            |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v England      | 2018-05-24 | Lord's Cricket Ground, St John's Wood            |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v England      | 2018-06-01 | Emerald Headingley Cricket Stadium, Leeds        |
+| Mohammad Abbas   | Mohammad Hafeez  | Pakistan(1st) v Australia    | 2018-10-07 | Dubai Sports City Stadium, Dubai                 |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v South Africa | 2019-01-03 | PPC Newlands, Cape Town                          |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v South Africa | 2019-01-03 | PPC Newlands, Cape Town                          |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v South Africa | 2019-01-11 | Bidvest Wanderers Stadium, Johannesburg          |
+| Mohammad Aamer   | Mohammad Abbas   | Pakistan(1st) v South Africa | 2019-01-11 | Bidvest Wanderers Stadium, Johannesburg          |
++------------------+------------------+------------------------------+------------+--------------------------------------------------+
