@@ -1,0 +1,1354 @@
++------------+---------------------+----------+----------------------------+------------+
+| Start Over | Bowler              | Analysis | Match                      | StartDate  |
++------------+---------------------+----------+----------------------------+------------+
+| 152.6      | UDU Chandana        | 6/179    | Sri Lanka v Pakistan       | 1999-03-12 |
+| 141.1      | HMRKB Herath        | 5/121    | Sri Lanka v India          | 2009-11-24 |
+| 137.3      | Saeed Ajmal         | 5/166    | Pakistan v Sri Lanka       | 2014-08-06 |
+| 131.5      | HJ Tayfield         | 5/120    | South Africa v Australia   | 1957-12-31 |
+| 122.1      | GD McGrath          | 6/115    | Australia v New Zealand    | 2005-03-10 |
+| 121.4      | Shoaib Akhtar       | 6/50     | Pakistan v Bangladesh      | 2003-08-27 |
+| 120.2      | EJ Barlow           | 5/85     | South Africa v Australia   | 1966-12-31 |
+| 118.3      | MDK Perera          | 5/137    | Sri Lanka v Pakistan       | 2014-08-06 |
+| 117.5      | AA Mallett          | 5/126    | Australia v South Africa   | 1970-01-22 |
+| 113.4      | Harbhajan Singh     | 5/147    | India v West Indies        | 2006-06-22 |
+| 112.2      | CR Miller           | 5/81     | Australia v West Indies    | 2000-12-15 |
+| 111.2      | Harbhajan Singh     | 6/152    | India v Pakistan           | 2005-03-24 |
+| 109.1      | UDU Chandana        | 5/109    | Sri Lanka v Australia      | 2004-07-09 |
+| 105.6      | SK Warne            | 5/75     | Australia v South Africa   | 1998-01-02 |
+| 103.2      | N Wagner            | 6/106    | New Zealand v Australia    | 2016-02-20 |
+| 99.6       | HMRKB Herath        | 6/103    | Sri Lanka v New Zealand    | 2012-11-25 |
+| 97.7       | SL Boock            | 5/67     | New Zealand v England      | 1978-03-04 |
+| 97.5       | Shakib Al Hasan     | 5/130    | Bangladesh v South Africa  | 2008-11-19 |
+| 97.5       | HMRKB Herath        | 6/133    | Sri Lanka v England        | 2012-04-03 |
+| 96.5       | Wasim Akram         | 6/61     | Pakistan v West Indies     | 2000-05-25 |
+| 96.1       | I Sharma            | 5/118    | India v Pakistan           | 2007-12-08 |
+| 95.6       | DL Vettori          | 6/127    | New Zealand v India        | 1999-10-22 |
+| 95.4       | B Lee               | 5/59     | Australia v West Indies    | 2008-05-30 |
+| 94.2       | N Wagner            | 5/124    | New Zealand v England      | 2019-11-29 |
+| 90.6       | M Muralitharan      | 5/67     | Sri Lanka v Zimbabwe       | 2002-01-12 |
+| 89.3       | JW Gleeson          | 5/125    | Australia v South Africa   | 1970-02-19 |
+| 87.2       | Bhuvneshwar Kumar   | 5/33     | India v West Indies        | 2016-08-09 |
+| 87.1       | NM Lyon             | 5/68     | Australia v West Indies    | 2012-04-15 |
+| 86.3       | DJG Sammy           | 5/70     | West Indies v Bangladesh   | 2009-07-09 |
+| 86.2       | Mohammad Abbas      | 5/46     | Pakistan v West Indies     | 2017-05-10 |
+| 85.4       | Shakib Al Hasan     | 5/148    | Bangladesh v Sri Lanka     | 2014-02-04 |
+| 85.3       | CEL Ambrose         | 5/94     | West Indies v Australia    | 1999-04-03 |
+| 85.2       | Imran Khan          | 5/58     | Pakistan v Sri Lanka       | 2015-07-03 |
+| 85.2       | HMRKB Herath        | 6/81     | Sri Lanka v Australia      | 2016-08-13 |
+| 84.3       | D Gough             | 5/103    | England v Australia        | 2001-08-16 |
+| 84.3       | Shakib Al Hasan     | 5/63     | Bangladesh v West Indies   | 2011-10-29 |
+| 83.0       | PS Heine            | 6/96     | South Africa v Australia   | 1958-02-07 |
+| 82.4       | CRD Fernando        | 5/42     | Sri Lanka v India          | 2001-08-14 |
+| 82.2       | CEL Ambrose         | 5/52     | West Indies v England      | 1998-02-05 |
+| 81.1       | ST Jayasuriya       | 5/43     | Sri Lanka v Zimbabwe       | 2002-01-12 |
+| 80.3       | MG Johnson          | 5/63     | Australia v England        | 2013-12-26 |
+| 80.1       | TA Boult            | 5/57     | New Zealand v England      | 2013-05-24 |
+| 78.3       | JM Bird             | 5/59     | Australia v New Zealand    | 2016-02-20 |
+| 78.2       | M Muralitharan      | 5/153    | Sri Lanka v Australia      | 2004-03-08 |
+| 77.4       | MG Melle            | 5/113    | South Africa v Australia   | 1950-02-10 |
+| 77.3       | SCJ Broad           | 5/85     | England v West Indies      | 2009-02-04 |
+| 76.2       | Bilal Asif          | 5/65     | Pakistan v New Zealand     | 2018-12-03 |
+| 75.4       | Shahid Afridi       | 5/52     | Pakistan v Australia       | 1998-10-22 |
+| 74.3       | N Wagner            | 5/44     | New Zealand v England      | 2019-11-21 |
+| 73.6       | PHT Kaushal         | 5/134    | Sri Lanka v India          | 2015-08-12 |
+| 73.5       | M Muralitharan      | 6/126    | Sri Lanka v West Indies    | 2001-11-13 |
+| 73.5       | RA Jadeja           | 5/152    | India v Sri Lanka          | 2017-08-03 |
+| 73.3       | Harbhajan Singh     | 5/115    | India v England            | 2002-09-05 |
+| 72.6       | BAW Mendis          | 6/169    | Sri Lanka v West Indies    | 2010-11-15 |
+| 72.3       | Nauman Ali          | 5/35     | Pakistan v South Africa    | 2021-01-26 |
+| 72.2       | A Flintoff          | 5/78     | England v Australia        | 2005-09-08 |
+| 71.1       | VC Drakes           | 5/93     | West Indies v Australia    | 2003-04-10 |
+| 70.3       | Bhuvneshwar Kumar   | 5/82     | India v England            | 2014-07-09 |
+| 69.6       | HMRKB Herath        | 5/125    | Sri Lanka v Pakistan       | 2014-01-16 |
+| 69.4       | NM Lyon             | 5/67     | Australia v India          | 2018-12-14 |
+| 68.1       | Harbhajan Singh     | 5/138    | India v West Indies        | 2002-05-18 |
+| 68.1       | M Muralitharan      | 5/123    | Sri Lanka v Australia      | 2004-03-24 |
+| 67.4       | DL Vettori          | 5/152    | New Zealand v Australia    | 2004-11-26 |
+| 66.3       | DW Steyn            | 6/100    | South Africa v India       | 2013-12-26 |
+| 66.1       | M Muralitharan      | 5/122    | Sri Lanka v South Africa   | 2000-12-26 |
+| 65.2       | JM Anderson         | 5/46     | England v West Indies      | 2019-01-23 |
+| 64.5       | M Muralitharan      | 6/131    | Sri Lanka v South Africa   | 2006-07-27 |
+| 64.2       | PR Adams            | 5/69     | South Africa v Bangladesh  | 2003-04-24 |
+| 63.5       | SM Pollock          | 6/50     | South Africa v Pakistan    | 1998-02-26 |
+| 63.4       | JH Wardle           | 5/53     | England v South Africa     | 1957-01-01 |
+| 63.4       | Sikandar Raza       | 5/99     | Zimbabwe v West Indies     | 2017-10-29 |
+| 63.1       | Saeed Ajmal         | 5/82     | Pakistan v England         | 2010-08-06 |
+| 62.6       | PM Siddle           | 5/71     | Australia v India          | 2013-03-14 |
+| 62.4       | CL Cairns           | 5/146    | New Zealand v Australia    | 2001-11-08 |
+| 62.3       | M Muralitharan      | 5/173    | Sri Lanka v Australia      | 2004-03-16 |
+| 62.2       | Harbhajan Singh     | 5/51     | India v England            | 2001-12-03 |
+| 61.6       | Danish Kaneria      | 5/181    | Pakistan v West Indies     | 2006-11-19 |
+| 61.4       | SK Warne            | 5/113    | Australia v South Africa   | 2001-12-14 |
+| 61.4       | KA Maharaj          | 5/180    | South Africa v England     | 2020-01-16 |
+| 61.2       | P Kumar             | 5/106    | India v England            | 2011-07-21 |
+| 61.2       | BAW Mendis          | 6/99     | Sri Lanka v Bangladesh     | 2014-02-04 |
+| 60.6       | NM Lyon             | 5/92     | Australia v India          | 2017-03-25 |
+| 60.4       | Harbhajan Singh     | 5/115    | India v West Indies        | 2002-10-30 |
+| 60.4       | A Kumble            | 6/176    | India v Australia          | 2003-12-26 |
+| 60.3       | Saeed Ajmal         | 5/68     | Pakistan v Sri Lanka       | 2011-10-26 |
+| 59.5       | Saqlain Mushtaq     | 6/46     | Pakistan v Australia       | 1999-11-18 |
+| 59.5       | M Ntini             | 5/94     | South Africa v West Indies | 2003-12-12 |
+| 59.5       | MR Gillespie        | 5/136    | New Zealand v South Africa | 2007-11-16 |
+| 59.5       | MJ Leach            | 5/122    | England v Sri Lanka        | 2021-01-14 |
+| 59.3       | SM Pollock          | 5/83     | South Africa v West Indies | 1998-12-26 |
+| 59.3       | Enamul Haque        | 5/105    | Bangladesh v Zimbabwe      | 2005-01-14 |
+| 59.2       | Bilal Asif          | 6/36     | Pakistan v Australia       | 2018-10-07 |
+| 58.6       | SM Pollock          | 6/78     | South Africa v Pakistan    | 2003-10-24 |
+| 58.5       | MJ Hoggard          | 5/73     | England v Bangladesh       | 2005-06-03 |
+| 58.5       | JH Kallis           | 5/30     | South Africa v Bangladesh  | 2008-02-22 |
+| 58.4       | MJ Clarke           | 6/9      | Australia v India          | 2004-11-03 |
+| 58.3       | JN Gillespie        | 5/88     | Australia v England        | 1998-11-28 |
+| 58.3       | A Kumble            | 6/72     | India v Sri Lanka          | 2005-12-10 |
+| 58.1       | PJ Wiseman          | 5/90     | New Zealand v Zimbabwe     | 2000-09-12 |
+| 58.1       | CS Martin           | 6/76     | New Zealand v South Africa | 2004-03-18 |
+| 57.6       | MVT Fernando        | 5/101    | Sri Lanka v South Africa   | 2021-01-03 |
+| 57.5       | AN Connolly         | 6/47     | Australia v South Africa   | 1970-03-05 |
+| 57.5       | M Muralitharan      | 7/97     | Sri Lanka v South Africa   | 2006-08-04 |
+| 57.5       | KAJ Roach           | 5/60     | West Indies v New Zealand  | 2012-07-25 |
+| 57.3       | RL Chase            | 5/83     | West Indies v Sri Lanka    | 2021-11-21 |
+| 57.2       | V Sehwag            | 5/104    | India v Australia          | 2008-10-29 |
+| 57.1       | Saeed Ajmal         | 5/69     | Pakistan v West Indies     | 2011-05-12 |
+| 57.1       | NM Lyon             | 6/122    | Australia v India          | 2018-12-06 |
+| 56.6       | Sohag Gazi          | 6/77     | Bangladesh v New Zealand   | 2013-10-09 |
+| 56.5       | Mehedi Hasan Miraz  | 5/82     | Bangladesh v Zimbabwe      | 2021-07-07 |
+| 56.3       | DJG Sammy           | 5/29     | West Indies v Pakistan     | 2011-05-12 |
+| 56.3       | MM Ali              | 5/63     | England v India            | 2018-08-30 |
+| 55.5       | JE Emburey          | 5/124    | England v West Indies      | 1981-02-13 |
+| 55.4       | M Muralitharan      | 5/71     | Sri Lanka v Australia      | 1999-09-22 |
+| 55.4       | SCJ Broad           | 5/69     | England v South Africa     | 2012-08-02 |
+| 55.1       | MJ North            | 6/55     | Australia v Pakistan       | 2010-07-13 |
+| 55.1       | KC Brathwaite       | 6/29     | West Indies v Sri Lanka    | 2015-10-22 |
+| 54.7       | RR Lindwall         | 5/32     | Australia v South Africa   | 1949-12-31 |
+| 54.6       | Saqlain Mushtaq     | 8/164    | Pakistan v England         | 2000-11-15 |
+| 54.4       | M Muralitharan      | 7/84     | Sri Lanka v South Africa   | 2000-07-20 |
+| 54.4       | J Srinath           | 5/114    | India v Sri Lanka          | 2001-08-14 |
+| 54.3       | Danish Kaneria      | 5/46     | Pakistan v South Africa    | 2003-10-17 |
+| 54.2       | Shakib Al Hasan     | 5/80     | Bangladesh v Zimbabwe      | 2014-11-03 |
+| 54.2       | Yasir Shah          | 6/96     | Pakistan v Sri Lanka       | 2015-06-25 |
+| 54.1       | DL Vettori          | 5/66     | New Zealand v England      | 2008-05-23 |
+| 53.4       | Harbhajan Singh     | 7/123    | India v Australia          | 2001-03-11 |
+| 53.4       | Z Khan              | 5/72     | India v Sri Lanka          | 2009-12-02 |
+| 53.3       | SCG MacGill         | 7/104    | Australia v West Indies    | 2001-01-02 |
+| 53.3       | DL Vettori          | 5/69     | New Zealand v England      | 2008-05-15 |
+| 52.6       | SE Bond             | 5/69     | New Zealand v West Indies  | 2006-03-09 |
+| 52.6       | Sohag Gazi          | 6/74     | Bangladesh v West Indies   | 2012-11-13 |
+| 52.5       | R Ashwin            | 5/156    | India v West Indies        | 2011-11-22 |
+| 52.3       | RA Jadeja           | 5/73     | India v New Zealand        | 2016-09-22 |
+| 51.7       | PH Edmonds          | 7/66     | England v Pakistan         | 1978-01-18 |
+| 51.6       | K Rabada            | 5/96     | South Africa v Australia   | 2018-03-09 |
+| 51.4       | GD McKenzie         | 5/65     | Australia v South Africa   | 1967-02-24 |
+| 51.4       | Shakib Al Hasan     | 6/82     | Bangladesh v Pakistan      | 2011-12-17 |
+| 51.3       | ST Gabriel          | 5/75     | West Indies v England      | 2020-07-08 |
+| 51.2       | Shoaib Akhtar       | 5/43     | Pakistan v South Africa    | 1998-02-26 |
+| 51.2       | SCG MacGill         | 5/87     | Australia v Pakistan       | 2005-01-02 |
+| 51.1       | A Kumble            | 7/48     | India v Australia          | 2004-10-14 |
+| 51.1       | PM Siddle           | 6/75     | Australia v England        | 2010-12-26 |
+| 50.5       | Harbhajan Singh     | 5/164    | India v South Africa       | 2008-03-26 |
+| 50.4       | SM Pollock          | 5/28     | South Africa v West Indies | 2001-04-19 |
+| 50.4       | SCG MacGill         | 8/108    | Australia v Bangladesh     | 2006-04-09 |
+| 50.3       | RGD Willis          | 6/53     | England v India            | 1977-01-28 |
+| 50.3       | SK Warne            | 5/48     | Australia v West Indies    | 2005-11-03 |
+| 50.2       | IT Botham           | 5/73     | England v New Zealand      | 1978-02-24 |
+| 50.2       | UDU Chandana        | 5/101    | Sri Lanka v Australia      | 2004-07-09 |
+| 50.2       | MM Ali              | 5/69     | England v South Africa     | 2017-08-04 |
+| 50.1       | PADLR Sandakan      | 5/132    | Sri Lanka v India          | 2017-08-12 |
+| 50.1       | L Ambuldeniya       | 5/114    | Sri Lanka v Zimbabwe       | 2020-01-19 |
+| 49.6       | D Bishoo            | 5/90     | West Indies v Bangladesh   | 2011-10-29 |
+| 49.6       | TG Southee          | 6/50     | New Zealand v England      | 2013-05-16 |
+| 49.5       | CL Hooper           | 5/80     | West Indies v England      | 1998-03-12 |
+| 49.4       | DL Vettori          | 5/138    | New Zealand v Australia    | 2001-11-22 |
+| 49.4       | CH Gayle            | 5/34     | West Indies v England      | 2004-07-29 |
+| 49.4       | JM Anderson         | 5/80     | England v Australia        | 2009-07-30 |
+| 49.4       | KA Maharaj          | 5/123    | South Africa v Australia   | 2018-03-01 |
+| 49.4       | Rashid Khan         | 5/82     | Afghanistan v Ireland      | 2019-03-15 |
+| 49.3       | PR Adams            | 5/37     | South Africa v Bangladesh  | 2003-04-24 |
+| 49.3       | NM Lyon             | 5/134    | Australia v India          | 2014-12-09 |
+| 48.5       | Abdur Razzaq        | 5/35     | Pakistan v Sri Lanka       | 2004-10-28 |
+| 48.3       | Junaid Khan         | 5/38     | Pakistan v Sri Lanka       | 2011-10-18 |
+| 48.3       | R Ashwin            | 6/54     | India v New Zealand        | 2012-08-23 |
+| 48.3       | HMRKB Herath        | 5/68     | Sri Lanka v Bangladesh     | 2013-03-16 |
+| 48.2       | SCG MacGill         | 5/57     | Australia v England        | 1999-01-02 |
+| 48.2       | SJ Benn             | 5/155    | West Indies v Australia    | 2009-12-04 |
+| 48.1       | SCJ Broad           | 6/50     | England v Australia        | 2013-08-09 |
+| 47.8       | Abdul Qadir         | 6/44     | Pakistan v England         | 1978-01-02 |
+| 47.5       | AA Donald           | 5/109    | South Africa v England     | 1998-07-23 |
+| 47.4       | DL Underwood        | 5/28     | England v Sri Lanka        | 1982-02-17 |
+| 47.4       | HMRKB Herath        | 5/93     | Sri Lanka v Pakistan       | 2017-09-28 |
+| 47.4       | OE Robinson         | 5/65     | England v India            | 2021-08-25 |
+| 47.3       | SK Warne            | 5/52     | Australia v Sri Lanka      | 1999-09-09 |
+| 47.3       | AU Rashid           | 5/49     | England v Sri Lanka        | 2018-11-23 |
+| 47.2       | I Meckiff           | 5/125    | Australia v South Africa   | 1957-12-23 |
+| 46.6       | Mohammad Sami       | 5/36     | Pakistan v New Zealand     | 2001-03-08 |
+| 46.6       | JM Anderson         | 5/102    | England v South Africa     | 2003-08-14 |
+| 46.3       | CA Walsh            | 5/83     | West Indies v Pakistan     | 2000-05-25 |
+| 46.2       | R Benaud            | 5/84     | Australia v South Africa   | 1958-02-07 |
+| 46.2       | SK Warne            | 5/39     | Australia v England        | 2006-12-26 |
+| 46.1       | DJ Terbrugge        | 5/46     | South Africa v Bangladesh  | 2002-10-18 |
+| 46.1       | Jubair Hossain      | 5/96     | Bangladesh v Zimbabwe      | 2014-11-12 |
+| 45.6       | Harbhajan Singh     | 5/71     | India v England            | 2001-12-11 |
+| 45.5       | Mohammed Shami      | 5/112    | India v Australia          | 2015-01-06 |
+| 45.4       | DAJ Bracewell       | 6/40     | New Zealand v Australia    | 2011-12-09 |
+| 45.3       | S Shillingford      | 6/119    | West Indies v Australia    | 2012-04-23 |
+| 45.1       | AA Nortje           | 5/110    | South Africa v England     | 2020-01-24 |
+| 44.6       | A Nel               | 6/81     | South Africa v England     | 2005-01-21 |
+| 44.5       | JE Emburey          | 6/33     | England v Sri Lanka        | 1982-02-17 |
+| 44.5       | Danish Kaneria      | 5/62     | Pakistan v Sri Lanka       | 2009-07-20 |
+| 44.4       | J Srinath           | 5/140    | India v South Africa       | 2001-11-03 |
+| 44.4       | PJ Cummins          | 5/83     | Australia v South Africa   | 2018-03-30 |
+| 44.0       | GO Rabone           | 6/68     | New Zealand v South Africa | 1954-01-01 |
+| 43.6       | SCJ Broad           | 6/46     | England v India            | 2011-07-29 |
+| 43.5       | AW Greig            | 5/24     | England v India            | 1972-12-30 |
+| 43.5       | RL Chase            | 8/60     | West Indies v England      | 2019-01-23 |
+| 43.4       | Waqar Younis        | 6/55     | Pakistan v Bangladesh      | 2002-01-09 |
+| 43.4       | JM Anderson         | 5/62     | England v India            | 2021-08-12 |
+| 43.3       | SCG MacGill         | 5/77     | Australia v Bangladesh     | 2003-07-25 |
+| 43.3       | R Ashwin            | 6/55     | India v England            | 2016-12-08 |
+| 43.2       | N Wagner            | 5/45     | New Zealand v Bangladesh   | 2019-03-08 |
+| 43.1       | NM Lyon             | 5/130    | Australia v South Africa   | 2014-02-20 |
+| 42.4       | JM Anderson         | 5/73     | England v Australia        | 2013-07-10 |
+| 42.3       | AA Donald           | 5/47     | South Africa v England     | 2000-01-02 |
+| 42.3       | Saqlain Mushtaq     | 5/121    | Pakistan v West Indies     | 2000-05-18 |
+| 42.2       | RW Price            | 6/73     | Zimbabwe v West Indies     | 2003-11-04 |
+| 42.2       | Taijul Islam        | 5/135    | Bangladesh v West Indies   | 2014-09-05 |
+| 42.1       | Danish Kaneria      | 5/127    | Pakistan v India           | 2005-03-24 |
+| 42.1       | BAW Mendis          | 5/56     | Sri Lanka v India          | 2008-08-08 |
+| 41.5       | PL Harris           | 5/123    | South Africa v England     | 2009-12-16 |
+| 41.4       | JJ Bumrah           | 5/54     | India v South Africa       | 2018-01-24 |
+| 41.3       | Saqlain Mushtaq     | 5/94     | Pakistan v India           | 1999-02-04 |
+| 41.3       | RW Price            | 5/181    | Zimbabwe v South Africa    | 2001-09-14 |
+| 41.3       | Hasan Ali           | 5/60     | Pakistan v South Africa    | 2021-02-04 |
+| 41.2       | KD Ghavri           | 5/33     | India v England            | 1977-02-11 |
+| 41.2       | D Gough             | 5/70     | England v South Africa     | 1999-11-25 |
+| 41.2       | IK Pathan           | 5/58     | India v Zimbabwe           | 2005-09-13 |
+| 41.2       | HMRKB Herath        | 5/65     | Sri Lanka v New Zealand    | 2012-11-17 |
+| 41.2       | RA Jadeja           | 6/63     | India v Australia          | 2017-03-04 |
+| 41.1       | SK Warne            | 5/110    | Australia v Pakistan       | 1999-11-18 |
+| 41.1       | Danish Kaneria      | 7/168    | Pakistan v New Zealand     | 2009-12-11 |
+| 41.1       | HMRKB Herath        | 5/95     | Sri Lanka v Australia      | 2012-12-14 |
+| 41.1       | AU Rashid           | 5/64     | England v Pakistan         | 2015-10-13 |
+| 41.1       | MM Ali              | 5/57     | England v Bangladesh       | 2016-10-28 |
+| 41.1       | JE Root             | 5/8      | England v India            | 2021-02-24 |
+| 40.5       | DL Vettori          | 5/135    | New Zealand v India        | 2010-11-12 |
+| 40.3       | Shakib Al Hasan     | 5/70     | Bangladesh v Sri Lanka     | 2008-12-26 |
+| 40.3       | HMRKB Herath        | 7/89     | Sri Lanka v Bangladesh     | 2013-03-16 |
+| 40.3       | MA Starc            | 5/54     | Australia v Sri Lanka      | 2019-02-01 |
+| 40.2       | Shakib Al Hasan     | 6/99     | Bangladesh v South Africa  | 2008-11-26 |
+| 39.5       | M Muralitharan      | 5/90     | Sri Lanka v New Zealand    | 1998-05-27 |
+| 39.5       | MR Marsh            | 5/46     | Australia v England        | 2019-09-12 |
+| 39.4       | Shakib Al Hasan     | 5/121    | Bangladesh v England       | 2010-06-04 |
+| 39.4       | RA Jadeja           | 7/48     | India v England            | 2016-12-16 |
+| 39.3       | Saqlain Mushtaq     | 5/32     | Pakistan v Zimbabwe        | 1998-12-10 |
+| 39.3       | A Kumble            | 7/115    | India v England            | 2001-12-11 |
+| 39.2       | RG Barlow           | 5/19     | England v Australia        | 1882-08-28 |
+| 39.2       | M Muralitharan      | 5/116    | Sri Lanka v England        | 2007-12-09 |
+| 39.2       | DL Vettori          | 6/56     | New Zealand v West Indies  | 2008-12-11 |
+| 39.2       | NM Lyon             | 5/69     | Australia v Pakistan       | 2019-11-29 |
+| 39.1       | TL Goddard          | 6/53     | South Africa v Australia   | 1966-12-23 |
+| 39.1       | DL Vettori          | 5/106    | New Zealand v Australia    | 2005-03-10 |
+| 38.6       | HJ Tayfield         | 5/130    | South Africa v England     | 1957-01-01 |
+| 38.5       | SE Bond             | 5/78     | New Zealand v West Indies  | 2002-06-21 |
+| 38.5       | UT Yadav            | 5/93     | India v Australia          | 2012-01-13 |
+| 38.5       | N Wagner            | 5/86     | New Zealand v South Africa | 2016-08-27 |
+| 38.5       | JR Hazlewood        | 5/57     | Australia v India          | 2021-01-15 |
+| 38.4       | M Morkel            | 5/54     | South Africa v Pakistan    | 2010-11-12 |
+| 38.4       | TG Southee          | 5/61     | New Zealand v India        | 2020-02-21 |
+| 38.3       | Arshad Khan         | 5/38     | Pakistan v Sri Lanka       | 1999-03-12 |
+| 38.3       | SP Narine           | 5/132    | West Indies v New Zealand  | 2012-07-25 |
+| 38.2       | ST Finn             | 5/87     | England v Bangladesh       | 2010-05-27 |
+| 38.2       | R Ashwin            | 6/112    | India v England            | 2016-12-08 |
+| 38.1       | PADLR Sandakan      | 5/95     | Sri Lanka v England        | 2018-11-23 |
+| 38.0       | HD Bromfield        | 5/88     | South Africa v England     | 1965-01-01 |
+| 37.5       | MA Holding          | 5/56     | West Indies v England      | 1981-04-10 |
+| 37.5       | MS Kasprowicz       | 5/28     | Australia v India          | 1998-03-25 |
+| 37.3       | PM Siddle           | 6/54     | Australia v England        | 2010-11-25 |
+| 37.3       | OE Robinson         | 5/85     | England v India            | 2021-08-04 |
+| 36.5       | SM Pollock          | 5/53     | South Africa v England     | 1998-08-06 |
+| 36.5       | Saqlain Mushtaq     | 7/66     | Pakistan v Zimbabwe        | 2002-11-16 |
+| 36.5       | CS Martin           | 5/55     | New Zealand v South Africa | 2004-03-26 |
+| 36.5       | MS Panesar          | 5/78     | England v Sri Lanka        | 2006-06-02 |
+| 36.4       | Z Khan              | 5/53     | India v New Zealand        | 2002-12-12 |
+| 36.4       | Mohammad Rafique    | 5/36     | Bangladesh v Pakistan      | 2003-09-03 |
+| 36.4       | TA Boult            | 6/30     | New Zealand v Sri Lanka    | 2018-12-26 |
+| 36.3       | DW Steyn            | 5/29     | South Africa v West Indies | 2010-06-10 |
+| 36.3       | KA Maharaj          | 5/36     | South Africa v West Indies | 2021-06-18 |
+| 36.2       | M Muralitharan      | 5/44     | Sri Lanka v West Indies    | 2001-11-13 |
+| 36.2       | Sikandar Raza       | 7/113    | Zimbabwe v Sri Lanka       | 2020-01-27 |
+| 36.1       | ST Finn             | 6/125    | England v Australia        | 2010-11-25 |
+| 35.6       | RP Singh            | 5/59     | India v England            | 2007-07-19 |
+| 35.5       | A Kumble            | 6/81     | India v England            | 2001-12-03 |
+| 35.5       | R Ashwin            | 7/83     | India v West Indies        | 2016-07-21 |
+| 35.3       | RW Price            | 5/199    | Zimbabwe v West Indies     | 2003-11-12 |
+| 35.3       | VD Philander        | 6/81     | South Africa v New Zealand | 2012-03-23 |
+| 35.3       | RAS Lakmal          | 5/63     | Sri Lanka v South Africa   | 2016-12-26 |
+| 35.3       | BE Hendricks        | 5/64     | South Africa v England     | 2020-01-24 |
+| 35.1       | HJ Tayfield         | 8/69     | South Africa v England     | 1957-01-25 |
+| 35.1       | Saqlain Mushtaq     | 5/93     | Pakistan v India           | 1999-01-28 |
+| 35.1       | SCG MacGill         | 5/75     | Australia v West Indies    | 2003-05-01 |
+| 35.1       | SCG MacGill         | 5/65     | Australia v Bangladesh     | 2003-07-18 |
+| 35.1       | GP Swann            | 6/106    | England v Sri Lanka        | 2012-04-03 |
+| 34.6       | PR Adams            | 7/128    | South Africa v Pakistan    | 2003-10-17 |
+| 34.5       | A Kumble            | 5/89     | India v Sri Lanka          | 2005-12-18 |
+| 34.5       | Harbhajan Singh     | 6/102    | India v Sri Lanka          | 2008-07-31 |
+| 34.5       | Yasir Shah          | 5/78     | Pakistan v Sri Lanka       | 2015-07-03 |
+| 34.4       | R Benaud            | 5/82     | Australia v South Africa   | 1958-02-28 |
+| 34.3       | R Benaud            | 5/49     | Australia v South Africa   | 1957-12-31 |
+| 34.3       | KA Maharaj          | 5/94     | South Africa v New Zealand | 2017-03-08 |
+| 34.3       | KA Maharaj          | 9/129    | South Africa v Sri Lanka   | 2018-07-20 |
+| 34.2       | C White             | 5/127    | England v Australia        | 2002-11-29 |
+| 34.2       | GP Swann            | 5/110    | England v South Africa     | 2009-12-16 |
+| 34.2       | R Ashwin            | 6/81     | India v New Zealand        | 2016-10-08 |
+| 34.1       | M Muralitharan      | 6/55     | Sri Lanka v England        | 2007-12-01 |
+| 34.1       | JM Anderson         | 5/65     | England v India            | 2011-07-21 |
+| 33.6       | DW Steyn            | 5/87     | South Africa v Australia   | 2008-12-26 |
+| 33.5       | A Kumble            | 5/63     | India v Zimbabwe           | 2002-02-21 |
+| 33.5       | A Kumble            | 5/76     | India v England            | 2006-03-09 |
+| 33.5       | MR Gillespie        | 6/113    | New Zealand v South Africa | 2012-03-23 |
+| 33.5       | NM Lyon             | 5/68     | Australia v New Zealand    | 2020-01-03 |
+| 33.4       | M Muralitharan      | 8/87     | Sri Lanka v India          | 2001-08-29 |
+| 33.4       | B Lee               | 5/93     | Australia v South Africa   | 2005-12-16 |
+| 33.4       | A Kumble            | 5/84     | India v Australia          | 2007-12-26 |
+| 33.4       | Yasir Shah          | 7/94     | Pakistan v West Indies     | 2017-04-30 |
+| 33.4       | BA Stokes           | 6/22     | England v West Indies      | 2017-09-07 |
+| 33.4       | Yasir Shah          | 5/110    | Pakistan v New Zealand     | 2018-11-16 |
+| 33.3       | SR Watson           | 6/33     | Australia v Pakistan       | 2010-07-21 |
+| 33.3       | SJ Benn             | 5/39     | West Indies v Bangladesh   | 2014-09-05 |
+| 33.3       | JR Hazlewood        | 5/68     | Australia v India          | 2014-12-17 |
+| 33.2       | M Muralitharan      | 7/155    | Sri Lanka v England        | 1998-08-27 |
+| 33.2       | CS Martin           | 5/152    | New Zealand v Australia    | 2004-11-18 |
+| 33.2       | GP Swann            | 5/165    | England v West Indies      | 2009-02-26 |
+| 33.1       | Saqlain Mushtaq     | 5/122    | Pakistan v India           | 1999-02-04 |
+| 33.1       | JO Holder           | 6/42     | West Indies v England      | 2020-07-08 |
+| 32.6       | GD McGrath          | 5/92     | Australia v West Indies    | 1999-03-26 |
+| 32.6       | MS Panesar          | 6/137    | England v West Indies      | 2007-06-07 |
+| 32.6       | R Ashwin            | 5/57     | India v Australia          | 2013-03-22 |
+| 32.6       | Saeed Ajmal         | 6/151    | Pakistan v South Africa    | 2013-10-23 |
+| 32.5       | FJ Cameron          | 5/83     | New Zealand v South Africa | 1961-12-26 |
+| 32.5       | FH Edwards          | 6/92     | West Indies v England      | 2009-05-06 |
+| 32.5       | Junaid Khan         | 5/87     | Pakistan v Sri Lanka       | 2014-08-14 |
+| 32.4       | CH Gayle            | 5/91     | West Indies v Pakistan     | 2005-05-26 |
+| 32.3       | JN Gillespie        | 5/39     | Australia v West Indies    | 2003-04-10 |
+| 32.3       | Mohammad Asif       | 5/77     | Pakistan v England         | 2010-07-29 |
+| 32.3       | MA Starc            | 6/154    | Australia v South Africa   | 2012-11-30 |
+| 32.2       | DL Vettori          | 5/62     | New Zealand v Australia    | 2000-03-11 |
+| 32.2       | DL Vettori          | 5/59     | New Zealand v Bangladesh   | 2008-10-17 |
+| 32.1       | WA Johnston         | 6/44     | Australia v South Africa   | 1949-12-24 |
+| 32.1       | DW Steyn            | 6/34     | South Africa v West Indies | 2014-12-17 |
+| 31.6       | A Kumble            | 5/30     | India v West Indies        | 2002-10-17 |
+| 31.6       | A Flintoff          | 5/58     | England v West Indies      | 2004-04-01 |
+| 31.6       | Danish Kaneria      | 5/151    | Pakistan v Australia       | 2010-01-03 |
+| 31.6       | SCJ Broad           | 7/72     | England v West Indies      | 2012-05-17 |
+| 31.6       | Mohammed Shami      | 5/47     | India v West Indies        | 2013-11-06 |
+| 31.5       | SK Warne            | 5/39     | Australia v New Zealand    | 2005-03-10 |
+| 31.5       | BAW Mendis          | 6/117    | Sri Lanka v India          | 2008-07-31 |
+| 31.4       | Shabbir Ahmed       | 5/48     | Pakistan v Bangladesh      | 2003-08-20 |
+| 31.4       | M Muralitharan      | 6/45     | Sri Lanka v Zimbabwe       | 2004-05-06 |
+| 31.4       | Harbhajan Singh     | 6/78     | India v Australia          | 2004-10-06 |
+| 31.4       | Mohammad Rafique    | 5/114    | Bangladesh v Sri Lanka     | 2005-09-12 |
+| 31.4       | PP Ojha             | 5/143    | India v England            | 2012-11-23 |
+| 31.3       | NM Hauritz          | 5/101    | Australia v Pakistan       | 2009-12-26 |
+| 31.3       | UT Yadav            | 6/88     | India v West Indies        | 2018-10-12 |
+| 31.2       | ST Jayasuriya       | 5/34     | Sri Lanka v South Africa   | 2004-08-11 |
+| 31.2       | SK Warne            | 5/113    | Australia v Bangladesh     | 2006-04-16 |
+| 31.2       | GF Linde            | 5/64     | South Africa v Pakistan    | 2021-02-04 |
+| 31.1       | DA Allen            | 5/41     | England v South Africa     | 1964-12-04 |
+| 31.1       | RW Price            | 6/121    | Zimbabwe v Australia       | 2003-10-17 |
+| 31.1       | A Kumble            | 8/141    | India v Australia          | 2004-01-02 |
+| 31.1       | KA Maharaj          | 6/40     | South Africa v New Zealand | 2017-03-16 |
+| 30.6       | M Muralitharan      | 5/79     | Sri Lanka v West Indies    | 2008-04-03 |
+| 30.6       | GP Swann            | 5/76     | England v Bangladesh       | 2010-06-04 |
+| 30.4       | PM Such             | 5/81     | England v Australia        | 1999-01-02 |
+| 30.4       | TA Boult            | 6/40     | New Zealand v West Indies  | 2013-12-11 |
+| 30.3       | N Boje              | 5/62     | South Africa v Sri Lanka   | 2000-08-06 |
+| 30.3       | M Muralitharan      | 5/68     | Sri Lanka v South Africa   | 2000-08-06 |
+| 30.3       | DL Vettori          | 6/87     | New Zealand v Australia    | 2001-11-30 |
+| 30.3       | M Siraj             | 5/73     | India v Australia          | 2021-01-15 |
+| 30.2       | SCG MacGill         | 5/66     | Australia v Pakistan       | 1998-10-01 |
+| 30.2       | Danish Kaneria      | 5/110    | Pakistan v New Zealand     | 2002-05-01 |
+| 30.2       | SJ Benn             | 5/120    | West Indies v South Africa | 2010-06-10 |
+| 30.1       | FH Edwards          | 5/76     | West Indies v India        | 2011-06-28 |
+| 30.1       | PP Ojha             | 5/40     | India v West Indies        | 2013-11-14 |
+| 30.1       | MDK Perera          | 5/98     | Sri Lanka v Pakistan       | 2017-10-06 |
+| 30.1       | VD Philander        | 6/21     | South Africa v Australia   | 2018-03-30 |
+| 30.1       | LT Ngidi            | 5/19     | South Africa v West Indies | 2021-06-10 |
+| 29.6       | DL Underwood        | 5/84     | England v India            | 1977-02-11 |
+| 29.6       | KJ Abbott           | 5/40     | South Africa v India       | 2015-12-03 |
+| 29.5       | HMRKB Herath        | 5/79     | Sri Lanka v South Africa   | 2011-12-26 |
+| 29.5       | GP Swann            | 5/144    | England v India            | 2012-11-15 |
+| 29.4       | AG Cremer           | 5/125    | Zimbabwe v Sri Lanka       | 2017-07-14 |
+| 29.4       | Mohammad Abbas      | 5/66     | Pakistan v Ireland         | 2018-05-11 |
+| 29.3       | ARC Fraser          | 5/40     | England v West Indies      | 1998-02-13 |
+| 29.3       | RW Price            | 5/182    | Zimbabwe v India           | 2002-02-21 |
+| 29.3       | GP Swann            | 6/65     | England v Pakistan         | 2010-08-06 |
+| 29.3       | M Morkel            | 5/23     | South Africa v Australia   | 2018-03-22 |
+| 29.2       | S Sreesanth         | 5/75     | India v Sri Lanka          | 2009-11-24 |
+| 29.2       | GP Swann            | 5/91     | England v Australia        | 2010-12-03 |
+| 29.2       | HMRKB Herath        | 5/79     | Sri Lanka v Australia      | 2011-08-31 |
+| 29.2       | I Sharma            | 7/74     | India v England            | 2014-07-17 |
+| 29.1       | SK Warne            | 6/161    | Australia v South Africa   | 2002-03-08 |
+| 29.1       | SCG MacGill         | 5/56     | Australia v Bangladesh     | 2003-07-25 |
+| 29.1       | Nayeem Hasan        | 5/61     | Bangladesh v West Indies   | 2018-11-22 |
+| 28.6       | SCJ Broad           | 6/91     | England v Australia        | 2009-08-07 |
+| 28.5       | GD McGrath          | 5/21     | Australia v South Africa   | 2002-02-22 |
+| 28.5       | SE Bond             | 5/107    | New Zealand v Pakistan     | 2009-11-24 |
+| 28.4       | CR Miller           | 5/32     | Australia v West Indies    | 2000-12-15 |
+| 28.4       | NM Lyon             | 5/50     | Australia v England        | 2013-12-26 |
+| 28.3       | S Sreesanth         | 5/114    | India v South Africa       | 2011-01-02 |
+| 28.3       | PHT Kaushal         | 5/42     | Sri Lanka v Pakistan       | 2015-06-25 |
+| 28.3       | Yasir Shah          | 6/72     | Pakistan v England         | 2016-07-14 |
+| 28.2       | GP Swann            | 5/57     | England v West Indies      | 2009-02-15 |
+| 28.2       | SJ Benn             | 5/93     | West Indies v New Zealand  | 2014-06-26 |
+| 27.7       | RGD Willis          | 5/32     | England v New Zealand      | 1978-02-10 |
+| 27.6       | AF Giles            | 5/116    | England v Sri Lanka        | 2003-12-10 |
+| 27.6       | JE Taylor           | 5/91     | West Indies v Pakistan     | 2006-11-19 |
+| 27.5       | A Kumble            | 5/62     | India v Australia          | 1998-03-18 |
+| 27.5       | BKV Prasad          | 5/72     | India v Sri Lanka          | 2001-08-22 |
+| 27.5       | JR Hazlewood        | 6/89     | Australia v South Africa   | 2016-11-12 |
+| 27.5       | NM Lyon             | 8/50     | Australia v India          | 2017-03-04 |
+| 27.4       | M Muralitharan      | 5/115    | Sri Lanka v Pakistan       | 2000-06-14 |
+| 27.4       | HMRKB Herath        | 6/59     | Sri Lanka v Bangladesh     | 2017-03-07 |
+| 27.4       | Rashid Khan         | 7/137    | Afghanistan v Zimbabwe     | 2021-03-10 |
+| 27.3       | WA Johnston         | 5/36     | Australia v England        | 1948-06-10 |
+| 27.3       | JJC Lawson          | 6/3      | West Indies v Bangladesh   | 2002-12-08 |
+| 27.3       | R Ashwin            | 5/67     | India v England            | 2016-11-17 |
+| 27.2       | SM Katich           | 6/65     | Australia v Zimbabwe       | 2003-10-17 |
+| 27.2       | Danish Kaneria      | 5/125    | Pakistan v Australia       | 2004-12-26 |
+| 27.2       | M Muralitharan      | 8/70     | Sri Lanka v England        | 2006-06-02 |
+| 27.2       | MA Starc            | 5/34     | Australia v South Africa   | 2018-03-01 |
+| 27.1       | CL McCool           | 5/41     | Australia v South Africa   | 1949-12-31 |
+| 27.1       | Saeed Ajmal         | 7/95     | Pakistan v Zimbabwe        | 2013-09-03 |
+| 27.1       | RA Jadeja           | 6/138    | India v South Africa       | 2013-12-26 |
+| 27.1       | NM Lyon             | 6/82     | Australia v Bangladesh     | 2017-08-27 |
+| 26.6       | KA Maharaj          | 5/59     | South Africa v Zimbabwe    | 2017-12-26 |
+| 26.5       | A Kumble            | 5/154    | India v Australia          | 2003-12-12 |
+| 26.5       | Imran Tahir         | 5/38     | South Africa v India       | 2015-11-25 |
+| 26.4       | JH Kallis           | 5/21     | South Africa v Bangladesh  | 2002-10-25 |
+| 26.4       | CK Langeveldt       | 5/46     | South Africa v England     | 2005-01-02 |
+| 26.4       | SR Watson           | 5/40     | Australia v Pakistan       | 2010-07-13 |
+| 26.4       | ST Finn             | 6/125    | England v New Zealand      | 2013-03-22 |
+| 26.4       | N Wagner            | 5/47     | New Zealand v Bangladesh   | 2019-02-28 |
+| 26.3       | A Kumble            | 6/78     | India v West Indies        | 2006-06-30 |
+| 26.3       | MKPAD Perera        | 5/80     | Sri Lanka v New Zealand    | 2019-08-14 |
+| 26.2       | ARC Fraser          | 5/60     | England v South Africa     | 1998-07-23 |
+| 26.2       | Saqlain Mushtaq     | 5/35     | Pakistan v Bangladesh      | 2002-01-16 |
+| 26.2       | M Muralitharan      | 6/54     | Sri Lanka v Bangladesh     | 2007-07-11 |
+| 26.2       | I Sharma            | 5/51     | India v England            | 2018-08-01 |
+| 26.1       | M Ntini             | 5/19     | South Africa v Bangladesh  | 2002-10-18 |
+| 26.1       | Umar Gul            | 5/123    | Pakistan v England         | 2006-08-04 |
+| 26.1       | MS Panesar          | 6/129    | England v West Indies      | 2007-05-17 |
+| 26.1       | HMRKB Herath        | 7/64     | Sri Lanka v Australia      | 2016-08-13 |
+| 26.1       | D Bishoo            | 5/79     | West Indies v Zimbabwe     | 2017-10-21 |
+| 26.1       | JO Holder           | 5/27     | West Indies v Sri Lanka    | 2021-03-21 |
+| 25.6       | JH Wardle           | 5/61     | England v South Africa     | 1957-01-25 |
+| 25.6       | AK Davidson         | 5/38     | Australia v South Africa   | 1958-02-28 |
+| 25.5       | WPUJC Vaas          | 5/31     | Sri Lanka v Australia      | 2004-07-01 |
+| 25.5       | MG Johnson          | 5/69     | Australia v England        | 2009-08-07 |
+| 25.4       | M Muralitharan      | 5/39     | Sri Lanka v Bangladesh     | 2002-07-21 |
+| 25.4       | SK Warne            | 5/65     | Australia v Sri Lanka      | 2004-03-16 |
+| 25.4       | PAKP Jayawickrama   | 6/92     | Sri Lanka v Bangladesh     | 2021-04-29 |
+| 25.3       | Mushtaq Ahmed       | 6/78     | Pakistan v South Africa    | 1998-02-26 |
+| 25.3       | N Boje              | 5/88     | South Africa v Sri Lanka   | 2004-08-04 |
+| 25.3       | E Chigumbura        | 5/54     | Zimbabwe v Bangladesh      | 2005-01-06 |
+| 25.3       | Harbhajan Singh     | 5/122    | India v Pakistan           | 2007-11-30 |
+| 25.3       | Harbhajan Singh     | 6/63     | India v New Zealand        | 2009-03-18 |
+| 25.3       | R Ashwin            | 5/52     | India v West Indies        | 2016-07-30 |
+| 25.2       | FH Edwards          | 5/36     | West Indies v Sri Lanka    | 2003-06-27 |
+| 25.2       | Harbhajan Singh     | 5/13     | India v West Indies        | 2006-06-30 |
+| 25.1       | NM Lyon             | 7/94     | Australia v India          | 2013-03-22 |
+| 25.1       | JNT Seales          | 5/55     | West Indies v Pakistan     | 2021-08-12 |
+| 24.6       | Rashid Khan         | 5/55     | Afghanistan v Bangladesh   | 2019-09-05 |
+| 24.5       | HJ Tayfield         | 6/78     | South Africa v England     | 1957-03-01 |
+| 24.5       | BS Chandrasekhar    | 8/79     | India v England            | 1972-12-20 |
+| 24.5       | M Hayward           | 5/56     | South Africa v Pakistan    | 2002-12-26 |
+| 24.4       | M Muralitharan      | 5/63     | Sri Lanka v South Africa   | 1998-03-27 |
+| 24.4       | CL Cairns           | 5/31     | New Zealand v England      | 1999-08-19 |
+| 24.4       | RD King             | 5/51     | West Indies v Zimbabwe     | 2000-03-24 |
+| 24.4       | GD McGrath          | 5/54     | Australia v England        | 2001-07-19 |
+| 24.4       | SJ Harmison         | 6/61     | England v West Indies      | 2004-03-19 |
+| 24.4       | L Balaji            | 5/76     | India v Pakistan           | 2005-03-08 |
+| 24.4       | SK Warne            | 6/86     | Australia v South Africa   | 2006-03-24 |
+| 24.4       | HMRKB Herath        | 5/99     | Sri Lanka v Pakistan       | 2009-07-12 |
+| 24.3       | PM Siddle           | 5/59     | Australia v South Africa   | 2009-01-03 |
+| 24.3       | KAJ Roach           | 5/105    | West Indies v Australia    | 2012-04-15 |
+| 24.3       | JJ Bumrah           | 5/85     | India v England            | 2018-08-18 |
+| 24.2       | PS de Villiers      | 6/23     | South Africa v Pakistan    | 1998-03-06 |
+| 24.2       | A Kumble            | 10/74    | India v Pakistan           | 1999-02-04 |
+| 24.2       | SK Warne            | 5/71     | Australia v England        | 2001-07-05 |
+| 24.2       | SL Malinga          | 5/80     | Sri Lanka v New Zealand    | 2005-04-04 |
+| 24.2       | M Muralitharan      | 6/54     | Sri Lanka v Bangladesh     | 2006-02-28 |
+| 24.2       | D Olivier           | 5/51     | South Africa v Pakistan    | 2019-01-11 |
+| 24.1       | FJ Titmus           | 5/66     | England v South Africa     | 1964-12-04 |
+| 24.1       | MS Panesar          | 5/92     | England v Australia        | 2006-12-14 |
+| 24.1       | G Onions            | 5/38     | England v West Indies      | 2009-05-06 |
+| 24.1       | DE Bollinger        | 5/70     | Australia v West Indies    | 2009-12-16 |
+| 24.1       | MG Johnson          | 6/38     | Australia v England        | 2010-12-16 |
+| 24.1       | HH Pandya           | 5/28     | India v England            | 2018-08-18 |
+| 23.6       | BS Chandrasekhar    | 5/50     | India v England            | 1977-01-14 |
+| 23.6       | A Nel               | 5/87     | South Africa v West Indies | 2004-01-02 |
+| 23.6       | BA Stokes           | 6/36     | England v Australia        | 2015-08-06 |
+| 23.6       | TA Boult            | 5/123    | New Zealand v Bangladesh   | 2019-02-28 |
+| 23.5       | Shoaib Akhtar       | 5/24     | Pakistan v West Indies     | 2002-01-31 |
+| 23.5       | MDK Perera          | 5/109    | Sri Lanka v Bangladesh     | 2014-01-27 |
+| 23.4       | M Muralitharan      | 5/59     | Sri Lanka v Bangladesh     | 2002-07-21 |
+| 23.3       | Harbhajan Singh     | 7/62     | India v Sri Lanka          | 2005-12-18 |
+| 23.3       | MA Starc            | 5/88     | Australia v England        | 2017-12-02 |
+| 23.2       | Harbhajan Singh     | 6/73     | India v Australia          | 2001-03-11 |
+| 23.2       | M Muralitharan      | 5/49     | Sri Lanka v India          | 2001-08-14 |
+| 23.2       | AF Giles            | 5/67     | England v India            | 2001-12-11 |
+| 23.2       | D Bishoo            | 6/80     | West Indies v Australia    | 2015-06-03 |
+| 23.2       | K Rabada            | 6/55     | South Africa v Sri Lanka   | 2017-01-02 |
+| 23.1       | Harbhajan Singh     | 7/87     | India v South Africa       | 2004-11-28 |
+| 23.1       | MA Starc            | 5/63     | Australia v Sri Lanka      | 2012-12-14 |
+| 23.1       | Mehedi Hasan Miraz  | 6/77     | Bangladesh v England       | 2016-10-28 |
+| 23.1       | JO Holder           | 5/44     | West Indies v Bangladesh   | 2018-07-12 |
+| 23.1       | Rashid Khan         | 6/49     | Afghanistan v Bangladesh   | 2019-09-05 |
+| 22.6       | SCJ Broad           | 5/37     | England v Australia        | 2009-08-20 |
+| 22.6       | GP Swann            | 5/159    | England v Australia        | 2013-08-01 |
+| 22.6       | N Wagner            | 5/64     | New Zealand v Bangladesh   | 2013-10-21 |
+| 22.6       | Mehedi Hasan Miraz  | 5/38     | Bangladesh v Zimbabwe      | 2018-11-11 |
+| 22.5       | M Muralitharan      | 5/49     | Sri Lanka v New Zealand    | 2003-05-03 |
+| 22.5       | PVD Chameera        | 5/47     | Sri Lanka v New Zealand    | 2015-12-18 |
+| 22.5       | Yasir Shah          | 6/184    | Pakistan v Sri Lanka       | 2017-10-06 |
+| 22.4       | C White             | 5/32     | England v West Indies      | 2000-08-31 |
+| 22.3       | CEH Croft           | 6/74     | West Indies v England      | 1981-03-27 |
+| 22.3       | AA Donald           | 5/79     | South Africa v Pakistan    | 1998-02-26 |
+| 22.3       | SK Warne            | 5/90     | Australia v Sri Lanka      | 2004-03-16 |
+| 22.3       | DJG Sammy           | 7/66     | West Indies v England      | 2007-06-07 |
+| 22.2       | Mahmudullah         | 5/51     | Bangladesh v West Indies   | 2009-07-09 |
+| 22.2       | MR Gillespie        | 5/59     | New Zealand v South Africa | 2012-03-15 |
+| 22.2       | JC Nyumbu           | 5/157    | Zimbabwe v South Africa    | 2014-08-09 |
+| 22.2       | L Ambuldeniya       | 5/66     | Sri Lanka v South Africa   | 2019-02-13 |
+| 22.1       | AR Caddick          | 5/14     | England v West Indies      | 2000-08-17 |
+| 22.1       | CBRLS Kumara        | 6/122    | Sri Lanka v South Africa   | 2017-01-02 |
+| 21.6       | HJ Tayfield         | 6/62     | South Africa v New Zealand | 1953-12-11 |
+| 21.6       | A Mishra            | 5/71     | India v Australia          | 2008-10-17 |
+| 21.6       | Imran Tahir         | 5/32     | South Africa v Pakistan    | 2013-10-23 |
+| 21.6       | JM Anderson         | 5/58     | England v Sri Lanka        | 2016-05-27 |
+| 21.6       | K Yadav             | 5/99     | India v Australia          | 2019-01-03 |
+| 21.5       | Mohammad Rafique    | 6/77     | Bangladesh v South Africa  | 2003-05-01 |
+| 21.5       | DW Steyn            | 5/52     | South Africa v Pakistan    | 2013-02-01 |
+| 21.5       | N Wagner            | 7/39     | New Zealand v West Indies  | 2017-12-01 |
+| 21.5       | MA Wood             | 5/41     | England v West Indies      | 2019-02-09 |
+| 21.5       | Nauman Ali          | 5/86     | Pakistan v Zimbabwe        | 2021-05-07 |
+| 21.4       | HJ Tayfield         | 6/13     | South Africa v New Zealand | 1954-01-29 |
+| 21.4       | M Ntini             | 5/83     | South Africa v Pakistan    | 2007-01-11 |
+| 21.4       | M Muralitharan      | 6/28     | Sri Lanka v Bangladesh     | 2007-07-11 |
+| 21.4       | Yasir Shah          | 8/41     | Pakistan v New Zealand     | 2018-11-24 |
+| 21.3       | Mohammad Rafique    | 5/118    | Bangladesh v Pakistan      | 2003-08-27 |
+| 21.3       | SCJ Broad           | 6/51     | England v New Zealand      | 2013-03-14 |
+| 21.3       | SP Narine           | 6/91     | West Indies v New Zealand  | 2013-12-19 |
+| 21.2       | PA Strang           | 8/109    | Zimbabwe v New Zealand     | 2000-09-12 |
+| 21.2       | Harbhajan Singh     | 8/84     | India v Australia          | 2001-03-18 |
+| 21.2       | M Muralitharan      | 5/143    | Sri Lanka v England        | 2002-05-30 |
+| 21.2       | Danish Kaneria      | 7/118    | Pakistan v Sri Lanka       | 2004-10-28 |
+| 21.2       | CD Collymore        | 5/48     | West Indies v India        | 2006-06-30 |
+| 21.2       | NM Lyon             | 6/49     | Australia v England        | 2019-08-01 |
+| 21.1       | AF Giles            | 5/75     | England v Pakistan         | 2000-11-29 |
+| 21.1       | B Lee               | 5/67     | Australia v New Zealand    | 2001-11-08 |
+| 21.1       | PM Siddle           | 5/50     | Australia v England        | 2013-07-10 |
+| 21.1       | MDK Perera          | 5/75     | Sri Lanka v England        | 2018-11-06 |
+| 20.6       | JN Gillespie        | 5/89     | Australia v West Indies    | 2000-12-15 |
+| 20.5       | MS Panesar          | 5/72     | England v Pakistan         | 2006-07-27 |
+| 20.5       | DW Steyn            | 5/82     | South Africa v Sri Lanka   | 2006-08-04 |
+| 20.5       | MKPAD Perera        | 5/24     | Sri Lanka v Bangladesh     | 2018-02-08 |
+| 20.5       | Mohammed Shami      | 6/56     | India v Australia          | 2018-12-14 |
+| 20.4       | ARC Fraser          | 8/53     | England v West Indies      | 1998-02-05 |
+| 20.4       | AJ Bichel           | 5/60     | Australia v West Indies    | 2000-12-26 |
+| 20.4       | M Muralitharan      | 5/63     | Sri Lanka v India          | 2010-07-18 |
+| 20.4       | CT Tremlett         | 5/87     | England v Australia        | 2010-12-16 |
+| 20.4       | Abdur Rehman        | 6/25     | Pakistan v England         | 2012-01-25 |
+| 20.3       | BS Chandrasekhar    | 5/65     | India v England            | 1972-12-30 |
+| 20.3       | M Muralitharan      | 5/128    | Sri Lanka v South Africa   | 2006-08-04 |
+| 20.3       | MS Panesar          | 6/126    | England v New Zealand      | 2008-03-22 |
+| 20.2       | SCG MacGill         | 7/50     | Australia v England        | 1999-01-02 |
+| 20.2       | M Muralitharan      | 5/13     | Sri Lanka v Bangladesh     | 2001-09-06 |
+| 20.2       | Shoaib Akhtar       | 5/21     | Pakistan v Australia       | 2002-10-03 |
+| 20.2       | M Muralitharan      | 5/39     | Sri Lanka v Pakistan       | 2006-04-03 |
+| 20.2       | LE Plunkett         | 5/64     | England v Sri Lanka        | 2014-06-20 |
+| 20.1       | SP Jones            | 6/53     | England v Australia        | 2005-08-11 |
+| 20.1       | KA Jamieson         | 5/31     | New Zealand v India        | 2021-06-18 |
+| 19.6       | A Kumble            | 6/131    | India v South Africa       | 2004-11-20 |
+| 19.6       | R Ashwin            | 5/63     | India v Australia          | 2013-03-02 |
+| 19.6       | RA Jadeja           | 5/30     | India v South Africa       | 2015-12-03 |
+| 19.6       | KA Jamieson         | 5/69     | New Zealand v Pakistan     | 2021-01-03 |
+| 19.5       | AA Donald           | 5/74     | South Africa v England     | 1999-11-25 |
+| 19.5       | JR Hazlewood        | 5/38     | Australia v West Indies    | 2015-06-11 |
+| 19.4       | FA Rose             | 7/84     | West Indies v South Africa | 1998-12-26 |
+| 19.4       | N Boje              | 5/83     | South Africa v India       | 2000-03-02 |
+| 19.4       | M Muralitharan      | 6/71     | Sri Lanka v Pakistan       | 2000-03-05 |
+| 19.3       | NM Hauritz          | 5/53     | Australia v Pakistan       | 2010-01-03 |
+| 19.3       | Junaid Khan         | 5/58     | Pakistan v Sri Lanka       | 2013-12-31 |
+| 19.3       | RL Chase            | 5/121    | West Indies v India        | 2016-07-30 |
+| 19.2       | Abdur Rehman        | 5/40     | Pakistan v England         | 2012-02-03 |
+| 19.2       | NM Lyon             | 7/152    | Australia v India          | 2014-12-09 |
+| 19.1       | Yasir Shah          | 7/76     | Pakistan v Sri Lanka       | 2015-06-17 |
+| 19.1       | MKPAD Perera        | 6/115    | Sri Lanka v England        | 2018-11-14 |
+| 19.1       | KA Jamieson         | 5/45     | New Zealand v India        | 2020-02-29 |
+| 18.7       | KR Miller           | 5/40     | Australia v South Africa   | 1949-12-24 |
+| 18.6       | Naimur Rahman       | 6/132    | Bangladesh v India         | 2000-11-10 |
+| 18.6       | Enamul Haque        | 7/95     | Bangladesh v Zimbabwe      | 2005-01-14 |
+| 18.6       | Saeed Ajmal         | 7/55     | Pakistan v England         | 2012-01-17 |
+| 18.6       | S Shillingford      | 5/59     | West Indies v Zimbabwe     | 2013-03-20 |
+| 18.6       | K Yadav             | 5/57     | India v West Indies        | 2018-10-04 |
+| 18.5       | A Kumble            | 7/63     | India v Pakistan           | 2005-03-16 |
+| 18.5       | SK Warne            | 6/80     | Australia v West Indies    | 2005-11-25 |
+| 18.5       | M Muralitharan      | 5/15     | Sri Lanka v Bangladesh     | 2007-06-25 |
+| 18.5       | MA Wood             | 5/46     | England v South Africa     | 2020-01-24 |
+| 18.4       | NO Perry            | 5/70     | West Indies v Australia    | 1999-03-13 |
+| 18.4       | B Lee               | 5/77     | Australia v New Zealand    | 2000-03-31 |
+| 18.4       | GD McGrath          | 7/76     | Australia v England        | 2001-08-16 |
+| 18.4       | Danish Kaneria      | 7/188    | Pakistan v Australia       | 2005-01-02 |
+| 18.4       | JJ Krejza           | 8/215    | Australia v India          | 2008-11-06 |
+| 18.3       | DL Vettori          | 7/87     | New Zealand v Australia    | 2000-03-11 |
+| 18.3       | M Muralitharan      | 6/87     | Sri Lanka v South Africa   | 2000-07-20 |
+| 18.3       | WPUJC Vaas          | 6/73     | Sri Lanka v England        | 2001-03-15 |
+| 18.3       | SK Warne            | 5/43     | Australia v Sri Lanka      | 2004-03-08 |
+| 18.3       | RJ Peterson         | 5/33     | South Africa v Bangladesh  | 2008-02-29 |
+| 18.3       | Mohammad Abbas      | 5/62     | Pakistan v Australia       | 2018-10-16 |
+| 18.3       | CR Woakes           | 5/50     | England v West Indies      | 2020-07-24 |
+| 18.2       | Z Khan              | 5/75     | India v England            | 2007-07-27 |
+| 18.2       | Taijul Islam        | 5/62     | Bangladesh v Zimbabwe      | 2018-11-03 |
+| 18.1       | GD McGrath          | 6/17     | Australia v West Indies    | 2000-11-23 |
+| 18.1       | A Kumble            | 6/133    | India v Australia          | 2004-10-14 |
+| 18.1       | PP Ojha             | 5/99     | India v New Zealand        | 2012-08-31 |
+| 17.6       | R Ashwin            | 5/69     | India v New Zealand        | 2012-08-31 |
+| 17.6       | KJ Abbott           | 7/29     | South Africa v Pakistan    | 2013-02-22 |
+| 17.6       | S Shillingford      | 5/34     | West Indies v Zimbabwe     | 2013-03-20 |
+| 17.6       | Yasir Shah          | 5/71     | Pakistan v England         | 2016-08-11 |
+| 17.6       | TG Southee          | 5/69     | New Zealand v Australia    | 2019-12-12 |
+| 17.5       | M Muralitharan      | 6/59     | Sri Lanka v Australia      | 2004-03-08 |
+| 17.5       | Danish Kaneria      | 5/46     | Pakistan v West Indies     | 2005-06-03 |
+| 17.5       | CR Woakes           | 5/32     | England v Pakistan         | 2016-07-14 |
+| 17.5       | I Sharma            | 5/43     | India v West Indies        | 2019-08-22 |
+| 17.4       | ESH Giddins         | 5/15     | England v Zimbabwe         | 2000-05-18 |
+| 17.4       | DL Vettori          | 6/100    | New Zealand v Bangladesh   | 2004-10-26 |
+| 17.3       | GB Lawrence         | 5/52     | South Africa v New Zealand | 1962-02-02 |
+| 17.3       | Harbhajan Singh     | 5/146    | India v Australia          | 2004-10-06 |
+| 17.3       | MS Kasprowicz       | 5/30     | Australia v Pakistan       | 2004-12-16 |
+| 17.3       | SK Warne            | 6/122    | Australia v England        | 2005-09-08 |
+| 17.3       | DJ Bravo            | 6/84     | West Indies v Australia    | 2005-11-25 |
+| 17.3       | SR Clark            | 5/55     | Australia v South Africa   | 2006-03-16 |
+| 17.3       | M Muralitharan      | 5/84     | Sri Lanka v India          | 2008-07-23 |
+| 17.2       | Mohammad Asif       | 6/41     | Pakistan v Australia       | 2010-01-03 |
+| 17.2       | Harbhajan Singh     | 5/59     | India v South Africa       | 2010-02-14 |
+| 17.1       | FH Tyson            | 6/40     | England v South Africa     | 1957-03-01 |
+| 17.1       | A Kumble            | 6/72     | India v Pakistan           | 2004-03-28 |
+| 17.1       | Danish Kaneria      | 6/150    | Pakistan v India           | 2005-03-08 |
+| 16.6       | SB Joshi            | 5/142    | India v Bangladesh         | 2000-11-10 |
+| 16.6       | AR Caddick          | 6/122    | England v New Zealand      | 2002-03-13 |
+| 16.6       | M Ntini             | 5/145    | South Africa v England     | 2003-07-31 |
+| 16.6       | SK Warne            | 5/116    | Australia v Sri Lanka      | 2004-03-08 |
+| 16.6       | Enamul Haque        | 6/45     | Bangladesh v Zimbabwe      | 2005-01-06 |
+| 16.6       | JJ Bumrah           | 5/64     | India v England            | 2021-08-04 |
+| 16.5       | HDPK Dharmasena     | 6/72     | Sri Lanka v New Zealand    | 1998-06-03 |
+| 16.5       | MD Craig            | 7/94     | New Zealand v Pakistan     | 2014-11-26 |
+| 16.5       | Sohail Khan         | 5/68     | Pakistan v England         | 2016-08-11 |
+| 16.4       | Danish Kaneria      | 6/52     | Pakistan v Bangladesh      | 2001-08-29 |
+| 16.4       | N Wagner            | 6/41     | New Zealand v Zimbabwe     | 2016-07-28 |
+| 16.4       | PAKP Jayawickrama   | 5/86     | Sri Lanka v Bangladesh     | 2021-04-29 |
+| 16.3       | KR Pushpakumara     | 5/56     | Sri Lanka v Zimbabwe       | 1999-12-04 |
+| 16.3       | D Ramnarine         | 5/78     | West Indies v South Africa | 2001-03-29 |
+| 16.3       | SK Warne            | 6/33     | Australia v England        | 2001-08-02 |
+| 16.3       | JH Kallis           | 6/54     | South Africa v England     | 2003-08-21 |
+| 16.3       | M Muralitharan      | 7/46     | Sri Lanka v England        | 2003-12-02 |
+| 16.3       | Mohammad Rafique    | 5/65     | Bangladesh v Zimbabwe      | 2005-01-06 |
+| 16.3       | M Muralitharan      | 6/86     | Sri Lanka v England        | 2006-05-25 |
+| 16.3       | DW Steyn            | 5/54     | South Africa v Sri Lanka   | 2014-07-16 |
+| 16.2       | AN Connolly         | 5/47     | Australia v South Africa   | 1970-01-22 |
+| 16.2       | JH Kallis           | 6/67     | South Africa v West Indies | 2001-03-29 |
+| 16.2       | Danish Kaneria      | 6/42     | Pakistan v Bangladesh      | 2001-08-29 |
+| 16.2       | DJ Bravo            | 6/55     | West Indies v England      | 2004-08-12 |
+| 16.2       | DT Hondo            | 6/59     | Zimbabwe v Bangladesh      | 2005-01-14 |
+| 16.2       | Yasir Arafat        | 5/161    | Pakistan v India           | 2007-12-08 |
+| 16.1       | AR Caddick          | 5/67     | England v West Indies      | 1998-02-13 |
+| 16.1       | AD Mullally         | 5/105    | England v Australia        | 1998-11-20 |
+| 16.1       | C White             | 5/57     | England v West Indies      | 2000-08-17 |
+| 16.1       | MS Panesar          | 5/129    | England v India            | 2012-11-23 |
+| 16.1       | TG Southee          | 6/62     | New Zealand v England      | 2018-03-30 |
+| 15.8       | IT Botham           | 5/109    | England v New Zealand      | 1978-03-04 |
+| 15.6       | A Kumble            | 6/98     | India v Australia          | 1998-03-25 |
+| 15.6       | Saqlain Mushtaq     | 5/94     | Pakistan v India           | 1999-01-28 |
+| 15.6       | SCG MacGill         | 5/152    | Australia v England        | 2002-12-26 |
+| 15.6       | MJ Clarke           | 5/86     | Australia v West Indies    | 2012-04-23 |
+| 15.6       | R Ashwin            | 5/95     | India v Australia          | 2013-02-22 |
+| 15.5       | A Kumble            | 6/70     | India v Pakistan           | 1999-01-28 |
+| 15.5       | Shoaib Akhtar       | 5/75     | Pakistan v Sri Lanka       | 2000-03-05 |
+| 15.5       | M Muralitharan      | 5/138    | Sri Lanka v West Indies    | 2003-06-20 |
+| 15.5       | M Muralitharan      | 6/87     | Sri Lanka v New Zealand    | 2006-12-15 |
+| 15.5       | Saeed Ajmal         | 5/146    | Pakistan v Sri Lanka       | 2012-06-22 |
+| 15.4       | BA Stokes           | 6/99     | England v Australia        | 2014-01-03 |
+| 15.3       | IWG Johnson         | 5/34     | Australia v South Africa   | 1950-01-20 |
+| 15.3       | JH Wardle           | 7/36     | England v South Africa     | 1957-01-01 |
+| 15.3       | MJ Hoggard          | 5/144    | England v South Africa     | 2005-01-13 |
+| 15.3       | GD McGrath          | 5/115    | Australia v England        | 2005-08-11 |
+| 15.3       | KTGD Prasad         | 5/50     | Sri Lanka v England        | 2014-06-20 |
+| 15.2       | Z Khan              | 5/95     | India v Australia          | 2003-12-04 |
+| 15.2       | Shahadat Hossain    | 5/71     | Bangladesh v India         | 2010-01-17 |
+| 15.2       | GP Swann            | 5/44     | England v Australia        | 2013-07-18 |
+| 15.2       | D Olivier           | 6/37     | South Africa v Pakistan    | 2018-12-26 |
+| 15.1       | NM Lyon             | 5/34     | Australia v Sri Lanka      | 2011-08-31 |
+| 15.1       | RAS Lakmal          | 5/47     | Sri Lanka v West Indies    | 2021-03-21 |
+| 14.6       | M Muralitharan      | 9/65     | Sri Lanka v England        | 1998-08-27 |
+| 14.6       | DW Steyn            | 6/72     | South Africa v West Indies | 2008-01-10 |
+| 14.6       | MG Johnson          | 5/39     | Australia v New Zealand    | 2008-11-20 |
+| 14.6       | Shakib Al Hasan     | 5/62     | Bangladesh v India         | 2010-01-17 |
+| 14.6       | Rubel Hossain       | 5/166    | Bangladesh v New Zealand   | 2010-02-15 |
+| 14.6       | SCJ Broad           | 5/109    | England v New Zealand      | 2015-05-29 |
+| 14.6       | RRS Cornwall        | 5/74     | West Indies v Bangladesh   | 2021-02-11 |
+| 14.6       | Hasan Ali           | 5/36     | Pakistan v Zimbabwe        | 2021-04-29 |
+| 14.5       | Shakib Al Hasan     | 7/36     | Bangladesh v New Zealand   | 2008-10-17 |
+| 14.5       | MG Johnson          | 5/103    | Australia v West Indies    | 2009-12-04 |
+| 14.5       | Elias Sunny         | 6/94     | Bangladesh v West Indies   | 2011-10-21 |
+| 14.5       | AA Nortje           | 5/56     | South Africa v Pakistan    | 2021-02-04 |
+| 14.4       | RAP Nissanka        | 5/64     | Sri Lanka v West Indies    | 2003-06-27 |
+| 14.4       | Mohammad Rafique    | 5/62     | Bangladesh v Australia     | 2006-04-09 |
+| 14.4       | PP Ojha             | 5/45     | India v England            | 2012-11-15 |
+| 14.4       | PM Siddle           | 5/54     | Australia v Sri Lanka      | 2012-12-14 |
+| 14.4       | S Shillingford      | 6/167    | West Indies v India        | 2013-11-06 |
+| 14.4       | BA Stokes           | 5/73     | England v India            | 2016-11-26 |
+| 14.3       | PJ Wiseman          | 5/82     | New Zealand v Sri Lanka    | 1998-05-27 |
+| 14.3       | IG Butler           | 6/46     | New Zealand v Pakistan     | 2003-12-26 |
+| 14.3       | R Ashwin            | 7/103    | India v Australia          | 2013-02-22 |
+| 14.3       | GP Swann            | 6/90     | England v New Zealand      | 2013-05-24 |
+| 14.3       | MA Starc            | 5/114    | Australia v England        | 2015-07-08 |
+| 14.3       | KA Jamieson         | 5/34     | New Zealand v West Indies  | 2020-12-11 |
+| 14.2       | HJ Tayfield         | 7/23     | South Africa v Australia   | 1950-01-20 |
+| 14.2       | PL Harris           | 5/73     | South Africa v Pakistan    | 2007-10-01 |
+| 14.2       | GP Swann            | 5/62     | England v Pakistan         | 2010-08-26 |
+| 14.2       | TL Best             | 5/24     | West Indies v Bangladesh   | 2012-11-13 |
+| 14.1       | JK Lever            | 7/46     | England v India            | 1976-12-17 |
+| 14.1       | IE O'Brien          | 6/75     | New Zealand v West Indies  | 2008-12-19 |
+| 14.1       | HMRKB Herath        | 5/139    | Sri Lanka v New Zealand    | 2009-08-26 |
+| 14.1       | JO Holder           | 5/30     | West Indies v Pakistan     | 2016-10-30 |
+| 14.1       | Taijul Islam        | 5/107    | Bangladesh v Zimbabwe      | 2018-11-11 |
+| 13.6       | SK Warne            | 6/34     | Australia v South Africa   | 1998-01-02 |
+| 13.6       | M Ntini             | 5/49     | South Africa v West Indies | 2004-01-16 |
+| 13.5       | CL Cairns           | 6/77     | New Zealand v England      | 1999-07-22 |
+| 13.5       | CA Walsh            | 5/36     | West Indies v England      | 2000-06-15 |
+| 13.5       | AF Giles            | 5/57     | England v West Indies      | 2004-07-29 |
+| 13.5       | WPUJC Vaas          | 6/108    | Sri Lanka v New Zealand    | 2005-04-11 |
+| 13.5       | CT Tremlett         | 6/48     | England v Sri Lanka        | 2011-06-16 |
+| 13.5       | TT Bresnan          | 5/48     | England v India            | 2011-07-29 |
+| 13.5       | JM Anderson         | 5/40     | England v South Africa     | 2020-01-03 |
+| 13.4       | CEW Silverwood      | 5/91     | England v South Africa     | 2000-01-02 |
+| 13.4       | DL Vettori          | 6/28     | New Zealand v Bangladesh   | 2004-10-19 |
+| 13.4       | KAJ Roach           | 6/48     | West Indies v Bangladesh   | 2009-07-17 |
+| 13.4       | Harbhajan Singh     | 7/120    | India v South Africa       | 2011-01-02 |
+| 13.3       | M Muralitharan      | 5/98     | Sri Lanka v Bangladesh     | 2001-09-06 |
+| 13.3       | DL Vettori          | 7/130    | New Zealand v Sri Lanka    | 2006-12-15 |
+| 13.3       | A Kumble            | 5/60     | India v Pakistan           | 2007-12-08 |
+| 13.3       | PL Harris           | 6/127    | South Africa v Australia   | 2009-03-19 |
+| 13.3       | Saeed Ajmal         | 6/96     | Pakistan v South Africa    | 2013-02-14 |
+| 13.3       | JJ Bumrah           | 6/33     | India v Australia          | 2018-12-26 |
+| 13.2       | SK Warne            | 7/94     | Australia v Pakistan       | 2002-10-03 |
+| 13.2       | CD Collymore        | 7/78     | West Indies v Pakistan     | 2005-06-03 |
+| 13.2       | M Muralitharan      | 7/100    | Sri Lanka v India          | 2005-12-10 |
+| 13.2       | MG Johnson          | 6/73     | Australia v New Zealand    | 2010-03-27 |
+| 13.2       | MG Johnson          | 5/64     | Australia v India          | 2010-10-01 |
+| 13.2       | SR Watson           | 5/17     | Australia v South Africa   | 2011-11-09 |
+| 13.2       | S Shillingford      | 5/179    | West Indies v India        | 2013-11-14 |
+| 13.2       | RL Chase            | 5/172    | West Indies v England      | 2020-07-16 |
+| 13.1       | RJ Sidebottom       | 6/67     | England v New Zealand      | 2008-06-05 |
+| 13.1       | Zulfiqar Babar      | 5/74     | Pakistan v Australia       | 2014-10-22 |
+| 12.6       | BS Chandrasekhar    | 5/135    | India v England            | 1973-02-06 |
+| 12.6       | M Ntini             | 6/66     | South Africa v New Zealand | 2000-11-17 |
+| 12.6       | AJ Tudor            | 5/44     | England v Australia        | 2001-08-02 |
+| 12.6       | MJ Hoggard          | 7/109    | England v Australia        | 2006-12-01 |
+| 12.6       | MS Panesar          | 6/37     | England v New Zealand      | 2008-05-23 |
+| 12.6       | Mohammad Aamer      | 6/84     | Pakistan v England         | 2010-08-26 |
+| 12.6       | M Morkel            | 5/20     | South Africa v India       | 2010-12-16 |
+| 12.6       | I Sharma            | 5/77     | India v West Indies        | 2011-07-06 |
+| 12.6       | GP Swann            | 6/106    | England v India            | 2011-08-18 |
+| 12.6       | Shakib Al Hasan     | 5/103    | Bangladesh v New Zealand   | 2013-10-21 |
+| 12.6       | K Rabada            | 5/92     | South Africa v Australia   | 2016-11-03 |
+| 12.6       | NM Lyon             | 6/60     | Australia v Bangladesh     | 2017-09-04 |
+| 12.6       | PJ Cummins          | 6/27     | Australia v India          | 2018-12-26 |
+| 12.6       | D Olivier           | 5/59     | South Africa v Pakistan    | 2018-12-26 |
+| 12.5       | Umar Gul            | 5/31     | Pakistan v India           | 2004-04-05 |
+| 12.5       | SJ Harmison         | 5/43     | England v Australia        | 2005-07-21 |
+| 12.5       | DL Vettori          | 5/70     | New Zealand v Zimbabwe     | 2011-11-01 |
+| 12.5       | Hasan Ali           | 5/27     | Pakistan v Zimbabwe        | 2021-05-07 |
+| 12.4       | CA Walsh            | 6/61     | West Indies v South Africa | 2001-03-17 |
+| 12.4       | SK Warne            | 7/165    | Australia v England        | 2001-08-23 |
+| 12.4       | SK Warne            | 6/125    | Australia v India          | 2004-10-14 |
+| 12.4       | M Muralitharan      | 5/79     | Sri Lanka v Bangladesh     | 2006-03-08 |
+| 12.3       | BS Chandrasekhar    | 6/90     | India v England            | 1973-01-12 |
+| 12.3       | A Kumble            | 5/90     | India v Australia          | 2004-11-03 |
+| 12.3       | JR Hazlewood        | 6/70     | Australia v New Zealand    | 2015-11-27 |
+| 12.3       | C de Grandhomme     | 6/41     | New Zealand v Pakistan     | 2016-11-17 |
+| 12.3       | AY Patel            | 5/59     | New Zealand v Pakistan     | 2018-11-16 |
+| 12.2       | CEH Croft           | 5/40     | West Indies v England      | 1981-02-13 |
+| 12.2       | JN Gillespie        | 5/56     | Australia v India          | 2004-10-26 |
+| 12.2       | M Muralitharan      | 6/49     | Sri Lanka v Bangladesh     | 2008-12-26 |
+| 12.2       | MM Ali              | 6/67     | England v India            | 2014-07-27 |
+| 12.2       | ST Finn             | 6/79     | England v Australia        | 2015-07-29 |
+| 12.2       | RRS Cornwall        | 7/75     | West Indies v Afghanistan  | 2019-11-27 |
+| 12.1       | GP Wickramasinghe   | 6/60     | Sri Lanka v Zimbabwe       | 1999-11-18 |
+| 12.1       | Harbhajan Singh     | 7/48     | India v West Indies        | 2002-10-09 |
+| 12.1       | Mohammad Sami       | 5/44     | Pakistan v New Zealand     | 2003-12-19 |
+| 12.1       | SP Jones            | 5/57     | England v West Indies      | 2004-03-19 |
+| 12.1       | HH Streak           | 6/73     | Zimbabwe v India           | 2005-09-20 |
+| 12.1       | FH Edwards          | 7/87     | West Indies v New Zealand  | 2008-12-19 |
+| 12.1       | CR Woakes           | 6/70     | England v Pakistan         | 2016-07-14 |
+| 12.1       | JR Hazlewood        | 5/8      | Australia v India          | 2020-12-17 |
+| 11.6       | R Benaud            | 5/114    | Australia v South Africa   | 1958-01-24 |
+| 11.6       | PP Ojha             | 6/72     | India v West Indies        | 2011-11-06 |
+| 11.6       | M Morkel            | 5/146    | South Africa v Australia   | 2012-11-22 |
+| 11.6       | DM Bess             | 5/51     | England v South Africa     | 2020-01-16 |
+| 11.5       | AM Blignaut         | 5/73     | Zimbabwe v Bangladesh      | 2001-04-19 |
+| 11.5       | JM Anderson         | 5/42     | England v India            | 2007-07-19 |
+| 11.5       | JS Patel            | 5/110    | New Zealand v West Indies  | 2008-12-19 |
+| 11.5       | DJG Sammy           | 5/55     | West Indies v Bangladesh   | 2009-07-17 |
+| 11.5       | HMRKB Herath        | 7/157    | Sri Lanka v Australia      | 2011-09-16 |
+| 11.5       | Taijul Islam        | 6/163    | Bangladesh v Pakistan      | 2015-04-28 |
+| 11.5       | Yasir Shah          | 5/121    | Pakistan v West Indies     | 2016-10-13 |
+| 11.5       | KAJ Roach           | 5/17     | West Indies v England      | 2019-01-23 |
+| 11.4       | ARC Fraser          | 5/62     | England v South Africa     | 1998-07-23 |
+| 11.4       | Harbhajan Singh     | 7/133    | India v Australia          | 2001-03-18 |
+| 11.4       | M Muralitharan      | 8/46     | Sri Lanka v West Indies    | 2005-07-22 |
+| 11.4       | GP Swann            | 5/90     | England v Bangladesh       | 2010-03-12 |
+| 11.4       | GP Swann            | 5/127    | England v Bangladesh       | 2010-03-12 |
+| 11.4       | MS Panesar          | 6/62     | England v Pakistan         | 2012-01-25 |
+| 11.4       | SJ Benn             | 5/72     | West Indies v Bangladesh   | 2014-09-13 |
+| 11.3       | DW Steyn            | 5/34     | South Africa v New Zealand | 2007-11-08 |
+| 11.3       | Shakib Al Hasan     | 6/59     | Bangladesh v Zimbabwe      | 2014-10-25 |
+| 11.3       | R Ashwin            | 6/46     | India v Sri Lanka          | 2015-08-12 |
+| 11.3       | Mohammed Shami      | 5/35     | India v South Africa       | 2019-10-02 |
+| 11.2       | HH Streak           | 6/87     | Zimbabwe v England         | 2000-05-18 |
+| 11.2       | Wasim Akram         | 5/45     | Pakistan v Sri Lanka       | 2000-06-14 |
+| 11.2       | MS Kasprowicz       | 7/39     | Australia v Sri Lanka      | 2004-07-01 |
+| 11.2       | MTT Mirando         | 5/83     | Sri Lanka v Pakistan       | 2009-07-20 |
+| 11.2       | MA Starc            | 6/111    | Australia v England        | 2015-08-06 |
+| 11.1       | M Muralitharan      | 6/39     | Sri Lanka v South Africa   | 2000-12-26 |
+| 11.1       | TJ Friend           | 5/31     | Zimbabwe v Bangladesh      | 2001-11-08 |
+| 11.1       | SK Warne            | 5/74     | Australia v Pakistan       | 2002-10-19 |
+| 11.1       | LT Ngidi            | 6/39     | South Africa v India       | 2018-01-13 |
+| 11.0       | NAT Adcock          | 5/43     | South Africa v New Zealand | 1953-12-24 |
+| 10.6       | CL Cairns           | 7/53     | New Zealand v Bangladesh   | 2001-12-18 |
+| 10.6       | Yasir Shah          | 5/79     | Pakistan v New Zealand     | 2014-11-17 |
+| 10.6       | R Ashwin            | 7/59     | India v New Zealand        | 2016-10-08 |
+| 10.6       | AY Patel            | 5/89     | New Zealand v Sri Lanka    | 2019-08-14 |
+| 10.5       | PAJ DeFreitas       | 5/71     | England v New Zealand      | 1994-06-02 |
+| 10.5       | J Srinath           | 8/86     | India v Pakistan           | 1999-02-16 |
+| 10.5       | A Kumble            | 6/67     | India v New Zealand        | 1999-10-22 |
+| 10.5       | GD McGrath          | 5/48     | Australia v India          | 2000-01-02 |
+| 10.5       | SL Malinga          | 5/68     | Sri Lanka v New Zealand    | 2006-12-15 |
+| 10.5       | M Morkel            | 5/50     | South Africa v Bangladesh  | 2008-02-22 |
+| 10.5       | Robiul Islam        | 5/85     | Bangladesh v Zimbabwe      | 2013-04-25 |
+| 10.5       | BV Vitori           | 5/61     | Zimbabwe v Pakistan        | 2013-09-10 |
+| 10.4       | DR Tuffey           | 5/87     | New Zealand v Pakistan     | 2003-12-19 |
+| 10.4       | DW Steyn            | 5/67     | South Africa v Australia   | 2008-12-26 |
+| 10.4       | DW Steyn            | 6/50     | South Africa v India       | 2010-12-26 |
+| 10.4       | JR Hazlewood        | 6/67     | Australia v India          | 2017-03-04 |
+| 10.4       | Taijul Islam        | 6/108    | Bangladesh v Zimbabwe      | 2018-11-03 |
+| 10.3       | SP Jones            | 5/44     | England v Australia        | 2005-08-25 |
+| 10.3       | Wahab Riaz          | 5/63     | Pakistan v England         | 2010-08-18 |
+| 10.3       | HMRKB Herath        | 6/74     | Sri Lanka v England        | 2012-03-26 |
+| 10.3       | RAS Lakmal          | 5/75     | Sri Lanka v Australia      | 2019-01-24 |
+| 10.3       | Naseem Shah         | 5/31     | Pakistan v Sri Lanka       | 2019-12-19 |
+| 10.2       | GD McKenzie         | 5/46     | Australia v South Africa   | 1966-12-23 |
+| 10.2       | CS Martin           | 5/71     | New Zealand v Zimbabwe     | 2000-12-26 |
+| 10.2       | KAJ Roach           | 5/41     | West Indies v Australia    | 2012-04-15 |
+| 10.2       | DW Steyn            | 5/56     | South Africa v England     | 2012-07-19 |
+| 10.2       | HMRKB Herath        | 5/57     | Sri Lanka v Pakistan       | 2014-08-14 |
+| 10.2       | I Sharma            | 5/68     | India v New Zealand        | 2020-02-21 |
+| 10.2       | DM Bess             | 5/30     | England v Sri Lanka        | 2021-01-14 |
+| 10.1       | JK Lever            | 5/59     | England v India            | 1977-01-14 |
+| 10.1       | GD McGrath          | 5/50     | Australia v West Indies    | 1999-03-05 |
+| 10.1       | CRD Fernando        | 5/60     | Sri Lanka v Bangladesh     | 2005-09-20 |
+| 10.1       | SJ Benn             | 6/81     | West Indies v South Africa | 2010-06-26 |
+| 10.1       | R Ashwin            | 6/31     | India v New Zealand        | 2012-08-23 |
+| 10.1       | S Shillingford      | 6/49     | West Indies v Zimbabwe     | 2013-03-12 |
+| 10.1       | Bhuvneshwar Kumar   | 6/82     | India v England            | 2014-07-17 |
+| 10.1       | Yasir Shah          | 6/63     | Pakistan v West Indies     | 2017-04-21 |
+| 9.6        | BS Bedi             | 5/110    | India v England            | 1977-01-01 |
+| 9.6        | MS Panesar          | 5/124    | England v Pakistan         | 2012-02-03 |
+| 9.6        | AR Patel            | 5/48     | India v England            | 2021-03-04 |
+| 9.5        | M Muralitharan      | 6/81     | Sri Lanka v West Indies    | 2001-11-21 |
+| 9.5        | I Sharma            | 6/134    | India v New Zealand        | 2014-02-06 |
+| 9.5        | Mehedi Hasan Miraz  | 6/80     | Bangladesh v England       | 2016-10-20 |
+| 9.5        | NM Lyon             | 5/50     | Australia v New Zealand    | 2020-01-03 |
+| 9.5        | AA Nortje           | 6/56     | South Africa v Sri Lanka   | 2021-01-03 |
+| 9.4        | PS Heine            | 6/58     | South Africa v Australia   | 1957-12-23 |
+| 9.4        | DL Vettori          | 6/70     | New Zealand v Bangladesh   | 2004-10-26 |
+| 9.4        | JEC Franklin        | 5/53     | New Zealand v West Indies  | 2006-03-17 |
+| 9.4        | Mohammad Aamer      | 5/79     | Pakistan v Australia       | 2009-12-26 |
+| 9.4        | PP Ojha             | 5/49     | India v West Indies        | 2013-11-14 |
+| 9.4        | RA Jadeja           | 5/124    | India v Australia          | 2017-03-16 |
+| 9.4        | Yasir Shah          | 5/51     | Pakistan v Sri Lanka       | 2017-09-28 |
+| 9.3        | BS Bedi             | 6/71     | India v England            | 1977-01-28 |
+| 9.3        | RJ Harris           | 5/25     | Australia v England        | 2014-01-03 |
+| 9.3        | I Sharma            | 6/51     | India v New Zealand        | 2014-02-14 |
+| 9.3        | Sohail Khan         | 5/96     | Pakistan v England         | 2016-08-03 |
+| 9.2        | Danish Kaneria      | 7/77     | Pakistan v Bangladesh      | 2002-01-09 |
+| 9.2        | CD Collymore        | 5/66     | West Indies v Sri Lanka    | 2003-06-20 |
+| 9.2        | SJ Harmison         | 5/35     | England v Bangladesh       | 2003-10-21 |
+| 9.2        | Harbhajan Singh     | 5/29     | India v Australia          | 2004-11-03 |
+| 9.2        | M Muralitharan      | 6/36     | Sri Lanka v West Indies    | 2005-07-13 |
+| 9.2        | B Lee               | 5/105    | Australia v New Zealand    | 2008-11-28 |
+| 9.2        | GP Swann            | 5/54     | England v South Africa     | 2009-12-26 |
+| 9.2        | DL Piedt            | 5/153    | South Africa v England     | 2015-12-26 |
+| 9.2        | Shakib Al Hasan     | 5/85     | Bangladesh v England       | 2016-10-20 |
+| 9.2        | Shakib Al Hasan     | 5/85     | Bangladesh v Australia     | 2017-08-27 |
+| 9.2        | K Rabada            | 6/54     | South Africa v Australia   | 2018-03-09 |
+| 9.2        | Hamza Hotak         | 6/75     | Afghanistan v Zimbabwe     | 2021-03-02 |
+| 9.1        | DL Vettori          | 5/66     | New Zealand v Bangladesh   | 2008-10-25 |
+| 9.1        | R Ashwin            | 6/41     | India v Australia          | 2017-03-04 |
+| 9.1        | MM Ali              | 6/53     | England v South Africa     | 2017-07-06 |
+| 9.1        | NM Lyon             | 7/94     | Australia v Bangladesh     | 2017-09-04 |
+| 8.6        | CM Old              | 6/54     | England v New Zealand      | 1978-02-10 |
+| 8.6        | SM Pollock          | 5/33     | South Africa v New Zealand | 1999-03-18 |
+| 8.6        | DW Steyn            | 7/51     | South Africa v India       | 2010-02-06 |
+| 8.6        | M de Lange          | 7/81     | South Africa v Sri Lanka   | 2011-12-26 |
+| 8.6        | UWMBCA Welagedara   | 5/52     | Sri Lanka v South Africa   | 2011-12-26 |
+| 8.6        | JM Anderson         | 5/72     | England v South Africa     | 2017-07-14 |
+| 8.5        | GD McGrath          | 5/28     | Australia v West Indies    | 1999-03-05 |
+| 8.5        | CRD Fernando        | 5/98     | Sri Lanka v South Africa   | 2000-12-26 |
+| 8.5        | RJ Kirtley          | 6/34     | England v South Africa     | 2003-08-14 |
+| 8.5        | Mohammad Asif       | 6/44     | Pakistan v Sri Lanka       | 2006-04-03 |
+| 8.5        | Umar Gul            | 5/65     | Pakistan v West Indies     | 2006-11-11 |
+| 8.5        | HMRKB Herath        | 5/157    | Sri Lanka v Pakistan       | 2009-07-20 |
+| 8.5        | HMRKB Herath        | 6/97     | Sri Lanka v England        | 2012-03-26 |
+| 8.5        | VD Philander        | 6/42     | South Africa v India       | 2018-01-05 |
+| 8.5        | Hamza Hotak         | 5/74     | Afghanistan v West Indies  | 2019-11-27 |
+| 8.4        | FR Spofforth        | 7/46     | Australia v England        | 1882-08-28 |
+| 8.4        | CN McCarthy         | 6/43     | South Africa v England     | 1948-12-16 |
+| 8.4        | GB Lawrence         | 8/53     | South Africa v New Zealand | 1961-12-26 |
+| 8.4        | BS Chandrasekhar    | 6/76     | India v England            | 1977-01-28 |
+| 8.4        | MS Panesar          | 5/46     | England v West Indies      | 2007-06-15 |
+| 8.4        | HMRKB Herath        | 9/127    | Sri Lanka v Pakistan       | 2014-08-14 |
+| 8.4        | TS Roland-Jones     | 5/57     | England v South Africa     | 2017-07-27 |
+| 8.4        | JO Holder           | 5/56     | West Indies v India        | 2018-10-12 |
+| 8.3        | Mohammad Asif       | 5/27     | Pakistan v Sri Lanka       | 2006-04-03 |
+| 8.3        | MDK Perera          | 5/69     | Sri Lanka v South Africa   | 2014-07-24 |
+| 8.3        | RAS Lakmal          | 5/54     | Sri Lanka v New Zealand    | 2018-12-26 |
+| 8.2        | FR Spofforth        | 7/44     | Australia v England        | 1882-08-28 |
+| 8.2        | M Muralitharan      | 9/51     | Sri Lanka v Zimbabwe       | 2002-01-04 |
+| 8.2        | AR Caddick          | 6/63     | England v New Zealand      | 2002-03-21 |
+| 8.2        | CS Martin           | 5/65     | New Zealand v Bangladesh   | 2008-01-12 |
+| 8.2        | DAJ Bracewell       | 5/85     | New Zealand v Zimbabwe     | 2011-11-01 |
+| 8.2        | Mohammad Aamer      | 6/44     | Pakistan v West Indies     | 2017-04-21 |
+| 8.2        | JC Archer           | 5/102    | England v South Africa     | 2019-12-26 |
+| 8.2        | AR Patel            | 5/60     | India v England            | 2021-02-13 |
+| 8.1        | PM Pollock          | 6/38     | South Africa v New Zealand | 1961-12-08 |
+| 8.1        | CL Cairns           | 5/62     | New Zealand v Sri Lanka    | 1998-06-10 |
+| 8.1        | A Kumble            | 5/82     | India v New Zealand        | 1999-10-29 |
+| 8.1        | Mohammad Asif       | 5/76     | Pakistan v South Africa    | 2007-01-19 |
+| 8.1        | TL Best             | 6/40     | West Indies v Bangladesh   | 2012-11-21 |
+| 8.1        | HMRKB Herath        | 5/40     | Sri Lanka v South Africa   | 2014-07-24 |
+| 8.1        | JO Holder           | 5/41     | West Indies v Sri Lanka    | 2018-06-23 |
+| 8.1        | Mehedi Hasan Miraz  | 5/93     | Bangladesh v West Indies   | 2018-07-12 |
+| 8.1        | Shakib Al Hasan     | 6/33     | Bangladesh v West Indies   | 2018-07-12 |
+| 8.1        | HMRKB Herath        | 6/98     | Sri Lanka v South Africa   | 2018-07-20 |
+| 8.1        | Yasir Shah          | 6/143    | Pakistan v New Zealand     | 2018-11-24 |
+| 8.1        | MA Starc            | 5/46     | Australia v Sri Lanka      | 2019-02-01 |
+| 7.6        | MG Johnson          | 8/61     | Australia v South Africa   | 2008-12-17 |
+| 7.6        | Zulfiqar Babar      | 5/120    | Pakistan v Australia       | 2014-10-30 |
+| 7.5        | MJ Hoggard          | 5/92     | England v Sri Lanka        | 2002-05-30 |
+| 7.5        | BW Hilfenhaus       | 5/75     | Australia v India          | 2011-12-26 |
+| 7.5        | MS Panesar          | 6/81     | England v India            | 2012-11-23 |
+| 7.5        | SCJ Broad           | 6/17     | England v South Africa     | 2016-01-14 |
+| 7.5        | Yasir Shah          | 6/124    | Pakistan v West Indies     | 2016-10-21 |
+| 7.4        | CR Miller           | 5/55     | Australia v New Zealand    | 2000-03-11 |
+| 7.4        | SJ Harmison         | 7/12     | England v West Indies      | 2004-03-11 |
+| 7.4        | Shakib Al Hasan     | 5/70     | Bangladesh v West Indies   | 2009-07-17 |
+| 7.4        | TL Chatara          | 5/61     | Zimbabwe v Pakistan        | 2013-09-10 |
+| 7.4        | Shakib Al Hasan     | 5/44     | Bangladesh v Zimbabwe      | 2014-11-03 |
+| 7.4        | R Ashwin            | 7/66     | India v South Africa       | 2015-11-25 |
+| 7.4        | ST Gabriel          | 8/62     | West Indies v Sri Lanka    | 2018-06-14 |
+| 7.3        | BS Bedi             | 5/63     | India v England            | 1972-12-30 |
+| 7.3        | Mohammad Rafique    | 6/122    | Bangladesh v New Zealand   | 2004-10-19 |
+| 7.3        | M Muralitharan      | 6/18     | Sri Lanka v Bangladesh     | 2005-09-12 |
+| 7.3        | SJ Harmison         | 5/57     | England v Pakistan         | 2006-07-27 |
+| 7.3        | SR Clark            | 5/32     | Australia v West Indies    | 2008-05-22 |
+| 7.3        | Saeed Ajmal         | 6/42     | Pakistan v West Indies     | 2011-05-12 |
+| 7.3        | Junaid Khan         | 5/70     | Pakistan v Sri Lanka       | 2012-07-08 |
+| 7.3        | VD Philander        | 5/59     | South Africa v Pakistan    | 2013-02-14 |
+| 7.3        | HMRKB Herath        | 6/68     | Sri Lanka v West Indies    | 2015-10-14 |
+| 7.3        | ML Cummins          | 6/48     | West Indies v India        | 2016-08-09 |
+| 7.3        | HMRKB Herath        | 5/116    | Sri Lanka v Zimbabwe       | 2017-07-14 |
+| 7.3        | ANPR Fernando       | 6/132    | Sri Lanka v India          | 2017-07-26 |
+| 7.2        | B Lee               | 5/30     | Australia v West Indies    | 2005-11-03 |
+| 7.2        | DW Steyn            | 5/47     | South Africa v New Zealand | 2006-04-15 |
+| 7.2        | PJ Cummins          | 6/79     | Australia v South Africa   | 2011-11-17 |
+| 7.2        | HMRKB Herath        | 8/63     | Sri Lanka v Zimbabwe       | 2016-11-06 |
+| 7.2        | KA Jamieson         | 6/48     | New Zealand v Pakistan     | 2021-01-03 |
+| 7.2        | R Ashwin            | 5/43     | India v England            | 2021-02-13 |
+| 7.1        | MRCN Bandaratilleke | 5/36     | Sri Lanka v New Zealand    | 1998-06-03 |
+| 7.1        | ARC Fraser          | 5/42     | England v South Africa     | 1998-08-06 |
+| 7.1        | Harbhajan Singh     | 6/62     | India v Zimbabwe           | 2002-02-28 |
+| 7.1        | CD Collymore        | 7/57     | West Indies v Sri Lanka    | 2003-06-27 |
+| 7.1        | M Ntini             | 5/75     | South Africa v England     | 2003-07-31 |
+| 7.1        | Shahadat Hossain    | 5/86     | Bangladesh v Sri Lanka     | 2006-03-08 |
+| 7.1        | MG Johnson          | 5/42     | Australia v England        | 2013-11-21 |
+| 7.1        | R Ashwin            | 7/145    | India v South Africa       | 2019-10-02 |
+| 6.8        | RJ Hadlee           | 6/26     | New Zealand v England      | 1978-02-10 |
+| 6.6        | WPUJC Vaas          | 6/29     | Sri Lanka v South Africa   | 2004-08-11 |
+| 6.6        | Z Khan              | 5/65     | India v New Zealand        | 2009-04-03 |
+| 6.6        | KM Jarvis           | 5/54     | Zimbabwe v West Indies     | 2013-03-12 |
+| 6.6        | Shakib Al Hasan     | 5/68     | Bangladesh v Australia     | 2017-08-27 |
+| 6.5        | AA Donald           | 5/54     | South Africa v Sri Lanka   | 1998-03-27 |
+| 6.5        | GD McGrath          | 5/66     | Australia v Pakistan       | 1998-10-22 |
+| 6.5        | Z Khan              | 5/29     | India v New Zealand        | 2002-12-19 |
+| 6.5        | ST Gabriel          | 5/11     | West Indies v Pakistan     | 2017-04-30 |
+| 6.5        | JO Holder           | 5/77     | West Indies v India        | 2019-08-30 |
+| 6.4        | Wasim Akram         | 5/49     | Pakistan v West Indies     | 2000-05-25 |
+| 6.4        | CL Cairns           | 5/31     | New Zealand v Zimbabwe     | 2000-09-12 |
+| 6.4        | FH Edwards          | 5/112    | West Indies v England      | 2007-06-15 |
+| 6.4        | B Lee               | 5/119    | Australia v India          | 2008-01-02 |
+| 6.4        | M Muralitharan      | 6/26     | Sri Lanka v India          | 2008-07-23 |
+| 6.4        | R Ashwin            | 5/51     | India v South Africa       | 2015-11-05 |
+| 6.4        | K Rabada            | 5/33     | South Africa v Bangladesh  | 2017-10-06 |
+| 6.4        | KM Jarvis           | 5/71     | Zimbabwe v Bangladesh      | 2018-11-11 |
+| 6.4        | JJ Bumrah           | 6/27     | India v West Indies        | 2019-08-30 |
+| 6.4        | TG Southee          | 6/43     | New Zealand v England      | 2021-06-02 |
+| 6.4        | L Ambuldeniya       | 5/46     | Sri Lanka v West Indies    | 2021-11-21 |
+| 6.3        | J Srinath           | 6/76     | India v South Africa       | 2001-11-16 |
+| 6.3        | DW Steyn            | 5/75     | South Africa v India       | 2011-01-02 |
+| 6.3        | RJ Harris           | 7/117    | Australia v England        | 2013-08-09 |
+| 6.3        | JM Anderson         | 5/53     | England v India            | 2014-07-27 |
+| 6.3        | Yasir Shah          | 5/92     | Pakistan v West Indies     | 2017-05-10 |
+| 6.3        | JM Anderson         | 5/76     | England v West Indies      | 2017-08-25 |
+| 6.3        | I Sharma            | 5/22     | India v Bangladesh         | 2019-11-22 |
+| 6.2        | GD McKenzie         | 5/65     | Australia v South Africa   | 1966-12-31 |
+| 6.2        | SM Pollock          | 7/87     | South Africa v Australia   | 1998-01-30 |
+| 6.2        | SE Bond             | 5/104    | New Zealand v West Indies  | 2002-06-28 |
+| 6.2        | A Nel               | 6/32     | South Africa v West Indies | 2005-04-21 |
+| 6.2        | SK Warne            | 6/46     | Australia v England        | 2005-08-04 |
+| 6.2        | GP Swann            | 6/82     | England v Sri Lanka        | 2012-03-26 |
+| 6.2        | JM Anderson         | 5/85     | England v Australia        | 2013-07-10 |
+| 6.2        | VD Philander        | 5/45     | South Africa v Sri Lanka   | 2016-12-26 |
+| 6.2        | Shaheen Shah Afridi | 5/77     | Pakistan v Sri Lanka       | 2019-12-19 |
+| 6.1        | AA Donald           | 6/59     | South Africa v Australia   | 1997-12-26 |
+| 6.1        | SM Pollock          | 6/56     | South Africa v India       | 2001-11-03 |
+| 6.1        | GD McGrath          | 5/53     | Australia v England        | 2005-07-21 |
+| 6.1        | RJ Sidebottom       | 5/105    | England v New Zealand      | 2008-03-13 |
+| 6.1        | RJ Harris           | 6/47     | Australia v England        | 2010-12-16 |
+| 6.1        | FH Edwards          | 5/103    | West Indies v India        | 2011-07-06 |
+| 6.1        | JL Pattinson        | 5/27     | Australia v New Zealand    | 2011-12-01 |
+| 6.1        | AR Patel            | 6/38     | India v England            | 2021-02-24 |
+| 5.6        | JM Anderson         | 5/73     | England v Zimbabwe         | 2003-05-22 |
+| 5.6        | Shabbir Ahmed       | 5/117    | Pakistan v New Zealand     | 2003-12-19 |
+| 5.6        | M Ntini             | 5/66     | South Africa v West Indies | 2003-12-26 |
+| 5.6        | SJ Harmison         | 6/46     | England v West Indies      | 2004-08-19 |
+| 5.6        | JEC Franklin        | 5/28     | New Zealand v Bangladesh   | 2004-10-19 |
+| 5.6        | M Ntini             | 7/37     | South Africa v West Indies | 2005-04-08 |
+| 5.6        | SCG MacGill         | 5/43     | Australia v ICC World XI   | 2005-10-14 |
+| 5.6        | ST Finn             | 5/42     | England v Bangladesh       | 2010-06-04 |
+| 5.6        | R Ashwin            | 5/87     | India v Bangladesh         | 2015-06-10 |
+| 5.6        | MDK Perera          | 6/32     | Sri Lanka v South Africa   | 2018-07-12 |
+| 5.6        | PJ Cummins          | 6/23     | Australia v Sri Lanka      | 2019-01-24 |
+| 5.5        | DW Headley          | 6/60     | England v Australia        | 1998-12-26 |
+| 5.5        | AF Giles            | 5/81     | England v West Indies      | 2004-07-22 |
+| 5.5        | SJ Harmison         | 5/38     | England v Bangladesh       | 2005-06-03 |
+| 5.5        | Taijul Islam        | 8/39     | Bangladesh v Zimbabwe      | 2014-10-25 |
+| 5.5        | Hasan Ali           | 5/54     | Pakistan v South Africa    | 2021-02-04 |
+| 5.4        | NAT Adcock          | 6/43     | South Africa v Australia   | 1958-01-24 |
+| 5.4        | DG Cork             | 5/93     | England v South Africa     | 1998-06-04 |
+| 5.4        | Mohammad Akram      | 5/138    | Pakistan v Australia       | 1999-11-26 |
+| 5.4        | B Lee               | 5/47     | Australia v India          | 1999-12-26 |
+| 5.4        | JJC Lawson          | 7/78     | West Indies v Australia    | 2003-05-09 |
+| 5.4        | FH Edwards          | 5/133    | West Indies v Zimbabwe     | 2003-11-04 |
+| 5.4        | GD McGrath          | 6/50     | Australia v England        | 2006-11-23 |
+| 5.4        | D Bishoo            | 8/49     | West Indies v Pakistan     | 2016-10-13 |
+| 5.4        | PJ Cummins          | 5/28     | Australia v New Zealand    | 2019-12-26 |
+| 5.3        | AR Caddick          | 7/46     | England v South Africa     | 1999-12-26 |
+| 5.3        | CA Walsh            | 6/74     | West Indies v England      | 2000-06-29 |
+| 5.3        | GD McGrath          | 5/43     | Australia v England        | 2001-08-23 |
+| 5.3        | M Ntini             | 6/95     | South Africa v West Indies | 2005-04-08 |
+| 5.3        | VD Philander        | 5/15     | South Africa v Australia   | 2011-11-09 |
+| 5.3        | Rahat Ali           | 5/52     | Pakistan v Zimbabwe        | 2013-09-10 |
+| 5.3        | TA Boult            | 5/60     | New Zealand v Australia    | 2015-11-27 |
+| 5.3        | Mehedi Hasan Miraz  | 7/58     | Bangladesh v West Indies   | 2018-11-30 |
+| 5.2        | HJ Tayfield         | 9/113    | South Africa v England     | 1957-02-15 |
+| 5.2        | JN Gillespie        | 5/53     | Australia v England        | 2001-07-19 |
+| 5.2        | RJ Harris           | 5/72     | Australia v England        | 2013-07-18 |
+| 5.2        | KAJ Roach           | 5/42     | West Indies v Bangladesh   | 2014-09-13 |
+| 5.2        | K Rabada            | 7/112    | South Africa v England     | 2016-01-22 |
+| 5.2        | HMRKB Herath        | 5/89     | Sri Lanka v Zimbabwe       | 2016-11-06 |
+| 5.2        | UT Yadav            | 5/53     | India v Bangladesh         | 2019-11-22 |
+| 5.2        | L Ambuldeniya       | 7/137    | Sri Lanka v England        | 2021-01-22 |
+| 5.1        | VD Philander        | 5/53     | South Africa v Sri Lanka   | 2011-12-15 |
+| 5.1        | PM Siddle           | 5/49     | Australia v India          | 2012-01-24 |
+| 5.1        | Taijul Islam        | 6/33     | Bangladesh v West Indies   | 2018-11-22 |
+| 5.0        | MJ Procter          | 6/73     | South Africa v Australia   | 1970-03-05 |
+| 4.6        | AA Donald           | 6/88     | South Africa v England     | 1998-07-02 |
+| 4.6        | Shoaib Akhtar       | 5/109    | Pakistan v Australia       | 2004-12-26 |
+| 4.6        | M Ntini             | 5/35     | South Africa v New Zealand | 2006-05-05 |
+| 4.6        | DW Steyn            | 5/59     | South Africa v New Zealand | 2007-11-08 |
+| 4.6        | Umar Gul            | 6/135    | Pakistan v Sri Lanka       | 2009-03-01 |
+| 4.6        | KAJ Roach           | 5/8      | West Indies v Bangladesh   | 2018-07-04 |
+| 4.5        | GG Arnold           | 6/45     | England v India            | 1972-12-20 |
+| 4.5        | Z Khan              | 7/87     | India v Bangladesh         | 2010-01-24 |
+| 4.5        | T Panyangara        | 5/59     | Zimbabwe v Bangladesh      | 2014-10-25 |
+| 4.5        | I Sharma            | 5/54     | India v Sri Lanka          | 2015-08-28 |
+| 4.5        | SNJ O'Keefe         | 6/35     | Australia v India          | 2017-02-23 |
+| 4.4        | D Gough             | 6/42     | England v South Africa     | 1998-08-06 |
+| 4.4        | M Dillon            | 5/71     | West Indies v India        | 2002-05-18 |
+| 4.4        | PT Collins          | 6/53     | West Indies v Bangladesh   | 2004-06-04 |
+| 4.4        | DW Steyn            | 5/23     | South Africa v India       | 2008-04-03 |
+| 4.4        | JM Anderson         | 5/54     | England v Pakistan         | 2010-07-29 |
+| 4.4        | UWMBCA Welagedara   | 5/87     | Sri Lanka v Pakistan       | 2011-11-03 |
+| 4.4        | JM Anderson         | 5/16     | England v Sri Lanka        | 2016-05-19 |
+| 4.4        | MA Starc            | 5/63     | Australia v Sri Lanka      | 2016-08-13 |
+| 4.4        | R Ashwin            | 5/47     | India v England            | 2021-03-04 |
+| 4.3        | GD McGrath          | 6/85     | Australia v England        | 1998-11-20 |
+| 4.3        | D Gough             | 5/96     | England v Australia        | 1998-12-26 |
+| 4.3        | GD McGrath          | 5/93     | Australia v West Indies    | 1999-03-13 |
+| 4.3        | GD McGrath          | 5/55     | Australia v India          | 2000-01-02 |
+| 4.3        | SM Pollock          | 6/30     | South Africa v Sri Lanka   | 2001-01-02 |
+| 4.3        | Shoaib Akhtar       | 6/30     | Pakistan v New Zealand     | 2003-12-26 |
+| 4.3        | FH Edwards          | 5/38     | West Indies v Pakistan     | 2005-05-26 |
+| 4.3        | WPUJC Vaas          | 5/61     | Sri Lanka v West Indies    | 2008-03-22 |
+| 4.3        | KAJ Roach           | 5/100    | West Indies v Sri Lanka    | 2010-11-23 |
+| 4.3        | RA Jadeja           | 5/58     | India v Australia          | 2013-03-22 |
+| 4.3        | HMRKB Herath        | 7/48     | Sri Lanka v India          | 2015-08-12 |
+| 4.3        | MA Starc            | 6/66     | Australia v Pakistan       | 2019-11-29 |
+| 4.2        | AA Donald           | 5/32     | South Africa v England     | 1998-06-18 |
+| 4.2        | D Gough             | 5/61     | England v Pakistan         | 2001-05-17 |
+| 4.2        | SM Pollock          | 5/40     | South Africa v India       | 2001-11-16 |
+| 4.2        | IK Pathan           | 5/67     | India v Zimbabwe           | 2005-09-20 |
+| 4.2        | Shahadat Hossain    | 5/98     | Bangladesh v England       | 2010-05-27 |
+| 4.2        | Z Khan              | 5/94     | India v Australia          | 2010-10-01 |
+| 4.2        | ST Gabriel          | 5/96     | West Indies v Pakistan     | 2016-10-21 |
+| 4.2        | K Rabada            | 5/30     | South Africa v Bangladesh  | 2017-10-06 |
+| 4.2        | TA Boult            | 6/32     | New Zealand v England      | 2018-03-22 |
+| 4.2        | Mohammad Abbas      | 5/33     | Pakistan v Australia       | 2018-10-16 |
+| 4.2        | Shaheen Shah Afridi | 5/52     | Pakistan v Zimbabwe        | 2021-05-07 |
+| 4.2        | K Rabada            | 5/34     | South Africa v West Indies | 2021-06-10 |
+| 4.1        | AM Blignaut         | 5/79     | Zimbabwe v Pakistan        | 2002-11-09 |
+| 4.1        | MJ Hoggard          | 7/61     | England v South Africa     | 2005-01-13 |
+| 4.1        | JM Anderson         | 5/87     | England v West Indies      | 2009-05-14 |
+| 4.1        | JM Anderson         | 6/17     | England v Pakistan         | 2010-07-29 |
+| 4.1        | PP Ojha             | 6/47     | India v West Indies        | 2011-11-22 |
+| 4.1        | Mehedi Hasan Miraz  | 6/82     | Bangladesh v England       | 2016-10-28 |
+| 4.1        | TG Southee          | 6/80     | New Zealand v Pakistan     | 2016-11-25 |
+| 4.1        | MDK Perera          | 5/88     | Sri Lanka v England        | 2018-11-23 |
+| 4.1        | JM Anderson         | 6/40     | England v Sri Lanka        | 2021-01-22 |
+| 3.6        | BKV Prasad          | 6/33     | India v Pakistan           | 1999-01-28 |
+| 3.6        | A Kumble            | 6/143    | India v South Africa       | 2000-03-02 |
+| 3.6        | CA Walsh            | 5/22     | West Indies v Pakistan     | 2000-05-18 |
+| 3.6        | Manjural Islam      | 6/81     | Bangladesh v Zimbabwe      | 2001-04-19 |
+| 3.6        | Shoaib Akhtar       | 6/11     | Pakistan v New Zealand     | 2002-05-01 |
+| 3.6        | M Ntini             | 5/48     | South Africa v India       | 2006-12-26 |
+| 3.6        | PM Siddle           | 5/21     | Australia v England        | 2009-08-07 |
+| 3.6        | Junaid Khan         | 5/73     | Pakistan v Sri Lanka       | 2012-06-30 |
+| 3.6        | SCJ Broad           | 5/71     | England v Australia        | 2013-08-09 |
+| 3.6        | R Ashwin            | 5/61     | India v South Africa       | 2015-12-03 |
+| 3.6        | HMRKB Herath        | 6/43     | Sri Lanka v Pakistan       | 2017-09-28 |
+| 3.6        | Mehedi Hasan Miraz  | 5/59     | Bangladesh v West Indies   | 2018-11-30 |
+| 3.6        | CR Woakes           | 6/17     | England v Ireland          | 2019-07-24 |
+| 3.6        | JC Archer           | 6/45     | England v Australia        | 2019-08-22 |
+| 3.5        | SB O'Connor         | 5/51     | New Zealand v Australia    | 2000-03-31 |
+| 3.5        | JE Taylor           | 5/50     | West Indies v India        | 2006-06-30 |
+| 3.5        | SJ Harmison         | 6/19     | England v Pakistan         | 2006-07-27 |
+| 3.5        | Shahadat Hossain    | 6/27     | Bangladesh v South Africa  | 2008-02-22 |
+| 3.5        | TG Southee          | 5/55     | New Zealand v England      | 2008-03-22 |
+| 3.5        | I Sharma            | 6/55     | India v West Indies        | 2011-06-28 |
+| 3.5        | VD Philander        | 5/49     | South Africa v Sri Lanka   | 2011-12-15 |
+| 3.5        | HMRKB Herath        | 6/43     | Sri Lanka v New Zealand    | 2012-11-17 |
+| 3.5        | DW Steyn            | 6/8      | South Africa v Pakistan    | 2013-02-01 |
+| 3.5        | K Rabada            | 5/78     | South Africa v England     | 2016-01-14 |
+| 3.5        | SCJ Broad           | 5/86     | England v Australia        | 2019-08-01 |
+| 3.5        | JR Hazlewood        | 5/30     | Australia v England        | 2019-08-22 |
+| 3.5        | Shaheen Shah Afridi | 6/51     | Pakistan v West Indies     | 2021-08-20 |
+| 3.4        | DA Renneberg        | 5/97     | Australia v South Africa   | 1967-02-03 |
+| 3.4        | SM Pollock          | 5/54     | South Africa v West Indies | 1998-11-26 |
+| 3.4        | JH Kallis           | 5/90     | South Africa v West Indies | 1999-01-02 |
+| 3.4        | MJ Hoggard          | 7/63     | England v New Zealand      | 2002-03-13 |
+| 3.4        | SK Warne            | 6/124    | Australia v England        | 2005-09-08 |
+| 3.4        | FH Edwards          | 5/104    | West Indies v Australia    | 2008-05-22 |
+| 3.4        | M Ntini             | 5/94     | South Africa v England     | 2008-08-07 |
+| 3.4        | TG Southee          | 7/64     | New Zealand v India        | 2012-08-31 |
+| 3.4        | K Rabada            | 6/32     | South Africa v England     | 2016-01-22 |
+| 3.4        | ST Gabriel          | 5/77     | West Indies v Bangladesh   | 2018-07-04 |
+| 3.3        | CEL Ambrose         | 5/25     | West Indies v England      | 1998-02-13 |
+| 3.3        | HH Streak           | 5/93     | Zimbabwe v Australia       | 1999-10-14 |
+| 3.3        | AR Caddick          | 5/16     | England v West Indies      | 2000-06-29 |
+| 3.3        | AM Blignaut         | 5/74     | Zimbabwe v India           | 2001-06-15 |
+| 3.3        | DNT Zoysa           | 5/20     | Sri Lanka v Zimbabwe       | 2004-05-06 |
+| 3.3        | BW Hilfenhaus       | 5/106    | Australia v India          | 2012-01-03 |
+| 3.3        | HMRKB Herath        | 6/48     | Sri Lanka v Pakistan       | 2014-08-06 |
+| 3.3        | MDK Perera          | 6/70     | Sri Lanka v Australia      | 2016-08-04 |
+| 3.3        | MJ Leach            | 5/83     | England v Sri Lanka        | 2018-11-14 |
+| 3.2        | PM Pollock          | 5/39     | South Africa v Australia   | 1970-02-19 |
+| 3.2        | DL Vettori          | 6/64     | New Zealand v Sri Lanka    | 1998-06-10 |
+| 3.2        | DW Fleming          | 5/46     | Australia v England        | 1998-11-28 |
+| 3.2        | JL Pattinson        | 5/96     | Australia v India          | 2013-02-22 |
+| 3.2        | Wahab Riaz          | 5/88     | Pakistan v West Indies     | 2016-10-30 |
+| 3.2        | TG Southee          | 5/94     | New Zealand v Bangladesh   | 2017-01-20 |
+| 3.1        | TE Bailey           | 5/20     | England v South Africa     | 1956-12-24 |
+| 3.1        | DG Cork             | 6/119    | England v South Africa     | 1998-06-18 |
+| 3.1        | RL Johnson          | 5/49     | England v Bangladesh       | 2003-10-29 |
+| 3.1        | A Flintoff          | 5/92     | England v Australia        | 2009-07-16 |
+| 3.1        | Rahat Ali           | 6/127    | Pakistan v South Africa    | 2013-02-22 |
+| 3.1        | SCJ Broad           | 6/81     | England v Australia        | 2013-11-21 |
+| 3.1        | SCJ Broad           | 6/25     | England v India            | 2014-08-07 |
+| 3.1        | R Ashwin            | 5/32     | India v South Africa       | 2015-11-25 |
+| 3.1        | R Ashwin            | 6/132    | India v New Zealand        | 2016-09-22 |
+| 3.1        | HMRKB Herath        | 6/133    | Sri Lanka v Zimbabwe       | 2017-07-14 |
+| 3.1        | Taijul Islam        | 5/72     | Bangladesh v Sri Lanka     | 2021-04-29 |
+| 2.6        | AA Donald           | 5/74     | South Africa v England     | 1994-07-21 |
+| 2.6        | IK Pathan           | 5/45     | India v Bangladesh         | 2004-12-10 |
+| 2.6        | DBL Powell          | 5/25     | West Indies v Sri Lanka    | 2005-07-22 |
+| 2.6        | JL Pattinson        | 5/51     | Australia v New Zealand    | 2011-12-09 |
+| 2.6        | DW Steyn            | 5/17     | South Africa v New Zealand | 2013-01-11 |
+| 2.6        | JM Anderson         | 7/42     | England v West Indies      | 2017-09-07 |
+| 2.5        | Wasim Akram         | 5/52     | Pakistan v Zimbabwe        | 1998-11-27 |
+| 2.5        | AA Donald           | 5/49     | South Africa v West Indies | 1998-12-10 |
+| 2.5        | AA Donald           | 5/49     | South Africa v West Indies | 1999-01-15 |
+| 2.5        | D Gough             | 5/109    | England v West Indies      | 2000-06-15 |
+| 2.5        | WPUJC Vaas          | 6/22     | Sri Lanka v West Indies    | 2005-07-22 |
+| 2.5        | MJ Hoggard          | 6/57     | England v India            | 2006-03-01 |
+| 2.5        | Mohammad Asif       | 5/89     | Pakistan v South Africa    | 2007-01-11 |
+| 2.4        | J Srinath           | 6/45     | India v New Zealand        | 1999-10-10 |
+| 2.4        | Shoaib Akhtar       | 5/99     | Pakistan v Australia       | 2004-12-16 |
+| 2.4        | TG Southee          | 5/62     | New Zealand v Sri Lanka    | 2012-11-25 |
+| 2.4        | MG Johnson          | 7/40     | Australia v England        | 2013-12-05 |
+| 2.4        | R Ashwin            | 5/42     | India v Sri Lanka          | 2015-08-20 |
+| 2.4        | Bhuvneshwar Kumar   | 5/48     | India v New Zealand        | 2016-09-30 |
+| 2.4        | KAJ Roach           | 5/72     | West Indies v England      | 2017-09-07 |
+| 2.4        | TJ Murtagh          | 5/13     | Ireland v England          | 2019-07-24 |
+| 2.3        | Waqar Younis        | 5/106    | Pakistan v Zimbabwe        | 1998-03-14 |
+| 2.3        | GD McGrath          | 8/24     | Australia v Pakistan       | 2004-12-16 |
+| 2.3        | DW Steyn            | 5/63     | South Africa v Bangladesh  | 2008-11-19 |
+| 2.3        | FH Edwards          | 5/63     | West Indies v Bangladesh   | 2011-10-29 |
+| 2.3        | Robiul Islam        | 6/71     | Bangladesh v Zimbabwe      | 2013-04-17 |
+| 2.3        | JM Anderson         | 5/56     | England v Pakistan         | 2020-08-21 |
+| 2.2        | J Srinath           | 5/46     | India v Pakistan           | 1999-02-16 |
+| 2.2        | AB Agarkar          | 6/41     | India v Australia          | 2003-12-12 |
+| 2.2        | Shoaib Akhtar       | 5/48     | Pakistan v New Zealand     | 2003-12-26 |
+| 2.2        | GD McGrath          | 5/37     | Australia v Sri Lanka      | 2004-07-01 |
+| 2.2        | M Ntini             | 5/94     | South Africa v New Zealand | 2006-04-15 |
+| 2.2        | M Morkel            | 6/23     | South Africa v New Zealand | 2012-03-23 |
+| 2.2        | JM Anderson         | 5/72     | England v Sri Lanka        | 2012-03-26 |
+| 2.2        | TA Boult            | 5/85     | New Zealand v England      | 2015-05-21 |
+| 2.2        | JM Anderson         | 6/47     | England v Australia        | 2015-07-29 |
+| 2.2        | JM Anderson         | 5/29     | England v Sri Lanka        | 2016-05-19 |
+| 2.2        | MA Starc            | 6/50     | Australia v Sri Lanka      | 2016-08-04 |
+| 2.2        | JM Anderson         | 5/43     | England v Australia        | 2017-12-02 |
+| 2.2        | TG Southee          | 5/32     | New Zealand v West Indies  | 2020-12-11 |
+| 2.1        | NAT Adcock          | 5/45     | South Africa v New Zealand | 1954-01-29 |
+| 2.1        | PM Pollock          | 5/129    | South Africa v England     | 1964-12-23 |
+| 2.1        | CEL Ambrose         | 6/51     | West Indies v South Africa | 1998-12-10 |
+| 2.1        | FH Edwards          | 5/65     | West Indies v New Zealand  | 2006-03-17 |
+| 2.1        | M Ntini             | 6/100    | South Africa v Australia   | 2006-03-31 |
+| 2.1        | M Ntini             | 5/51     | South Africa v New Zealand | 2006-04-15 |
+| 2.1        | JE Taylor           | 5/11     | West Indies v England      | 2009-02-04 |
+| 2.1        | FH Edwards          | 6/90     | West Indies v Bangladesh   | 2012-11-21 |
+| 2.1        | TA Boult            | 6/68     | New Zealand v England      | 2013-03-22 |
+| 2.1        | DW Steyn            | 5/46     | South Africa v Zimbabwe    | 2014-08-09 |
+| 2.1        | JO Holder           | 6/59     | West Indies v Bangladesh   | 2018-07-12 |
+| 2.0        | DEJ Ironside        | 5/51     | South Africa v New Zealand | 1953-12-24 |
+| 1.6        | B Lee               | 5/61     | Australia v West Indies    | 2000-12-01 |
+| 1.6        | HK Olonga           | 5/93     | Zimbabwe v Pakistan        | 2002-11-09 |
+| 1.6        | AR Caddick          | 7/94     | England v Australia        | 2003-01-02 |
+| 1.6        | JEC Franklin        | 6/119    | New Zealand v Australia    | 2005-03-26 |
+| 1.6        | S Sreesanth         | 5/40     | India v South Africa       | 2006-12-15 |
+| 1.6        | VD Philander        | 6/44     | South Africa v New Zealand | 2012-03-15 |
+| 1.6        | VD Philander        | 5/7      | South Africa v New Zealand | 2013-01-02 |
+| 1.6        | R Ashwin            | 5/69     | India v Sri Lanka          | 2017-08-03 |
+| 1.6        | Mohammed Shami      | 5/28     | India v South Africa       | 2018-01-24 |
+| 1.6        | TG Southee          | 6/68     | New Zealand v Sri Lanka    | 2018-12-15 |
+| 1.5        | SM Pollock          | 5/43     | South Africa v West Indies | 1998-12-10 |
+| 1.5        | AR Caddick          | 5/101    | England v Australia        | 2001-07-19 |
+| 1.5        | JM Anderson         | 5/73     | England v New Zealand      | 2008-03-13 |
+| 1.5        | Mohammad Asif       | 5/67     | Pakistan v New Zealand     | 2009-12-03 |
+| 1.5        | MMM Suraj           | 5/82     | Sri Lanka v India          | 2010-08-03 |
+| 1.5        | MG Johnson          | 5/59     | Australia v South Africa   | 2014-02-12 |
+| 1.5        | JR Hazlewood        | 5/48     | Australia v England        | 2017-12-14 |
+| 1.5        | JC Archer           | 6/62     | England v Australia        | 2019-09-12 |
+| 1.4        | Waqar Younis        | 6/78     | Pakistan v South Africa    | 1998-03-06 |
+| 1.4        | DW Fleming          | 5/59     | Australia v Pakistan       | 1999-11-05 |
+| 1.4        | R Ashwin            | 6/47     | India v West Indies        | 2011-11-06 |
+| 1.4        | MG Johnson          | 7/68     | Australia v South Africa   | 2014-02-12 |
+| 1.4        | JJ Bumrah           | 5/7      | India v West Indies        | 2019-08-22 |
+| 1.4        | SCJ Broad           | 6/31     | England v West Indies      | 2020-07-24 |
+| 1.3        | DE Malcolm          | 9/57     | England v South Africa     | 1994-08-18 |
+| 1.3        | HK Olonga           | 5/70     | Zimbabwe v India           | 1998-10-07 |
+| 1.3        | DJ Nash             | 6/27     | New Zealand v India        | 1999-10-10 |
+| 1.3        | DW Fleming          | 5/30     | Australia v India          | 1999-12-10 |
+| 1.3        | CL Cairns           | 7/27     | New Zealand v West Indies  | 1999-12-16 |
+| 1.3        | JN Gillespie        | 6/40     | Australia v West Indies    | 2000-12-26 |
+| 1.3        | RL Johnson          | 6/33     | England v Zimbabwe         | 2003-06-05 |
+| 1.3        | CL Cairns           | 5/79     | New Zealand v England      | 2004-06-10 |
+| 1.3        | JM Anderson         | 7/43     | England v New Zealand      | 2008-06-05 |
+| 1.3        | Tanvir Ahmed        | 6/120    | Pakistan v South Africa    | 2010-11-20 |
+| 1.3        | DW Steyn            | 5/73     | South Africa v Sri Lanka   | 2011-12-26 |
+| 1.3        | SCJ Broad           | 7/44     | England v New Zealand      | 2013-05-16 |
+| 1.3        | Z Khan              | 5/170    | India v New Zealand        | 2014-02-14 |
+| 1.3        | JL Pattinson        | 5/27     | Australia v West Indies    | 2015-12-10 |
+| 1.3        | SCJ Broad           | 6/54     | England v New Zealand      | 2018-03-30 |
+| 1.2        | AK Davidson         | 6/34     | Australia v South Africa   | 1957-12-23 |
+| 1.2        | SM Pollock          | 5/39     | South Africa v Zimbabwe    | 1999-10-29 |
+| 1.2        | M Ntini             | 5/64     | South Africa v Australia   | 2005-12-16 |
+| 1.2        | M Ntini             | 6/59     | South Africa v Pakistan    | 2007-01-19 |
+| 1.2        | VD Philander        | 5/30     | South Africa v England     | 2012-08-16 |
+| 1.2        | HMRKB Herath        | 5/54     | Sri Lanka v Australia      | 2016-07-26 |
+| 1.2        | ST Gabriel          | 5/59     | West Indies v Sri Lanka    | 2018-06-14 |
+| 1.2        | MKPAD Perera        | 5/52     | Sri Lanka v South Africa   | 2018-07-20 |
+| 1.1        | AA Donald           | 5/71     | South Africa v England     | 1998-08-06 |
+| 1.1        | M Zondeki           | 6/39     | South Africa v Zimbabwe    | 2005-03-11 |
+| 1.1        | DW Steyn            | 5/56     | South Africa v Pakistan    | 2007-10-01 |
+| 1.1        | RA Jadeja           | 5/21     | India v South Africa       | 2015-11-05 |
+| 1.1        | Hasan Ali           | 5/45     | Pakistan v New Zealand     | 2018-11-16 |
+| 0.6        | SB Doull            | 7/65     | New Zealand v India        | 1998-12-26 |
+| 0.6        | AA Donald           | 6/53     | South Africa v England     | 1999-11-25 |
+| 0.6        | CL Cairns           | 5/44     | New Zealand v West Indies  | 1999-12-26 |
+| 0.6        | WPUJC Vaas          | 7/71     | Sri Lanka v West Indies    | 2001-11-29 |
+| 0.6        | PT Collins          | 6/76     | West Indies v New Zealand  | 2002-06-21 |
+| 0.6        | M Morkel            | 5/75     | South Africa v England     | 2010-01-03 |
+| 0.6        | JM Anderson         | 5/47     | England v New Zealand      | 2013-05-16 |
+| 0.6        | VD Philander        | 5/21     | South Africa v Australia   | 2016-11-12 |
+| 0.5        | DE Bollinger        | 5/28     | Australia v New Zealand    | 2010-03-19 |
+| 0.5        | KM Jarvis           | 5/64     | Zimbabwe v New Zealand     | 2011-11-01 |
+| 0.5        | JM Anderson         | 5/20     | England v India            | 2018-08-09 |
+| 0.5        | MA Starc            | 5/52     | Australia v New Zealand    | 2019-12-12 |
+| 0.4        | WPUJC Vaas          | 7/120    | Sri Lanka v West Indies    | 2001-11-29 |
+| 0.4        | IK Pathan           | 5/61     | India v Pakistan           | 2006-01-29 |
+| 0.4        | CS Martin           | 5/37     | New Zealand v South Africa | 2006-05-05 |
+| 0.4        | DW Steyn            | 6/49     | South Africa v New Zealand | 2007-11-16 |
+| 0.4        | JM Anderson         | 5/63     | England v South Africa     | 2010-01-03 |
+| 0.4        | Mohammad Aamer      | 5/52     | Pakistan v England         | 2010-08-18 |
+| 0.4        | KJ Abbott           | 6/77     | South Africa v Australia   | 2016-11-12 |
+| 0.3        | RGD Willis          | 5/27     | England v India            | 1977-01-01 |
+| 0.3        | GP Wickramasinghe   | 6/103    | Sri Lanka v Pakistan       | 1999-03-04 |
+| 0.3        | HH Streak           | 5/27     | Zimbabwe v West Indies     | 2000-03-16 |
+| 0.3        | Shoaib Akhtar       | 5/60     | Pakistan v Sri Lanka       | 2004-10-20 |
+| 0.3        | IK Pathan           | 6/51     | India v Bangladesh         | 2004-12-10 |
+| 0.3        | CS Martin           | 6/54     | New Zealand v Sri Lanka    | 2005-04-11 |
+| 0.3        | IK Pathan           | 7/59     | India v Zimbabwe           | 2005-09-20 |
+| 0.3        | RJ Sidebottom       | 6/49     | England v New Zealand      | 2008-03-05 |
+| 0.3        | RJ Sidebottom       | 7/47     | England v New Zealand      | 2008-03-22 |
+| 0.3        | Z Khan              | 5/91     | India v Australia          | 2008-10-09 |
+| 0.3        | SL Malinga          | 5/50     | Sri Lanka v India          | 2010-07-18 |
+| 0.3        | CS Martin           | 5/63     | New Zealand v India        | 2010-11-04 |
+| 0.3        | CS Martin           | 6/26     | New Zealand v Zimbabwe     | 2012-01-26 |
+| 0.3        | JE Taylor           | 6/47     | West Indies v Australia    | 2015-06-11 |
+| 0.3        | SCJ Broad           | 8/15     | England v Australia        | 2015-08-06 |
+| 0.2        | J Srinath           | 5/95     | India v New Zealand        | 1999-01-02 |
+| 0.2        | CA Walsh            | 6/80     | West Indies v South Africa | 1999-01-15 |
+| 0.2        | CA Walsh            | 5/39     | West Indies v Australia    | 1999-03-26 |
+| 0.2        | J Srinath           | 5/60     | India v Zimbabwe           | 2000-11-18 |
+| 0.2        | GD McGrath          | 5/49     | Australia v England        | 2001-08-02 |
+| 0.2        | DR Tuffey           | 6/54     | New Zealand v England      | 2002-03-30 |
+| 0.2        | SE Bond             | 6/51     | New Zealand v Zimbabwe     | 2005-08-15 |
+| 0.2        | Shoaib Akhtar       | 5/71     | Pakistan v England         | 2005-11-29 |
+| 0.2        | VD Philander        | 5/70     | South Africa v Australia   | 2011-11-17 |
+| 0.2        | JM Anderson         | 6/42     | England v West Indies      | 2015-05-01 |
+| 0.2        | Nayeem Hasan        | 5/82     | Bangladesh v Zimbabwe      | 2020-02-22 |
+| 0.1        | AR Caddick          | 5/32     | England v New Zealand      | 1999-07-01 |
+| 0.1        | PT Collins          | 5/26     | West Indies v Bangladesh   | 2002-12-08 |
+| 0.1        | SM Pollock          | 6/39     | South Africa v England     | 2003-08-14 |
+| 0.1        | CS Martin           | 5/104    | New Zealand v South Africa | 2004-03-18 |
+| 0.1        | IK Pathan           | 5/32     | India v Bangladesh         | 2004-12-17 |
+| 0.1        | B Lee               | 5/69     | Australia v South Africa   | 2006-03-24 |
+| 0.1        | Z Khan              | 5/34     | India v Bangladesh         | 2007-05-25 |
+| 0.1        | RJ Sidebottom       | 5/88     | England v West Indies      | 2007-06-15 |
+| 0.1        | DW Steyn            | 5/51     | South Africa v England     | 2010-01-14 |
+| 0.1        | RJ Harris           | 5/62     | Australia v Sri Lanka      | 2011-08-31 |
+| 0.1        | MA Starc            | 5/44     | Australia v Sri Lanka      | 2016-08-04 |
+| 0.1        | DW Steyn            | 5/33     | South Africa v New Zealand | 2016-08-27 |
+| 0.1        | M Morkel            | 5/21     | South Africa v Zimbabwe    | 2017-12-26 |
+| 0.1        | R Ashwin            | 6/61     | India v England            | 2021-02-05 |
+| 0.1        | AR Patel            | 5/32     | India v England            | 2021-02-24 |
++------------+---------------------+----------+----------------------------+------------+
