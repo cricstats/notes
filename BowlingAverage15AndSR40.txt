@@ -1,0 +1,45 @@
++-----------------+---------+-------+------+--------------------+---------+-------+------+--------------------------+------------+
+| Player1         | Average | SR    | Wkts | Player2            | Average | SR    | Wkts | Match                    | StartDate  |
++-----------------+---------+-------+------+--------------------+---------+-------+------+--------------------------+------------+
+| TP Horan        | 12.60   | 30.40 | 5    | R Peel             | 14.87   | 40.62 | 8    | Australia v England      | 1885-01-01 |
+| CTB Turner      | 8.50    | 31.25 | 8    | GA Lohmann         | 12.68   | 34.00 | 19   | Australia v England      | 1887-02-25 |
+| CTB Turner      | 8.50    | 31.25 | 8    | J Briggs           | 9.31    | 34.36 | 19   | Australia v England      | 1887-02-25 |
+| JJ Ferris       | 11.44   | 35.00 | 9    | GA Lohmann         | 12.68   | 34.00 | 19   | Australia v England      | 1887-02-25 |
+| JJ Ferris       | 11.44   | 35.00 | 9    | J Briggs           | 9.31    | 34.36 | 19   | Australia v England      | 1887-02-25 |
+| JJ Ferris       | 13.50   | 40.83 | 18   | GA Lohmann         | 11.31   | 31.55 | 29   | Australia v England      | 1888-02-10 |
+| JJ Ferris       | 13.50   | 40.83 | 18   | J Briggs           | 11.00   | 37.31 | 22   | Australia v England      | 1888-02-10 |
+| GA Lohmann      | 10.00   | 29.44 | 38   | CTB Turner         | 8.55    | 36.93 | 29   | England v Australia      | 1888-07-16 |
+| J Briggs        | 11.00   | 37.31 | 22   | CTB Turner         | 8.55    | 36.93 | 29   | England v Australia      | 1888-07-16 |
+| J Briggs        | 10.65   | 35.42 | 26   | CTB Turner         | 7.97    | 32.48 | 39   | England v Australia      | 1888-08-13 |
+| J Briggs        | 10.65   | 35.42 | 26   | JJ Ferris          | 12.21   | 36.34 | 32   | England v Australia      | 1888-08-13 |
+| GA Lohmann      | 10.02   | 28.52 | 44   | CTB Turner         | 7.97    | 32.48 | 39   | England v Australia      | 1888-08-13 |
+| GA Lohmann      | 10.02   | 28.52 | 44   | JJ Ferris          | 12.21   | 36.34 | 32   | England v Australia      | 1888-08-13 |
+| J Briggs        | 9.96    | 35.25 | 31   | CTB Turner         | 9.40    | 33.48 | 45   | England v Australia      | 1888-08-30 |
+| J Briggs        | 9.96    | 35.25 | 31   | JJ Ferris          | 14.06   | 39.54 | 33   | England v Australia      | 1888-08-30 |
+| GA Lohmann      | 10.51   | 31.06 | 45   | CTB Turner         | 9.40    | 33.48 | 45   | England v Australia      | 1888-08-30 |
+| GA Lohmann      | 10.51   | 31.06 | 45   | JJ Ferris          | 14.06   | 39.54 | 33   | England v Australia      | 1888-08-30 |
+| A Rose-Innes    | 11.80   | 16.00 | 5    | J Briggs           | 10.22   | 35.35 | 40   | South Africa v England   | 1889-03-25 |
+| A Rose-Innes    | 11.80   | 16.00 | 5    | AJ Fothergill      | 6.80    | 33.80 | 5    | South Africa v England   | 1889-03-25 |
+| R Peel          | 12.77   | 40.94 | 54   | CTB Turner         | 10.18   | 34.54 | 50   | England v Australia      | 1890-07-21 |
+| GA Lohmann      | 10.69   | 30.57 | 49   | CTB Turner         | 10.18   | 34.54 | 50   | England v Australia      | 1890-07-21 |
+| GA Lohmann      | 11.44   | 33.61 | 52   | CTB Turner         | 11.62   | 39.45 | 51   | England v Australia      | 1890-08-11 |
+| CTB Turner      | 11.92   | 40.12 | 56   | GA Lohmann         | 11.39   | 34.74 | 58   | Australia v England      | 1892-01-01 |
+| CTB Turner      | 11.92   | 40.12 | 56   | J Briggs           | 7.94    | 28.16 | 55   | Australia v England      | 1892-01-01 |
+| CTB Turner      | 12.04   | 40.36 | 63   | GA Lohmann         | 12.56   | 40.28 | 60   | Australia v England      | 1892-01-29 |
+| CTB Turner      | 12.04   | 40.36 | 63   | J Briggs           | 8.50    | 30.23 | 56   | Australia v England      | 1892-01-29 |
+| AE Trott        | 6.50    | 22.50 | 8    | J Briggs           | 13.39   | 35.22 | 96   | Australia v England      | 1895-02-01 |
+| AE Trott        | 6.50    | 22.50 | 8    | J Briggs           | 13.51   | 35.14 | 100  | Australia v England      | 1895-03-01 |
+| J Middleton     | 14.44   | 34.33 | 9    | GA Lohmann         | 10.55   | 33.96 | 101  | South Africa v England   | 1896-03-21 |
+| J Middleton     | 14.44   | 34.33 | 9    | C Heseltine        | 13.40   | 25.40 | 5    | South Africa v England   | 1896-03-21 |
+| MA Noble        | 11.42   | 24.85 | 7    | J Briggs           | 15.90   | 40.48 | 112  | Australia v England      | 1898-01-14 |
+| RC Blunt        | 6.80    | 21.80 | 5    | MS Nichols         | 8.50    | 31.50 | 6    | New Zealand v England    | 1930-01-24 |
+| RC Blunt        | 6.80    | 21.80 | 5    | MJC Allom          | 6.87    | 25.50 | 8    | New Zealand v England    | 1930-01-24 |
+| EA Martindale   | 14.18   | 24.54 | 22   | CIJ Smith          | 4.80    | 18.00 | 5    | West Indies v England    | 1935-01-24 |
+| LG Hylton       | 13.92   | 34.07 | 13   | WE Hollies         | 11.44   | 31.33 | 9    | West Indies v England    | 1935-03-14 |
+| EA Martindale   | 15.61   | 32.30 | 26   | WE Hollies         | 11.44   | 31.33 | 9    | West Indies v England    | 1935-03-14 |
+| ERH Toshack     | 3.00    | 29.00 | 6    | AV Bedser          | 12.41   | 36.08 | 24   | Australia v England      | 1946-11-29 |
+| AM Blignaut     | 13.75   | 27.75 | 8    | Manjural Islam     | 13.50   | 35.00 | 6    | Zimbabwe v Bangladesh    | 2001-04-26 |
+| C de Grandhomme | 12.22   | 33.88 | 9    | Mehedi Hasan Miraz | 15.63   | 34.52 | 19   | New Zealand v Bangladesh | 2017-01-12 |
+| AR Patel        | 10.59   | 28.37 | 27   | KA Jamieson        | 14.17   | 37.47 | 46   | India v New Zealand      | 2021-11-25 |
+| AR Patel        | 11.24   | 33.21 | 33   | KA Jamieson        | 15.05   | 37.80 | 52   | India v New Zealand      | 2021-12-03 |
++-----------------+---------+-------+------+--------------------+---------+-------+------+--------------------------+------------+
