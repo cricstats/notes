@@ -1,0 +1,10 @@
++-----------------------------------+------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Match                             | Start Date | Batsmen                                                                                                                                                      |
++-----------------------------------+------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Surrey v Hampshire                | 1908-07-20 | [TW Hayward(1)-53, JB Hobbs(2)-56, EG Hayes(3)-52, A Marshal(4)-54, JN Crawford(5)-124, FC Holland(6)-65, WA Spring(7)-53]                                   |
+| Australians v Oxford University   | 1938-05-04 | [JHW Fingleton(1)-124, WA Brown(2)-72, DG Bradman(3)-58, SJ McCabe(4)-110, AG Chipperfield(5)-53, AL Hassett(6)-146, MG Waite(7)-54]                         |
+| Marylebone Cricket Club v Berbice | 1960-03-18 | [G Pullar(1)-65, MJK Smith(2)-50, JM Parks(3)-183, KF Barrington(4)-103, R Illingworth(5)-100, ER Dexter(6)-54, R Subba Row(7)-58]                           |
+| Pakistan v India                  | 2006-01-29 | [Salman Butt(1)-53, Imran Farhat(2)-57, Younis Khan(3)-77, Yousuf Youhana(4)-97, Faisal Iqbal(5)-139, Shahid Afridi(6)-60, Abdur Razzaq(7)-90]               |
+| Sri Lanka A v South Africa A      | 2008-08-29 | [WU Tharanga(1)-61, NT Paranavitana(2)-159, KD Gunawardene(3)-80, AD Mathews(4)-131, SHT Kandamby(5)-138, JK Silva(6)-103, MDK Perera(7)-59]                 |
+| Boost Region v Speen Ghar Region  | 2021-12-02 | [Numan Shah(1)-70, Waqarullah Ishaq(2)-100, Sadiqullah Pacha(3)-96, Munir Ahmad(4)-211, Asif Musazai(5)-101, Darwish Rasooli(6)-112, Mohammad Ibrahim(7)-60] |
++-----------------------------------+------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
