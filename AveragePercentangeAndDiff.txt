@@ -1,0 +1,52 @@
++-------------------+--------------------+---------------------------------------------------+-----------+--------------+
+| Percentage Change | Batsman            | Prev Summary                                      | Curr Runs | Curr Average |
++-------------------+--------------------+---------------------------------------------------+-----------+--------------+
+| .00017            | Joe Root           | runs=9453, innings=204, nos=15, average=50.01587  | 50        | 50.01578     |
+| .00027            | Inzamam-ul-Haq     | runs=7453, innings=166, nos=17, average=50.02013  | 50        | 50.02000     |
+| .00035            | Mahela Jayawardene | runs=6416, innings=141, nos=10, average=48.97709  | 49        | 48.97727     |
+| .00042            | Allan Lamb         | runs=2773, innings=92, nos=8, average=33.01190    | 33        | 33.01176     |
+| .00044            | Shiv Chanderpaul   | runs=9367, innings=227, nos=36, average=49.04188  | 49        | 49.04166     |
+| .00073            | Andy Flower        | runs=3721, innings=88, nos=15, average=50.97260   | 51        | 50.97297     |
+| .00077            | Ramnaresh Sarwan   | runs=5706, innings=144, nos=8, average=41.95588   | 42        | 41.95620     |
+| .00098            | Sachin Tendulkar   | runs=2321, innings=48, nos=5, average=53.97674    | 54        | 53.97727     |
+| .00136            | David Warner       | runs=7263, innings=158, nos=7, average=48.09933   | 48        | 48.09868     |
+| .00153            | Jacob Oram         | runs=1557, innings=49, nos=8, average=37.97560    | 38        | 37.97619     |
+| .00155            | Godfrey Evans      | runs=1674, innings=86, nos=10, average=22.02631   | 22        | 22.02597     |
+| .00156            | Jeff Dujon         | runs=3239, innings=109, nos=11, average=33.05102  | 33        | 33.05050     |
+| .00163            | Sir Alastair Cook  | runs=11269, innings=259, nos=15, average=46.18442 | 46        | 46.18367     |
+| .00197            | Kumar Sangakkara   | runs=11929, innings=220, nos=17, average=58.76354 | 59        | 58.76470     |
+| .00216            | Javed Miandad      | runs=5683, innings=122, nos=17, average=54.12380  | 54        | 54.12264     |
+| .00218            | Steven Smith       | runs=7164, innings=130, nos=16, average=62.84210  | 63        | 62.84347     |
+| .00242            | Graham Gooch       | runs=4937, innings=138, nos=5, average=37.12030   | 37        | 37.11940     |
+| .00243            | Alan Knott         | runs=1678, innings=55, nos=7, average=34.95833    | 35        | 34.95918     |
+| .00261            | Nathan Lyon        | runs=671, innings=84, nos=28, average=11.98214    | 12        | 11.98245     |
+| .00266            | Sourav Ganguly     | runs=6346, innings=161, nos=14, average=43.17006  | 43        | 43.16891     |
++-------------------+--------------------+---------------------------------------------------+-----------+--------------+
+
+Average Diff
+
+
++--------+--------------------+---------------------------------------------------+-----------+--------------+
+| Diff   | Batsman            | Prev Summary                                      | Curr Runs | Curr Average |
++--------+--------------------+---------------------------------------------------+-----------+--------------+
+| .00008 | Joe Root           | runs=9453, innings=204, nos=15, average=50.01587  | 50        | 50.01578     |
+| .00013 | Inzamam-ul-Haq     | runs=7453, innings=166, nos=17, average=50.02013  | 50        | 50.02000     |
+| .00014 | Allan Lamb         | runs=2773, innings=92, nos=8, average=33.01190    | 33        | 33.01176     |
+| .00017 | Mahela Jayawardene | runs=6416, innings=141, nos=10, average=48.97709  | 49        | 48.97727     |
+| .00022 | Shiv Chanderpaul   | runs=9367, innings=227, nos=36, average=49.04188  | 49        | 49.04166     |
+| .00031 | Nathan Lyon        | runs=671, innings=84, nos=28, average=11.98214    | 12        | 11.98245     |
+| .00032 | Ramnaresh Sarwan   | runs=5706, innings=144, nos=8, average=41.95588   | 42        | 41.95620     |
+| .00034 | Godfrey Evans      | runs=1674, innings=86, nos=10, average=22.02631   | 22        | 22.02597     |
+| .00037 | Andy Flower        | runs=3721, innings=88, nos=15, average=50.97260   | 51        | 50.97297     |
+| .00047 | Jerome Taylor      | runs=843, innings=72, nos=7, average=12.96923     | 13        | 12.96969     |
+| .00052 | Jeff Dujon         | runs=3239, innings=109, nos=11, average=33.05102  | 33        | 33.05050     |
+| .00053 | Sachin Tendulkar   | runs=2321, innings=48, nos=5, average=53.97674    | 54        | 53.97727     |
+| .00058 | Jacob Oram         | runs=1557, innings=49, nos=8, average=37.97560    | 38        | 37.97619     |
+| .0006  | Waqar Younis       | runs=814, innings=101, nos=20, average=10.04938   | 10        | 10.04878     |
+| .0006  | Wasim Akram        | runs=1535, innings=92, nos=11, average=18.95061   | 19        | 18.95121     |
+| .0006  | Daniel Vettori     | runs=1403, innings=83, nos=13, average=20.04285   | 20        | 20.04225     |
+| .00065 | Mashrafe Mortaza   | runs=658, innings=59, nos=4, average=11.96363     | 12        | 11.96428     |
+| .00065 | David Warner       | runs=7263, innings=158, nos=7, average=48.09933   | 48        | 48.09868     |
+| .00067 | Javed Omar         | runs=1698, innings=79, nos=2, average=22.05194    | 22        | 22.05128     |
+| .00075 | Sir Alastair Cook  | runs=11269, innings=259, nos=15, average=46.18442 | 46        | 46.18367     |
++--------+--------------------+---------------------------------------------------+-----------+--------------+
