@@ -1,0 +1,24 @@
+Atleast 18 dismissals in match
+
++---+----------------------------------------------------------------------------+--------------------------+------------+
+| # | Players                                                                    | Match                    | Start Date |
++---+----------------------------------------------------------------------------+--------------------------+------------+
+| 3 | [AJ Fothergill, J Briggs, R Abel]                                          | South Africa v England   | 1889-03-25 |
+| 4 | [GA Lohmann, HR Bromley-Davenport, TC O'Brien, TW Hayward]                 | South Africa v England   | 1896-02-13 |
+| 4 | [EJ Smith, FR Foster, GL Jessop, SF Barnes]                                | South Africa v England   | 1912-06-10 |
+| 4 | [G Geary, GTS Stevens, RT Stanyforth, WR Hammond]                          | South Africa v England   | 1927-12-24 |
+| 5 | [H Trumble, JJ Kelly, JV Saunders, MA Noble, RA Duff]                      | England v Australia      | 1902-02-14 |
+| 5 | [A Cotter, CG Macartney, FJ Laver, H Carter, WW Armstrong]                 | England v Australia      | 1909-07-01 |
+| 5 | [A Cotter, C Kelleway, H Carter, WJ Whitty, WW Armstrong]                  | South Africa v Australia | 1910-12-31 |
+| 5 | [AW Nourse, GA Faulkner, LA Stricker, SJ Pegler, TA Ward]                  | England v South Africa   | 1912-07-08 |
+| 5 | [AV Bedser, JT Ikin, PA Gibb, R Pollard, W Voce]                           | India v England          | 1946-07-20 |
+| 5 | [CL McCool, D Tallon, ERH Toshack, KR Miller, RR Lindwall]                 | England v Australia      | 1947-02-28 |
+| 5 | [Ghulam Ahmed, L Amarnath, MH Mankad, S Mushtaq Ali, SA Banerjee]          | West Indies v India      | 1948-12-31 |
+| 5 | [GRA Langley, IWG Johnson, KR Miller, RR Lindwall, WA Johnston]            | West Indies v Australia  | 1951-12-31 |
+| 5 | [Aamer Sohail, Ata-ur-Rehman, Inzamam-ul-Haq, Mushtaq Ahmed, Waqar Younis] | Zimbabwe v Pakistan      | 1993-12-01 |
+| 5 | [AA Donald, BN Schultz, DJ Richardson, L Klusener, PL Symcox]              | Australia v South Africa | 1997-03-21 |
+| 5 | [Ijaz Ahmed, Mushtaq Ahmed, Saqlain Mushtaq, Wasim Akram, Yousuf Youhana]  | India v Pakistan         | 1999-02-04 |
+| 5 | [A Flower, BA Murphy, HH Streak, HK Olonga, NC Johnson]                    | West Indies v Zimbabwe   | 2000-03-16 |
+| 5 | [Abdur Rehman, Asad Shafiq, Mohammad Hafeez, Saeed Ajmal, Umar Gul]        | England v Pakistan       | 2012-01-25 |
+| 5 | [Bilal Asif, Hasan Ali, Imam-ul-Haq, Sarfraz Ahmed, Yasir Shah]            | New Zealand v Pakistan   | 2018-11-24 |
++---+----------------------------------------------------------------------------+--------------------------+------------+
