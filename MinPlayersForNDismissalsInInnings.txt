@@ -1,0 +1,37 @@
+Min is atleast 9 dismissals 
+
++---+--------------------------------------------------------------------------+------------------------------------+------------+
+| # | Players                                                                  | Match                              | Start Date |
++---+--------------------------------------------------------------------------+------------------------------------+------------+
+| 2 | [AJ Fothergill, J Briggs]                                                | South Africa(SECOND) v England     | 1889-03-25 |
+| 2 | [FR Foster, SF Barnes]                                                   | South Africa(FIRST) v England      | 1912-06-10 |
+| 2 | [G Geary, GTS Stevens]                                                   | South Africa(FIRST) v England      | 1927-12-24 |
+| 3 | [CTB Turner, JJ Ferris, RC Allen]                                        | England(FIRST) v Australia         | 1887-02-25 |
+| 3 | [GA Lohmann, W Flowers, W Gunn]                                          | Australia(FIRST) v England         | 1887-02-25 |
+| 3 | [AJ Fothergill, J Briggs, R Abel]                                        | South Africa(FIRST) v England      | 1889-03-25 |
+| 3 | [G MacGregor, J Briggs, WH Lockwood]                                     | Australia(FIRST) v England         | 1893-08-14 |
+| 3 | [AFA Lilley, GA Lohmann, T Richardson]                                   | Australia(FIRST) v England         | 1896-06-22 |
+| 3 | [AC MacLaren, JT Hearne, R Peel]                                         | Australia(FIRST) v England         | 1896-08-10 |
+| 3 | [CE McLeod, H Trumble, WP Howell]                                        | England(SECOND) v Australia        | 1902-01-17 |
+| 3 | [J Darling, JV Saunders, WP Howell]                                      | South Africa(FIRST) v Australia    | 1902-11-08 |
+| 3 | [A Cotter, CG Macartney, WW Armstrong]                                   | England(SECOND) v Australia        | 1909-07-01 |
+| 3 | [FE Woolley, GHT Simpson, GJ Thompson]                                   | South Africa(SECOND) v England     | 1910-02-26 |
+| 3 | [AER Gilligan, MW Tate, R Kilner]                                        | South Africa(FIRST) v England      | 1924-06-14 |
+| 3 | [H Strudwick, JW Hearne, MW Tate]                                        | Australia(SECOND) v England        | 1925-01-01 |
+| 3 | [G Geary, RT Stanyforth, WR Hammond]                                     | South Africa(SECOND) v England     | 1927-12-24 |
+| 3 | [G Duckworth, G Geary, H Larwood]                                        | Australia(FIRST) v England         | 1928-12-14 |
+| 3 | [H Larwood, MW Tate, PGH Fender]                                         | South Africa(FIRST) v England      | 1929-06-15 |
+| 3 | [GAE Paine, LEG Ames, WE Hollies]                                        | West Indies(FIRST) v England       | 1935-02-14 |
+| 3 | [AV Bedser, FR Brown, TG Evans]                                          | Australia(FIRST) v England         | 1951-01-05 |
+| 3 | [Fazal Mahmood, Khan Mohammad, Maqsood Ahmed]                            | England(FIRST) v Pakistan          | 1954-06-10 |
+| 3 | [Fazal Mahmood, Imtiaz Ahmed, Mahmood Hussain]                           | West Indies(SECOND) v Pakistan     | 1959-03-06 |
+| 3 | [CC McDonald, KD Mackay, R Benaud]                                       | Pakistan(SECOND) v Australia       | 1959-11-13 |
+| 3 | [AA Baig, CG Borde, JM Patel]                                            | Australia(FIRST) v India           | 1959-12-19 |
+| 3 | [BS Chandrasekhar, CG Borde, SA Durani]                                  | England(FIRST) v India             | 1964-01-21 |
+| 3 | [BS Chandrasekhar, CG Borde, S Venkataraghavan]                          | New Zealand(FIRST) v India         | 1965-03-19 |
+| 3 | [AME Roberts, DR Parry, J Garner]                                        | Australia(SECOND) v West Indies    | 1978-03-03 |
+| 3 | [Mohsin Khan, Sarfraz Nawaz, Wasim Bari]                                 | Australia(SECOND) v Pakistan       | 1979-03-10 |
+| 3 | [Imran Khan, Saleem Yousuf, Wasim Akram]                                 | England(FIRST) v Pakistan          | 1987-07-23 |
+| 3 | [GD McGrath, MJ Slater, SCG MacGill]                                     | West Indies(FIRST) v Australia     | 1999-03-05 |
+| 3 | [Abdur Razzaq, Rashid Latif, Shoaib Akhtar]                              | West Indies(SECOND) v Pakistan     | 2002-01-31 |
+| 3 | [RJ Harris, RT Ponting, SR Watson]                                       | South Africa(FIRST) v Australia    | 2011-11-09 |
