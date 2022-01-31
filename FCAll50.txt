@@ -1,0 +1,11 @@
++-------+----------------------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Count | Match                                  | Start Date | Batsmen                                                                                                                                      |
++-------+----------------------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| 7     | Sri Lanka A v South Africa A           | 2008-08-29 | [WU Tharanga(1)-61, NT Paranavitana(2)-159, KD Gunawardene(3)-80, AD Mathews(4)-131, SHT Kandamby(5)-138, JK Silva(6)-103, MDK Perera(7)-59] |
+| 7     | Northern Cape v Border                 | 2022-01-27 | [VB Mahlangu(1)-60, EH Kemm(2)-106, IM Dikgale(3)-54, JD Vandiar(4)-67, AR Swanepoel(5)-111, R Moonsamy(6)-51, E Jones(7)-50]                |
+| 6     | Punjab v Services                      | 1996-12-18 | [A Mehra(1)-84, RS Sodhi(2)-55, NS Sidhu(3)-81, D Mongia(4)-207, Bhupinder Singh jun(5)-56, M Mehra(6)-50]                                   |
+| 6     | Karnataka v Uttar Pradesh              | 2010-12-15 | [RV Uthappa(1)-67, KB Pawan(2)-50, AA Verma(3)-89, MK Pandey(4)-50, G Satish(5)-100, STR Binny(6)-127]                                       |
+| 6     | Tamil Nadu v Karnataka                 | 2012-11-09 | [A Mukund(1)-51, KB Arun Karthik(2)-50, RNB Apparajith(3)-112, S Badrinath(4)-72, KD Karthik(5)-154, R Prasanna(6)-74]                       |
+| 6     | Northern Districts v Central Districts | 2017-10-23 | [DR Flynn(1)-62, TL Seifert(2)-77, B Popli(3)-84, DG Brownlie(4)-62, BJ Watling(5)-77, AP Devcich(6)-54]                                     |
+| 6     | Western Province v Northern Cape       | 2018-10-18 | [JPC Newby(1)-76, MC Kleinveldt(2)-166, IM Dikgale(3)-59, AJ Malan(4)-64, N Mlumbi(5)-63, GF Linde(6)-51]                                    |
++-------+----------------------------------------+------------+----------------------------------------------------------------------------------------------------------------------------------------------+
