@@ -1,0 +1,132 @@
++-----------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
+| Player                                                                                                                                              | Matches | Wins | Loss | Tied | Others |
++-----------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
+| [SR Tendulkar]                                                                                                                                      | 200     | 72   | 56   | 0    | 72     |
+| [JM Anderson]                                                                                                                                       | 169     | 73   | 60   | 0    | 36     |
+| [SR Waugh]                                                                                                                                          | 168     | 86   | 36   | 1    | 45     |
+| [RT Ponting]                                                                                                                                        | 168     | 108  | 31   | 0    | 29     |
+| [JH Kallis]                                                                                                                                         | 166     | 82   | 42   | 0    | 42     |
+| [RS Dravid, SR Tendulkar]                                                                                                                           | 146     | 50   | 44   | 0    | 52     |
+| [JH Kallis, MV Boucher]                                                                                                                             | 137     | 70   | 35   | 0    | 32     |
+| [RS Dravid, VVS Laxman]                                                                                                                             | 132     | 45   | 41   | 0    | 46     |
+| [AN Cook, JM Anderson]                                                                                                                              | 130     | 55   | 45   | 0    | 30     |
+| [DPMD Jayawardene, KC Sangakkara]                                                                                                                   | 126     | 51   | 39   | 0    | 36     |
+| [JM Anderson, SCJ Broad]                                                                                                                            | 126     | 53   | 41   | 0    | 32     |
+| [RS Dravid, SR Tendulkar, VVS Laxman]                                                                                                               | 118     | 40   | 39   | 0    | 39     |
+| [AN Cook, JM Anderson, SCJ Broad]                                                                                                                   | 111     | 49   | 35   | 0    | 27     |
+| [RS Dravid, SC Ganguly, SR Tendulkar]                                                                                                               | 103     | 33   | 31   | 0    | 39     |
+| [A Kumble, RS Dravid, SR Tendulkar]                                                                                                                 | 97      | 29   | 28   | 0    | 40     |
+| [ME Waugh, SK Warne, SR Waugh]                                                                                                                      | 92      | 54   | 21   | 0    | 17     |
+| [A Kumble, RS Dravid, SC Ganguly]                                                                                                                   | 92      | 27   | 27   | 0    | 38     |
+| [A Kumble, RS Dravid, SC Ganguly, SR Tendulkar]                                                                                                     | 86      | 25   | 25   | 0    | 36     |
+| [RS Dravid, SC Ganguly, SR Tendulkar, VVS Laxman]                                                                                                   | 80      | 26   | 27   | 0    | 27     |
+| [RS Dravid, SR Tendulkar, V Sehwag, VVS Laxman]                                                                                                     | 77      | 27   | 21   | 0    | 29     |
+| [A Kumble, RS Dravid, SR Tendulkar, VVS Laxman]                                                                                                     | 73      | 22   | 23   | 0    | 28     |
+| [A Kumble, RS Dravid, SC Ganguly, VVS Laxman]                                                                                                       | 71      | 21   | 23   | 0    | 27     |
+| [Harbhajan Singh, RS Dravid, SR Tendulkar, VVS Laxman]                                                                                              | 71      | 27   | 17   | 0    | 27     |
+| [A Kumble, RS Dravid, SC Ganguly, SR Tendulkar, VVS Laxman]                                                                                         | 65      | 19   | 21   | 0    | 25     |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis]                                                                                            | 60      | 33   | 12   | 0    | 15     |
+| [CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon]                                                                                     | 58      | 35   | 6    | 0    | 17     |
+| [IA Healy, MA Taylor, ME Waugh, SK Warne, SR Waugh]                                                                                                 | 55      | 30   | 13   | 0    | 12     |
+| [DPMD Jayawardene, M Muralitharan, MS Atapattu, ST Jayasuriya, WPUJC Vaas]                                                                          | 54      | 23   | 16   | 0    | 15     |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel]                                                                                  | 47      | 25   | 10   | 0    | 12     |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, MV Boucher]                                                                                | 45      | 25   | 10   | 0    | 10     |
+| [CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                                                      | 43      | 25   | 6    | 0    | 12     |
+| [AB de Villiers, AG Prince, GC Smith, HM Amla, JH Kallis, MV Boucher]                                                                               | 42      | 23   | 9    | 0    | 10     |
+| [AC Gilchrist, GD McGrath, JL Langer, ML Hayden, RT Ponting, SK Warne]                                                                              | 40      | 29   | 3    | 0    | 8      |
+| [AN Cook, GP Swann, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                                                 | 40      | 19   | 11   | 0    | 10     |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, MV Boucher]                                                                     | 37      | 21   | 7    | 0    | 9      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, MV Boucher]                                                                      | 33      | 17   | 8    | 0    | 8      |
+| [AN Cook, GP Swann, IJL Trott, IR Bell, JM Anderson, KP Pietersen, MJ Prior]                                                                        | 32      | 16   | 9    | 0    | 7      |
+| [CA Walsh, CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                                            | 30      | 16   | 6    | 0    | 8      |
+| [AC Gilchrist, DR Martyn, GD McGrath, JL Langer, ML Hayden, RT Ponting, SK Warne]                                                                   | 30      | 22   | 1    | 0    | 7      |
+| [AB de Villiers, AG Prince, GC Smith, HM Amla, JH Kallis, MV Boucher, PL Harris]                                                                    | 30      | 15   | 6    | 0    | 9      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, MV Boucher, PL Harris]                                                                     | 30      | 15   | 7    | 0    | 8      |
+| [AJ Strauss, AN Cook, GP Swann, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                                     | 30      | 15   | 7    | 0    | 8      |
+| [AN Cook, GP Swann, IR Bell, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                                        | 29      | 12   | 10   | 0    | 7      |
+| [AN Cook, GP Swann, IJL Trott, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                                      | 29      | 14   | 9    | 0    | 6      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, MV Boucher, PL Harris]                                                          | 25      | 13   | 4    | 0    | 8      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, MV Boucher]                                                           | 25      | 13   | 5    | 0    | 7      |
+| [AN Cook, GP Swann, IJL Trott, IR Bell, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                             | 24      | 10   | 8    | 0    | 6      |
+| [AC Gilchrist, DR Martyn, GD McGrath, JL Langer, JN Gillespie, ML Hayden, RT Ponting, SK Warne]                                                     | 23      | 16   | 1    | 0    | 6      |
+| [AJ Strauss, AN Cook, GP Swann, IJL Trott, IR Bell, JM Anderson, KP Pietersen, MJ Prior]                                                            | 23      | 12   | 7    | 0    | 4      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, M Ntini, MV Boucher]                                                            | 22      | 14   | 4    | 0    | 4      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, MV Boucher, PL Harris]                                                           | 22      | 9    | 6    | 0    | 7      |
+| [AL Logie, CA Walsh, CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                                  | 21      | 12   | 3    | 0    | 6      |
+| [AL Logie, CA Walsh, CEL Ambrose, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                                   | 21      | 12   | 3    | 0    | 6      |
+| [AL Logie, CA Walsh, CEL Ambrose, CL Hooper, DL Haynes, MD Marshall, PJL Dujon, RB Richardson]                                                      | 21      | 10   | 4    | 0    | 7      |
+| [AJ Strauss, AN Cook, GP Swann, IJL Trott, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                          | 21      | 10   | 7    | 0    | 4      |
+| [AL Logie, CA Walsh, CEL Ambrose, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                        | 18      | 9    | 3    | 0    | 6      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                     | 17      | 10   | 2    | 0    | 5      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, MD Marshall, PJL Dujon, RB Richardson]                                        | 17      | 8    | 3    | 0    | 6      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, MV Boucher, PL Harris]                                                | 17      | 7    | 3    | 0    | 7      |
+| [AJ Strauss, AN Cook, GP Swann, IJL Trott, IR Bell, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                                                 | 17      | 7    | 6    | 0    | 4      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, ME Waugh, ML Hayden, RT Ponting, SK Warne, SR Waugh]                                                   | 16      | 12   | 1    | 0    | 3      |
+| [CPS Chauhan, DB Vengsarkar, DR Doshi, GR Viswanath, KD Ghavri, Kapil Dev, SM Gavaskar, SMH Kirmani, Yashpal Sharma]                                | 15      | 5    | 1    | 0    | 9      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, PJL Dujon, RB Richardson]                                       | 15      | 8    | 2    | 0    | 5      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon]                                         | 15      | 8    | 2    | 0    | 5      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                     | 15      | 8    | 2    | 0    | 5      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, M Ntini, MV Boucher, PL Harris]                                                 | 15      | 9    | 3    | 0    | 3      |
+| [AL Logie, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                    | 14      | 7    | 2    | 0    | 5      |
+| [AL Logie, CA Walsh, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                       | 14      | 7    | 2    | 0    | 5      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, RB Richardson]                                     | 14      | 7    | 2    | 0    | 5      |
+| [CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                    | 14      | 7    | 2    | 0    | 5      |
+| [BP Patterson, CA Walsh, CEL Ambrose, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                                    | 14      | 7    | 3    | 0    | 4      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JL Langer, ME Waugh, ML Hayden, SK Warne, SR Waugh]                                                    | 14      | 10   | 1    | 0    | 3      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JL Langer, ML Hayden, RT Ponting, SK Warne, SR Waugh]                                                  | 14      | 10   | 1    | 0    | 3      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, M Ntini, MV Boucher, ND McKenzie]                                                | 14      | 8    | 4    | 0    | 2      |
+| [AL Logie, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                          | 14      | 7    | 2    | 0    | 5      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                          | 13      | 7    | 2    | 0    | 4      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JL Langer, ME Waugh, ML Hayden, RT Ponting, SK Warne, SR Waugh]                                        | 13      | 9    | 1    | 0    | 3      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JN Gillespie, ME Waugh, ML Hayden, RT Ponting, SK Warne, SR Waugh]                                     | 12      | 8    | 1    | 0    | 3      |
+| [CPS Chauhan, DB Vengsarkar, DR Doshi, GR Viswanath, KD Ghavri, Kapil Dev, NS Yadav, SM Gavaskar, SMH Kirmani, Yashpal Sharma]                      | 11      | 4    | 0    | 0    | 7      |
+| [AL Logie, BP Patterson, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                      | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                         | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, PJL Dujon, RB Richardson]                         | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, RB Richardson]                       | 11      | 6    | 1    | 0    | 4      |
+| [BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                      | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                       | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, MD Marshall, PJL Dujon, RB Richardson]                          | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon]                           | 11      | 6    | 1    | 0    | 4      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]                       | 11      | 6    | 1    | 0    | 4      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, M Ntini, MV Boucher, ND McKenzie, PL Harris]                                     | 11      | 5    | 4    | 0    | 2      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JL Langer, JN Gillespie, ML Hayden, RT Ponting, SK Warne, SR Waugh]                                    | 10      | 6    | 1    | 0    | 3      |
+| [BJ Watling, C de Grandhomme, HM Nicholls, JA Raval, KS Williamson, LRPL Taylor, N Wagner, TA Boult, TG Southee, TWM Latham]                        | 10      | 8    | 0    | 0    | 2      |
+| [AL Logie, BP Patterson, CA Walsh, CEL Ambrose, CG Greenidge, CL Hooper, DL Haynes, IVA Richards, MD Marshall, PJL Dujon, RB Richardson]            | 11      | 6    | 1    | 0    | 4      |
+| [AC Gilchrist, B Lee, DR Martyn, GD McGrath, JL Langer, JN Gillespie, ME Waugh, ML Hayden, RT Ponting, SK Warne, SR Waugh]                          | 9       | 5    | 1    | 0    | 3      |
+| [AEE Vogler, AW Nourse, CMH Hathorn, GA Faulkner, GC White, JH Sinclair, LJ Tancred, PW Sherwell, RO Schwarz, SJ Snooke, WA Shalders]               | 6       | 4    | 2    | 0    | 0      |
+| [AJ Strauss, AN Cook, IR Bell, JM Anderson, KP Pietersen, MP Vaughan, MS Panesar, PD Collingwood, RJ Sidebottom, SCJ Broad, TR Ambrose]             | 6       | 4    | 0    | 0    | 2      |
+| [AB de Villiers, AG Prince, DW Steyn, GC Smith, HM Amla, JH Kallis, M Morkel, M Ntini, MV Boucher, ND McKenzie, PL Harris]                          | 6       | 3    | 1    | 0    | 2      |
+| [A Shrewsbury, G Ulyett, J Briggs, J Hunter, JM Read, R Peel, W Attewell, W Barnes, W Bates, W Flowers, WH Scotton]                                 | 5       | 3    | 2    | 0    | 0      |
+| [AR Border, DC Boon, DM Jones, GF Lawson, GR Marsh, IA Healy, MA Taylor, MG Hughes, SR Waugh, TM Alderman, TV Hohns]                                | 5       | 3    | 0    | 0    | 2      |
+| [AA Donald, AC Hudson, BM McMillan, CR Matthews, DJ Richardson, G Kirsten, JN Rhodes, KC Wessels, PN Kirsten, PS de Villiers, WJ Cronje]            | 5       | 2    | 1    | 0    | 2      |
+| [AA Donald, DJ Cullinan, G Kirsten, HH Gibbs, JH Kallis, JN Rhodes, L Klusener, MV Boucher, PR Adams, SM Pollock, WJ Cronje]                        | 5       | 3    | 0    | 0    | 2      |
+| [A Nel, AB de Villiers, AG Prince, DW Steyn, GC Smith, HH Gibbs, HM Amla, JH Kallis, M Ntini, MV Boucher, PL Harris]                                | 5       | 3    | 1    | 0    | 1      |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla, JH Kallis, JP Duminy, M Morkel, M Ntini, MV Boucher, ND McKenzie, PL Harris]                          | 5       | 2    | 3    | 0    | 0      |
+| [AB de Villiers, AG Prince, AN Petersen, DW Steyn, GC Smith, HM Amla, JH Kallis, LL Tsotsobe, M Morkel, MV Boucher, PL Harris]                      | 5       | 2    | 1    | 0    | 2      |
+| [BJ Haddin, CJL Rogers, DA Warner, GJ Bailey, MG Johnson, MJ Clarke, NM Lyon, PM Siddle, RJ Harris, SPD Smith, SR Watson]                           | 5       | 5    | 0    | 0    | 0      |
+| [CT Bancroft, DA Warner, JR Hazlewood, MA Starc, MR Marsh, NM Lyon, PJ Cummins, SE Marsh, SPD Smith, TD Paine, Usman Khawaja]                       | 5       | 3    | 2    | 0    | 0      |
+| [A Shaw, A Shrewsbury, E Peate, G Ulyett, J Selby, R Pilling, RG Barlow, T Emmett, W Bates, WE Midwinter, WH Scotton]                               | 4       | 0    | 2    | 0    | 2      |
+| [A Ward, AC MacLaren, AE Stoddart, FGJ Ford, H Philipson, J Briggs, JT Brown, R Peel, T Richardson, W Brockwell, WH Lockwood]                       | 4       | 2    | 2    | 0    | 0      |
+| [AL Hassett, AR Morris, CL McCool, IWG Johnson, J Moroney, KR Miller, RA Saggers, RN Harvey, RR Lindwall, SJE Loxton, WA Johnston]                  | 4       | 3    | 0    | 0    | 1      |
+| [ATW Grout, BC Booth, GD McKenzie, GE Corling, IR Redpath, NCL O'Neill, NJN Hawke, PJP Burge, RB Simpson, TR Veivers, WM Lawry]                     | 4       | 0    | 0    | 0    | 4      |
+| [AA Mallett, AN Connolly, AP Sheahan, GD McKenzie, HB Taber, IM Chappell, IR Redpath, JW Gleeson, KD Walters, KR Stackpole, WM Lawry]               | 4       | 1    | 2    | 0    | 1      |
+| [APE Knott, AW Greig, CM Old, D Lloyd, DL Amiss, DL Underwood, GG Arnold, JH Edrich, KWR Fletcher, M Hendrick, MH Denness]                          | 4       | 2    | 0    | 0    | 2      |
+| [A Turner, DK Lillee, GJ Cosier, GJ Gilmour, GS Chappell, IC Davis, KD Walters, KJ O'Keeffe, MHN Walker, RB McCosker, RW Marsh]                     | 4       | 2    | 1    | 0    | 1      |
+| [DI Gower, DW Randall, G Boycott, G Miller, GA Gooch, IT Botham, JE Emburey, JM Brearley, M Hendrick, RGD Willis, RW Taylor]                        | 4       | 3    | 1    | 0    | 0      |
+| [CPS Chauhan, DB Vengsarkar, DR Doshi, GR Viswanath, KD Ghavri, Kapil Dev, NS Yadav, RMH Binny, SM Gavaskar, SMH Kirmani, Yashpal Sharma]           | 4       | 1    | 0    | 0    | 3      |
+| [AR Border, B Yardley, BM Laird, DK Lillee, GM Wood, GS Chappell, J Dyson, JR Thomson, KJ Hughes, RW Marsh, TM Alderman]                            | 4       | 1    | 1    | 0    | 2      |
+| [AL Logie, AME Roberts, CG Greenidge, CH Lloyd, DL Haynes, HA Gomes, IVA Richards, J Garner, MA Holding, MD Marshall, PJL Dujon]                    | 4       | 2    | 0    | 0    | 2      |
+| [A Kumble, KS More, Kapil Dev, M Azharuddin, M Prabhakar, NS Sidhu, PK Amre, RK Chauhan, SLV Raju, SR Tendulkar, VG Kambli]                         | 4       | 3    | 0    | 0    | 1      |
+| [BP Julian, DC Boon, GD McGrath, GS Blewett, IA Healy, MA Taylor, ME Waugh, MJ Slater, PR Reiffel, SK Warne, SR Waugh]                              | 4       | 2    | 1    | 0    | 1      |
+| [AC Gilchrist, DR Martyn, DS Lehmann, GD McGrath, JL Langer, JN Gillespie, MJ Clarke, ML Hayden, MS Kasprowicz, RT Ponting, SK Warne]               | 4       | 4    | 0    | 0    | 0      |
+| [A Flintoff, AF Giles, AJ Strauss, GO Jones, IR Bell, KP Pietersen, ME Trescothick, MJ Hoggard, MP Vaughan, SJ Harmison, SP Jones]                  | 4       | 2    | 1    | 0    | 1      |
+| [AJ Strauss, AN Cook, EJG Morgan, GP Swann, IJL Trott, JM Anderson, KP Pietersen, MJ Prior, PD Collingwood, SCJ Broad, ST Finn]                     | 4       | 3    | 1    | 0    | 0      |
+| [AJ Strauss, AN Cook, CT Tremlett, EJG Morgan, GP Swann, IJL Trott, IR Bell, JM Anderson, KP Pietersen, MJ Prior, SCJ Broad]                        | 4       | 2    | 1    | 0    | 1      |
+| [Abdur Rehman, Adnan Akmal, Aizaz Cheema, Asad Shafiq, Azhar Ali, Misbah-ul-Haq, Mohammad Hafeez, Saeed Ajmal, Taufeeq Umar, Umar Gul, Younis Khan] | 4       | 4    | 0    | 0    | 0      |
+| [AB de Villiers, AN Petersen, D Elgar, DW Steyn, F du Plessis, GC Smith, HM Amla, JH Kallis, M Morkel, RJ Peterson, VD Philander]                   | 4       | 4    | 0    | 0    | 0      |
+| [BB McCullum, BJ Watling, BP Martin, DG Brownlie, HD Rutherford, KS Williamson, LRPL Taylor, N Wagner, PG Fulton, TA Boult, TG Southee]             | 4       | 0    | 1    | 0    | 3      |
+| [A Lyth, AN Cook, BA Stokes, GS Ballance, IR Bell, JC Buttler, JE Root, JM Anderson, MA Wood, MM Ali, SCJ Broad]                                    | 4       | 2    | 2    | 0    | 0      |
+| [D Bishoo, J Blackwood, JO Holder, KA Hope, KAJ Roach, KC Brathwaite, KOA Powell, RL Chase, SD Hope, SO Dowrich, ST Gabriel]                        | 4       | 2    | 1    | 0    | 1      |
+| [D Bishoo, DS Smith, JO Holder, KAJ Roach, KC Brathwaite, KOA Powell, ML Cummins, RL Chase, SD Hope, SO Dowrich, ST Gabriel]                        | 4       | 2    | 1    | 0    | 1      |
++-----------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
