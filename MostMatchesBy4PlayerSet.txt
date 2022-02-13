@@ -1,0 +1,77 @@
++----------------------------------------------------------------+---------+------+------+------+--------+
+| Player                                                         | Matches | Wins | Loss | Tied | Others |
++----------------------------------------------------------------+---------+------+------+------+--------+
+| [A Kumble, RS Dravid, SC Ganguly, SR Tendulkar]                | 86      | 25   | 25   | 0    | 36     |
+| [RS Dravid, SC Ganguly, SR Tendulkar, VVS Laxman]              | 80      | 26   | 27   | 0    | 27     |
+| [RS Dravid, SR Tendulkar, V Sehwag, VVS Laxman]                | 77      | 27   | 21   | 0    | 29     |
+| [A Kumble, RS Dravid, SR Tendulkar, VVS Laxman]                | 73      | 22   | 23   | 0    | 28     |
+| [A Kumble, RS Dravid, SC Ganguly, VVS Laxman]                  | 71      | 21   | 23   | 0    | 27     |
+| [Harbhajan Singh, RS Dravid, SR Tendulkar, VVS Laxman]         | 71      | 27   | 17   | 0    | 27     |
+| [GD McGrath, ME Waugh, SK Warne, SR Waugh]                     | 68      | 44   | 14   | 0    | 10     |
+| [CG Greenidge, DL Haynes, IVA Richards, PJL Dujon]             | 67      | 39   | 6    | 0    | 22     |
+| [AC Gilchrist, JL Langer, ML Hayden, RT Ponting]               | 67      | 49   | 8    | 0    | 10     |
+| [RS Dravid, SR Tendulkar, VVS Laxman, Z Khan]                  | 67      | 26   | 19   | 0    | 22     |
+| [AN Cook, IR Bell, JM Anderson, SCJ Broad]                     | 67      | 27   | 22   | 0    | 18     |
+| [IA Healy, MA Taylor, ME Waugh, SR Waugh]                      | 66      | 33   | 16   | 0    | 17     |
+| [AB de Villiers, GC Smith, HM Amla, JH Kallis]                 | 66      | 36   | 14   | 0    | 16     |
+| [A Kumble, SC Ganguly, SR Tendulkar, VVS Laxman]               | 65      | 19   | 21   | 0    | 25     |
+| [GC Smith, JH Kallis, M Ntini, MV Boucher]                     | 65      | 34   | 19   | 0    | 12     |
+| [AB de Villiers, DW Steyn, GC Smith, HM Amla]                  | 65      | 35   | 14   | 0    | 16     |
+| [CG Greenidge, DL Haynes, IVA Richards, MD Marshall]           | 64      | 37   | 6    | 0    | 21     |
+| [DL Haynes, IVA Richards, MD Marshall, PJL Dujon]              | 64      | 38   | 8    | 0    | 18     |
+| [IA Healy, MA Taylor, ME Waugh, SK Warne]                      | 64      | 35   | 14   | 0    | 15     |
+| [IA Healy, ME Waugh, SK Warne, SR Waugh]                       | 64      | 32   | 18   | 0    | 14     |
+| [AB de Villiers, DW Steyn, GC Smith, JH Kallis]                | 64      | 35   | 14   | 0    | 15     |
+| [DB Vengsarkar, Kapil Dev, SM Gavaskar, SMH Kirmani]           | 63      | 8    | 15   | 0    | 40     |
+| [AB de Villiers, GC Smith, JH Kallis, MV Boucher]              | 63      | 32   | 17   | 0    | 14     |
+| [AN Cook, JE Root, JM Anderson, SCJ Broad]                     | 63      | 27   | 23   | 0    | 13     |
+| [DPMD Jayawardene, MS Atapattu, ST Jayasuriya, WPUJC Vaas]     | 62      | 25   | 19   | 0    | 18     |
+| [DPMD Jayawardene, KC Sangakkara, TM Dilshan, TT Samaraweera]  | 62      | 23   | 21   | 0    | 18     |
+| [CG Greenidge, DL Haynes, MD Marshall, PJL Dujon]              | 61      | 36   | 7    | 0    | 18     |
+| [M Muralitharan, MS Atapattu, ST Jayasuriya, WPUJC Vaas]       | 61      | 25   | 18   | 0    | 18     |
+| [DPMD Jayawardene, KC Sangakkara, M Muralitharan, WPUJC Vaas]  | 61      | 30   | 18   | 0    | 13     |
+| [AB de Villiers, DW Steyn, HM Amla, JH Kallis]                 | 61      | 34   | 12   | 0    | 15     |
+| [DPMD Jayawardene, M Muralitharan, MS Atapattu, ST Jayasuriya] | 60      | 27   | 18   | 0    | 15     |
+| [DW Steyn, GC Smith, HM Amla, JH Kallis]                       | 60      | 33   | 12   | 0    | 15     |
+| [CG Greenidge, IVA Richards, MD Marshall, PJL Dujon]           | 59      | 36   | 6    | 0    | 17     |
+| [DPMD Jayawardene, M Muralitharan, ST Jayasuriya, WPUJC Vaas]  | 59      | 27   | 17   | 0    | 15     |
+| [HH Gibbs, JH Kallis, MV Boucher, SM Pollock]                  | 59      | 28   | 17   | 0    | 14     |
+| [AJ Strauss, AN Cook, IR Bell, KP Pietersen]                   | 59      | 25   | 19   | 0    | 15     |
+| [AN Cook, IR Bell, JM Anderson, KP Pietersen]                  | 59      | 23   | 21   | 0    | 15     |
+| [AB de Villiers, DW Steyn, HM Amla, M Morkel]                  | 59      | 31   | 13   | 0    | 15     |
+| [G Kirsten, JH Kallis, MV Boucher, SM Pollock]                 | 58      | 30   | 12   | 0    | 16     |
+| [AC Gilchrist, B Lee, ML Hayden, RT Ponting]                   | 58      | 45   | 5    | 0    | 8      |
+| [Harbhajan Singh, RS Dravid, V Sehwag, VVS Laxman]             | 58      | 22   | 9    | 0    | 27     |
+| [AG Prince, GC Smith, JH Kallis, MV Boucher]                   | 58      | 33   | 14   | 0    | 11     |
+| [DPMD Jayawardene, M Muralitharan, MS Atapattu, WPUJC Vaas]    | 57      | 23   | 18   | 0    | 16     |
+| [AC Gilchrist, GD McGrath, ML Hayden, RT Ponting]              | 57      | 44   | 5    | 0    | 8      |
+| [AC Gilchrist, ML Hayden, RT Ponting, SK Warne]                | 57      | 43   | 6    | 0    | 8      |
+| [AN Cook, JM Anderson, KP Pietersen, MJ Prior]                 | 57      | 25   | 15   | 0    | 17     |
+| [IA Healy, MA Taylor, SK Warne, SR Waugh]                      | 56      | 30   | 14   | 0    | 12     |
+| [AC Gilchrist, GD McGrath, JL Langer, RT Ponting]              | 56      | 44   | 4    | 0    | 8      |
+| [AC Gilchrist, GD McGrath, JL Langer, ML Hayden]               | 56      | 42   | 5    | 0    | 9      |
+| [AN Cook, IR Bell, KP Pietersen, MJ Prior]                     | 56      | 23   | 15   | 0    | 18     |
+| [AN Cook, IR Bell, JM Anderson, MJ Prior]                      | 56      | 21   | 18   | 0    | 17     |
+| [DL Haynes, IVA Richards, PJL Dujon, RB Richardson]            | 55      | 29   | 9    | 0    | 17     |
+| [MA Taylor, ME Waugh, SK Warne, SR Waugh]                      | 55      | 30   | 13   | 0    | 12     |
+| [Harbhajan Singh, RS Dravid, SC Ganguly, VVS Laxman]           | 55      | 22   | 15   | 0    | 18     |
+| [RS Dravid, V Sehwag, VVS Laxman, Z Khan]                      | 55      | 21   | 16   | 0    | 18     |
+| [Harbhajan Singh, RS Dravid, SR Tendulkar, V Sehwag]           | 55      | 22   | 8    | 0    | 25     |
+| [AJ Strauss, AN Cook, JM Anderson, KP Pietersen]               | 55      | 25   | 15   | 0    | 15     |
+| [AB de Villiers, GC Smith, HM Amla, M Morkel]                  | 55      | 28   | 13   | 0    | 14     |
+| [AN Cook, JM Anderson, KP Pietersen, SCJ Broad]                | 55      | 24   | 14   | 0    | 17     |
+| [AN Cook, GP Swann, JM Anderson, MJ Prior]                     | 55      | 28   | 15   | 0    | 12     |
+| [AN Cook, JM Anderson, MJ Prior, SCJ Broad]                    | 55      | 22   | 15   | 0    | 18     |
+| [KS Williamson, LRPL Taylor, TA Boult, TG Southee]             | 55      | 33   | 13   | 0    | 9      |
+| [DB Vengsarkar, GR Viswanath, SM Gavaskar, SMH Kirmani]        | 54      | 10   | 15   | 0    | 29     |
+| [CG Greenidge, DL Haynes, PJL Dujon, RB Richardson]            | 54      | 28   | 8    | 0    | 18     |
+| [DC Boon, IA Healy, MA Taylor, SR Waugh]                       | 54      | 28   | 9    | 0    | 17     |
+| [ME Waugh, MJ Slater, SK Warne, SR Waugh]                      | 54      | 33   | 13   | 0    | 8      |
+| [AC Gilchrist, JL Langer, RT Ponting, SK Warne]                | 54      | 41   | 5    | 0    | 8      |
+| [HH Gibbs, JH Kallis, M Ntini, MV Boucher]                     | 54      | 27   | 16   | 0    | 11     |
+| [RS Dravid, SR Tendulkar, V Sehwag, Z Khan]                    | 54      | 22   | 15   | 0    | 17     |
+| [AB de Villiers, AG Prince, GC Smith, MV Boucher]              | 54      | 29   | 13   | 0    | 12     |
+| [AB de Villiers, AG Prince, JH Kallis, MV Boucher]             | 54      | 29   | 14   | 0    | 11     |
+| [AJ Strauss, AN Cook, KP Pietersen, PD Collingwood]            | 54      | 22   | 15   | 0    | 17     |
+| [BJ Watling, KS Williamson, LRPL Taylor, TA Boult]             | 54      | 30   | 13   | 0    | 11     |
++----------------------------------------------------------------+---------+------+------+------+--------+
