@@ -1,0 +1,61 @@
+Twins Playing Together 
++-------------------------+----------------------+------------------------------------------------------+
+| Player1                 | Player2              | Team                                                 |
++-------------------------+----------------------+------------------------------------------------------+
+| William Bagge           | Richard Bagge        | Norfolk                                              |
+| Alfred Payne            | Arthur Payne         | Oxford University                                    |
+| Alfred Payne            | Arthur Payne         | Gentlemen of England                                 |
+| Alfred Payne            | Arthur Payne         | Marylebone Cricket Club                              |
+| George Ede              | Edward Ede           | Hampshire                                            |
+| Herbert Pigg            | Charles Pigg         | England XI                                           |
+| George Stephens         | Frank Stephens       | Warwickshire                                         |
+| William Denton          | John Denton          | Northamptonshire                                     |
+| Sydney Rippon           | Dudley Rippon        | Somerset                                             |
+| Alec Bedser             | Eric Bedser          | Surrey                                               |
+| Alec Bedser             | Eric Bedser          | South                                                |
+| Alec Bedser             | Eric Bedser          | Marylebone Cricket Club                              |
+| Alec Bedser             | Eric Bedser          | Players                                              |
+| Stuart Westley          | Roger Westley        | Oxford University                                    |
+| Ian Howell              | David Howell         | Eastern Province B                                   |
+| Mark Waugh              | Steve Waugh          | New South Wales                                      |
+| James McBrine           | Junior McBrine       | Ireland                                              |
+| Aruna Hettiarachchi     | Udaya Hettiarachchi  | Colts Cricket Club                                   |
+| Ian Howell              | David Howell         | Border                                               |
+| Mark Waugh              | Steve Waugh          | Australians                                          |
+| Mark Waugh              | Steve Waugh          | Australia                                            |
+| Darlington Matambanadzo | Everton Matambanadzo | Mashonaland Under-24s                                |
+| Darlington Matambanadzo | Everton Matambanadzo | Zimbabwe Cricket Union President's XI                |
+| Darlington Matambanadzo | Everton Matambanadzo | Young Mashonaland                                    |
+| Pierre de Bruyn         | Ettiene de Bruyn     | Northerns B                                          |
+| Parveen Sharma          | Rajeev Sharma        | Himachal Pradesh                                     |
+| Aruna Hettiarachchi     | Udaya Hettiarachchi  | Antonians Sports Club                                |
+| James Marshall          | Hamish Marshall      | Northern Districts                                   |
+| John Davy               | Peter Davy           | Ireland                                              |
+| Imran Jan               | Asif Jan             | Trinidad and Tobago                                  |
+| Darlington Matambanadzo | Everton Matambanadzo | Mashonaland                                          |
+| Arfan Akram             | Adnan Akram          | Cambridge University Centre of Cricketing Excellence |
+| James Marshall          | Hamish Marshall      | New Zealand                                          |
+| Kevin Bennett           | Bevan Bennett        | Border                                               |
+| Jamie Overton           | Craig Overton        | Somerset                                             |
+| Baba Indrajith          | Baba Apparajith      | Tamil Nadu                                           |
+| Marco Jansen            | Duan Jansen          | North West                                           |
++-------------------------+----------------------+------------------------------------------------------+
+
+
+Twins Playing Against Each Other
++----------------------+----------------------+----------------------------------------------------+
+| Player1              | Player2              | Teams                                              |
++----------------------+----------------------+----------------------------------------------------+
+| Eric Bedser          | Alec Bedser          | The Rest v England                                 |
+| Derek Taylor         | Mike Taylor          | Somerset v Nottinghamshire                         |
+| Derek Taylor         | Mike Taylor          | Somerset v Hampshire                               |
+| David Varey          | Jonathan Varey       | Cambridge University v Oxford University           |
+| David Howell         | Ian Howell           | Transvaal v Border                                 |
+| Steve Waugh          | Mark Waugh           | Australians v Essex                                |
+| Alexander Cilliers   | Sarel Cilliers       | Western Province B v Free State B                  |
+| Udaya Hettiarachchi  | Aruna Hettiarachchi  | Burgher Recreation Club v Moors Sports Club        |
+| Ravindu Tillakaratne | Duvindu Tillakaratne | Nondescripts Cricket Club v Badureliya Sports Club |
+| Baba Apparajith      | Baba Indrajith       | India Red v India Green                            |
+| Ravindu Tillakaratne | Duvindu Tillakaratne | Colts Cricket Club v Burgher Recreation Club       |
+| Callum Parkinson     | Matt Parkinson       | Leicestershire v Lancashire                        |
++----------------------+----------------------+----------------------------------------------------+
