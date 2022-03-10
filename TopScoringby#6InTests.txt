@@ -1,0 +1,762 @@
++--------------------------+----------------------------+------------+-----------------------------------------------------------------+
+| Batsman-Runs             | Match                      | StartDate  | Venue                                                           |
++--------------------------+----------------------------+------------+-----------------------------------------------------------------+
+| Doug Walters-250         | Australia v New Zealand    | 1977-02-18 | Lancaster Park, Christchurch                                    |
+| Mahendra Dhoni-224       | India v Australia          | 2013-02-22 | MA Chidambaram Stadium, Chepauk, Chennai                        |
+| BJ Watling-205           | New Zealand v England      | 2019-11-21 | Bay Oval, Mount Maunganui                                       |
+| Hashan Tillakaratne-204  | Sri Lanka v West Indies    | 2001-11-29 | Sinhalese Sports Club Ground, Colombo                           |
+| Syd Gregory-201          | Australia v England        | 1894-12-14 | Sydney Cricket Ground, Sydney                                   |
+| Mushfiqur Rahim-200      | Bangladesh v Sri Lanka     | 2013-03-08 | Galle International Stadium, Galle                              |
+| Ricky Ponting-197        | Australia v Pakistan       | 1999-11-26 | Western Australia Cricket Association Ground, Perth             |
+| Guy Whittall-188         | Zimbabwe v New Zealand     | 2000-09-19 | Harare Sports Club, Harare                                      |
+| Graeme Hick-178          | England v India            | 1993-02-19 | Wankhede Stadium, Bombay                                        |
+| Carl Hooper-178          | West Indies v Pakistan     | 1993-05-01 | Antigua Recreation Ground, St John's                            |
+| Chandu Borde-177         | India v Pakistan           | 1961-01-13 | Nehru Stadium, Madras                                           |
+| Rohit Sharma-177         | India v West Indies        | 2013-11-06 | Eden Gardens, Kolkata                                           |
+| Garry Sobers-174         | West Indies v England      | 1966-08-04 | Headingley, Leeds                                               |
+| Sandeep Patil-174        | India v Australia          | 1981-01-23 | Adelaide Oval, Adelaide                                         |
+| Jeremy Coney-174         | New Zealand v England      | 1984-01-20 | Basin Reserve, Wellington                                       |
+| AB de Villiers-174       | South Africa v England     | 2008-07-18 | Headingley, Leeds                                               |
+| Polly Umrigar-172        | India v West Indies        | 1962-04-04 | Queen's Park Oval, Port of Spain                                |
+| Patsy Hendren-169        | England v Australia        | 1928-11-30 | Exhibition Ground, Brisbane                                     |
+| Collie Smith-168         | West Indies v England      | 1957-07-04 | Trent Bridge, Nottingham                                        |
+| Andrew Flintoff-167      | England v West Indies      | 2004-07-29 | Edgbaston, Birmingham                                           |
+| Jonathan Bairstow-167    | England v Sri Lanka        | 2016-06-09 | Lord's Cricket Ground, St John's Wood                           |
+| Asif Iqbal-166           | Pakistan v New Zealand     | 1976-10-09 | Gaddafi Stadium, Lahore                                         |
+| Jean-Paul Duminy-166     | South Africa v Australia   | 2008-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Andrew Symonds-162       | Australia v India          | 2008-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Tillakaratne Dilshan-162 | Sri Lanka v Bangladesh     | 2009-01-03 | Bir Shrestha Shahid Ruhul Amin Stadium, Chittagong              |
+| Dinesh Chandimal-162     | Sri Lanka v India          | 2015-08-12 | Galle International Stadium, Galle                              |
+| Collie Smith-161         | West Indies v England      | 1957-05-30 | Edgbaston, Birmingham                                           |
+| Garry Sobers-161         | West Indies v England      | 1966-06-02 | Old Trafford, Manchester                                        |
+| Sir Clive Lloyd-161      | West Indies v India        | 1983-12-10 | Eden Gardens, Calcutta                                          |
+| Angelo Mathews-160       | Sri Lanka v England        | 2014-06-20 | Headingley, Leeds                                               |
+| John Crawley-156         | England v Sri Lanka        | 1998-08-27 | The Foster's Oval, Kennington                                   |
+| Shahid Afridi-156        | Pakistan v India           | 2006-01-21 | Iqbal Stadium, Faisalabad                                       |
+| Mark Ramprakash-154      | England v West Indies      | 1998-03-12 | Kensington Oval, Bridgetown                                     |
+| Maurice Leyland-153      | England v Australia        | 1934-07-06 | Old Trafford, Manchester                                        |
+| Nawab of Pataudi-153     | India v New Zealand        | 1965-03-05 | Eden Gardens, Calcutta                                          |
+| Haroon Rasheed-153       | Pakistan v Sri Lanka       | 1982-03-05 | National Stadium, Karachi                                       |
+| Tatenda Taibu-153        | Zimbabwe v Bangladesh      | 2005-01-14 | Bangabandhu National Stadium, Dhaka                             |
+| Asif Iqbal-152           | Pakistan v Australia       | 1976-12-24 | Adelaide Oval, Adelaide                                         |
+| Steve Waugh-152          | Australia v England        | 1989-06-22 | Lord's Cricket Ground, St John's Wood                           |
+| Chamara Silva-152        | Sri Lanka v New Zealand    | 2006-12-15 | Basin Reserve, Wellington                                       |
+| Colin Cowdrey-151        | England v India            | 1964-02-08 | Feroz Shah Kotla, Delhi                                         |
+| Steve Waugh-151          | Australia v New Zealand    | 2000-03-24 | Basin Reserve, Wellington                                       |
+| Michael Clarke-151       | Australia v India          | 2004-10-06 | M Chinnaswamy Stadium, Bangalore                                |
+| Dilip Sardesai-150       | India v West Indies        | 1971-04-01 | Kensington Oval, Bridgetown                                     |
+| Nawab of Pataudi-148     | India v England            | 1967-06-08 | Headingley, Leeds                                               |
+| Tony Greig-148           | England v India            | 1973-02-06 | Brabourne Stadium, Bombay                                       |
+| Tony Greig-148           | England v West Indies      | 1974-03-06 | Kensington Oval, Bridgetown                                     |
+| Robin Smith-148          | England v West Indies      | 1991-06-20 | Lord's Cricket Ground, St John's Wood                           |
+| Mahendra Dhoni-148       | India v Pakistan           | 2006-01-21 | Iqbal Stadium, Faisalabad                                       |
+| Sourav Ganguly-147       | India v Sri Lanka          | 1997-08-09 | Sinhalese Sports Club Ground, Colombo                           |
+| Shiv Chanderpaul-147     | West Indies v England      | 2009-03-06 | Queen's Park Oval, Port of Spain                                |
+| Hashan Tillakaratne-144  | Sri Lanka v New Zealand    | 2003-04-25 | P Saravanamuttu Stadium, Colombo                                |
+| Adam Gilchrist-144       | Australia v Bangladesh     | 2006-04-09 | Narayanganj Osmani Stadium, Fatullah                            |
+| Shakib Al Hasan-144      | Bangladesh v Pakistan      | 2011-12-17 | Shere Bangla National Stadium, Mirpur                           |
+| Basil Butcher-142        | West Indies v India        | 1959-01-21 | Nehru Stadium, Madras                                           |
+| Ted Dexter-141           | England v New Zealand      | 1959-02-27 | Lancaster Park, Christchurch                                    |
+| Michael Clarke-141       | Australia v New Zealand    | 2004-11-18 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Quinton de Kock-141      | South Africa v West Indies | 2021-06-10 | Darren Sammy National Cricket Stadium, Gros Islet               |
+| Ian Bell-140             | England v South Africa     | 2009-12-26 | Sahara Stadium Kingsmead, Durban                                |
+| Ravi Shastri-139         | India v Pakistan           | 1984-10-24 | Iqbal Stadium, Faisalabad                                       |
+| Mark Waugh-139           | Australia v West Indies    | 1991-04-27 | Antigua Recreation Ground, St John's                            |
+| Craig McMillan-139       | New Zealand v Zimbabwe     | 1998-02-19 | Basin Reserve, Wellington                                       |
+| Vic Richardson-138       | Australia v England        | 1925-01-01 | Melbourne Cricket Ground, Melbourne                             |
+| Sir Ian Botham-138       | England v Australia        | 1986-11-14 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Mark Waugh-138           | Australia v England        | 1991-01-25 | Adelaide Oval, Adelaide                                         |
+| Kenneth Weekes-137       | West Indies v England      | 1939-08-19 | Kennington Oval, Kennington                                     |
+| Denis Lindsay-137        | South Africa v Australia   | 1967-01-20 | Kingsmead, Durban                                               |
+| Sir Ian Botham-137       | England v India            | 1979-08-16 | Headingley, Leeds                                               |
+| Asad Shafiq-137          | Pakistan v New Zealand     | 2014-11-26 | Sharjah Cricket Association Stadium, Sharjah                    |
+| Asad Shafiq-137          | Pakistan v Australia       | 2016-12-15 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Bryan Valentine-136      | England v India            | 1933-12-15 | Gymkhana Ground, Bombay                                         |
+| George Mann-136          | England v South Africa     | 1949-03-05 | St George's Park, Port Elizabeth                                |
+| Ted Dexter-136           | England v West Indies      | 1960-01-06 | Kensington Oval, Bridgetown                                     |
+| Kyle Verreynne-136       | South Africa v New Zealand | 2022-02-25 | Hagley Oval, Christchurch                                       |
+| Jack Russell-135         | England v Australia        | 1921-01-14 | Adelaide Oval, Adelaide                                         |
+| Asif Iqbal-135           | Pakistan v West Indies     | 1977-04-15 | Sabina Park, Kingston                                           |
+| Paul Collingwood-135     | England v South Africa     | 2008-07-30 | Edgbaston, Birmingham                                           |
+| Asif Iqbal-134           | Pakistan v Australia       | 1979-03-24 | Western Australia Cricket Association Ground, Perth             |
+| Shoaib Malik-134         | Pakistan v Sri Lanka       | 2009-07-20 | Sinhalese Sports Club Ground, Colombo                           |
+| Daniel Vettori-134       | New Zealand v Pakistan     | 2009-12-11 | McLean Park, Napier                                             |
+| Warwick Armstrong-133    | Australia v England        | 1908-02-07 | Melbourne Cricket Ground, Melbourne                             |
+| Jacob Oram-133           | New Zealand v South Africa | 2006-04-15 | SuperSport Park, Centurion                                      |
+| Garry Sobers-132         | West Indies v India        | 1971-04-13 | Queen's Park Oval, Port of Spain                                |
+| Dinesh Chandimal-132     | Sri Lanka v Australia      | 2016-08-13 | Sinhalese Sports Club Ground, Colombo                           |
+| Denis Lindsay-131        | South Africa v Australia   | 1967-02-03 | New Wanderers Stadium, Johannesburg                             |
+| Kane Williamson-131      | New Zealand v India        | 2010-11-04 | Sardar Patel Stadium, Motera, Ahmedabad                         |
+| Asad Shafiq-131          | Pakistan v Sri Lanka       | 2015-06-17 | Galle International Stadium, Galle                              |
+| Tom Hayward-130          | England v Australia        | 1899-07-17 | Old Trafford, Manchester                                        |
+| Greg Matthews-130        | Australia v New Zealand    | 1986-02-21 | Basin Reserve, Wellington                                       |
+| VVS Laxman-130           | India v West Indies        | 2002-05-10 | Antigua Recreation Ground, St John's                            |
+| Eoin Morgan-130          | England v Pakistan         | 2010-07-29 | Trent Bridge, Nottingham                                        |
+| Andy Flower-129          | Zimbabwe v Sri Lanka       | 1999-11-26 | Harare Sports Club, Harare                                      |
+| Mohammad Ashraful-129    | Bangladesh v Sri Lanka     | 2007-07-03 | P Saravanamuttu Stadium, Colombo                                |
+| Stanley Jackson-128      | England v Australia        | 1902-07-24 | Old Trafford, Manchester                                        |
+| Nawab of Pataudi-128     | India v Australia          | 1964-10-02 | Nehru Stadium, Madras                                           |
+| Paul Collingwood-128     | England v West Indies      | 2007-06-15 | Riverside Ground, Chester-le-Street                             |
+| Marcus North-128         | Australia v India          | 2010-10-09 | M Chinnaswamy Stadium, Bangalore                                |
+| Ben Stokes-128           | England v India            | 2016-11-09 | Saurashtra Cricket Association Stadium, Rajkot                  |
+| Dhananjaya de Silva-127  | Sri Lanka v Zimbabwe       | 2016-11-06 | Harare Sports Club, Harare                                      |
+| Mushfiqur Rahim-127      | Bangladesh v India         | 2017-02-09 | Rajiv Gandhi International Stadium, Uppal, Hyderabad            |
+| Sikandar Raza-127        | Zimbabwe v Sri Lanka       | 2017-07-14 | R Premadasa Stadium, Colombo                                    |
+| Les Ames-126             | England v West Indies      | 1935-03-14 | Sabina Park, Kingston                                           |
+| Derek Randall-126        | England v India            | 1982-06-10 | Lord's Cricket Ground, St John's Wood                           |
+| Dinesh Chandimal-126     | Sri Lanka v England        | 2016-05-27 | Emirates Riverside, Chester-le-Street                           |
+| Maurice Foster-125       | West Indies v Australia    | 1973-02-16 | Sabina Park, Kingston                                           |
+| Mark Boucher-125         | South Africa v Zimbabwe    | 1999-11-11 | Harare Sports Club, Harare                                      |
+| Simon Katich-125         | Australia v India          | 2004-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Damien Martyn-124        | Australia v South Africa   | 2001-12-14 | Adelaide Oval, Adelaide                                         |
+| Aubrey Faulkner-123      | South Africa v England     | 1910-01-01 | Old Wanderers, Johannesburg                                     |
+| Frank Woolley-123        | England v Australia        | 1924-12-19 | Sydney Cricket Ground, Sydney                                   |
+| Inzamam-ul-Haq-123       | Pakistan v West Indies     | 1993-05-01 | Antigua Recreation Ground, St John's                            |
+| Xen Balaskas-122         | South Africa v New Zealand | 1932-03-04 | Basin Reserve, Wellington                                       |
+| Ijaz Ahmed-122           | Pakistan v Australia       | 1988-09-23 | Iqbal Stadium, Faisalabad                                       |
+| Shahid Afridi-122        | Pakistan v West Indies     | 2005-05-26 | Kensington Oval, Bridgetown                                     |
+| Yuvraj Singh-122         | India v Pakistan           | 2006-01-29 | National Stadium, Karachi                                       |
+| Percy Chapman-121        | England v Australia        | 1930-06-27 | Lord's Cricket Ground, St John's Wood                           |
+| Mike Smith-121           | England v South Africa     | 1965-01-01 | Newlands, Cape Town                                             |
+| Sir Clive Lloyd-121      | West Indies v Australia    | 1980-01-26 | Adelaide Oval, Adelaide                                         |
+| David Houghton-121       | Zimbabwe v India           | 1992-10-18 | Harare Sports Club, Harare                                      |
+| Asif Iqbal-120           | Pakistan v Australia       | 1977-01-14 | Sydney Cricket Ground, Sydney                                   |
+| Neil McKenzie-120        | South Africa v New Zealand | 2000-11-30 | St George's Park, Port Elizabeth                                |
+| Ben Stokes-120           | England v Australia        | 2013-12-13 | Western Australia Cricket Association Ground, Perth             |
+| Johnny Douglas-119       | England v South Africa     | 1913-12-13 | Lord's, Durban                                                  |
+| Peter Parfitt-119        | England v Pakistan         | 1962-07-05 | Headingley, Leeds                                               |
+| Mark Burgess-119         | New Zealand v Pakistan     | 1969-11-08 | Dacca Stadium, Dacca                                            |
+| Hashan Tillakaratne-119  | Sri Lanka v Australia      | 1995-12-08 | Western Australia Cricket Association Ground, Perth             |
+| Graeme Hick-118          | England v West Indies      | 1995-08-10 | Trent Bridge, Nottingham                                        |
+| Lance Klusener-118       | South Africa v Sri Lanka   | 2000-07-30 | Asgiriya Stadium, Kandy                                         |
+| Mike Hussey-118          | Australia v Sri Lanka      | 2011-09-16 | Sinhalese Sports Club Ground, Colombo                           |
+| Ravichandran Ashwin-118  | India v West Indies        | 2016-08-09 | Darren Sammy National Cricket Stadium, Gros Islet               |
+| Kevin O'Brien-118        | Ireland v Pakistan         | 2018-05-11 | The Village, Malahide, Dublin                                   |
+| Syd Gregory-117          | Australia v England        | 1899-08-14 | Kennington Oval, Kennington                                     |
+| Jonty Rhodes-117         | South Africa v England     | 1998-06-18 | Lord's Cricket Ground, St John's Wood                           |
+| Jacob Oram-117           | New Zealand v Bangladesh   | 2008-01-04 | University Oval, Dunedin                                        |
+| Marcus North-117         | Australia v South Africa   | 2009-02-26 | Liberty Life Wanderers Stadium, Johannesburg                    |
+| Marlon Samuels-117       | West Indies v England      | 2012-05-25 | Trent Bridge, Nottingham                                        |
+| Tony Greig-116           | England v West Indies      | 1976-07-22 | Headingley, Leeds                                               |
+| Virat Kohli-116          | India v Australia          | 2012-01-24 | Adelaide Oval, Adelaide                                         |
+| Corey Anderson-116       | New Zealand v Bangladesh   | 2013-10-21 | Shere Bangla National Stadium, Mirpur                           |
+| Mushfiqur Rahim-116      | Bangladesh v West Indies   | 2014-09-05 | Arnos Vale Playing Field, Kingstown                             |
+| Shakib Al Hasan-116      | Bangladesh v Sri Lanka     | 2017-03-15 | P Sara Oval, Colombo                                            |
+| Dattu Phadkar-115        | India v England            | 1951-12-30 | Eden Gardens, Calcutta                                          |
+| Derek Randall-115        | England v Australia        | 1982-11-12 | Western Australia Cricket Association Ground, Perth             |
+| Hashan Tillakaratne-115  | Sri Lanka v Pakistan       | 1995-09-15 | Iqbal Stadium, Faisalabad                                       |
+| Mohammad Rizwan-115      | Pakistan v South Africa    | 2021-02-04 | Rawalpindi Cricket Stadium, Rawalpindi                          |
+| Basil D'Oliveira-114     | England v Pakistan         | 1969-02-28 | Dacca Stadium, Dacca                                            |
+| Paul Sheahan-114         | Australia v India          | 1969-11-15 | Modi Stadium, Kanpur                                            |
+| Greg Chappell-114        | Australia v England        | 1980-02-01 | Melbourne Cricket Ground, Melbourne                             |
+| Sir Ian Botham-114       | England v India            | 1980-02-15 | Wankhede Stadium, Bombay                                        |
+| Mohammad Ashraful-114    | Bangladesh v Sri Lanka     | 2001-09-06 | Sinhalese Sports Club Ground, Colombo                           |
+| Travis Head-114          | Australia v New Zealand    | 2019-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Liton Das-114            | Bangladesh v Pakistan      | 2021-11-26 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| Garry Sobers-113         | West Indies v England      | 1968-02-08 | Sabina Park, Kingston                                           |
+| Allan Border-113         | Australia v Pakistan       | 1988-09-23 | Iqbal Stadium, Faisalabad                                       |
+| Jonathan Bairstow-113    | England v Australia        | 2022-01-05 | Sydney Cricket Ground, Sydney                                   |
+| Don Bradman-112          | Australia v England        | 1928-12-29 | Melbourne Cricket Ground, Melbourne                             |
+| Brian Booth-112          | Australia v England        | 1962-11-30 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Yuvraj Singh-112         | India v Pakistan           | 2004-04-05 | Gaddafi Stadium, Lahore                                         |
+| Prasanna Jayawardene-112 | Sri Lanka v England        | 2011-05-26 | The SWALEC Stadium, Cardiff                                     |
+| Jermaine Blackwood-112   | West Indies v England      | 2015-04-13 | Sir Vivian Richards Stadium, North Sound                        |
+| Ben Stokes-112           | England v South Africa     | 2017-07-27 | The Kia Oval, Kennington                                        |
+| Jack Russell-111         | England v South Africa     | 1923-02-16 | Kingsmead, Durban                                               |
+| Jeremy Coney-111         | New Zealand v Pakistan     | 1985-02-09 | Carisbrook, Dunedin                                             |
+| Arjuna Ranatunga-111     | Sri Lanka v India          | 1985-08-30 | Sinhalese Sports Club Ground, Colombo                           |
+| Hanuma Vihari-111        | India v West Indies        | 2019-08-30 | Sabina Park, Kingston                                           |
+| Garry Sobers-110         | West Indies v Australia    | 1969-01-24 | Adelaide Oval, Adelaide                                         |
+| Tony Greig-110           | England v Australia        | 1974-11-29 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Marcus North-110         | Australia v England        | 2009-08-07 | Headingley, Leeds                                               |
+| Gulabrai Ramchand-109    | India v Australia          | 1956-10-26 | Brabourne Stadium, Bombay                                       |
+| Alimuddin-109            | Pakistan v England         | 1962-02-02 | National Stadium, Karachi                                       |
+| Gary Cosier-109          | Australia v West Indies    | 1975-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Imran Khan-109           | Pakistan v India           | 1989-11-15 | National Stadium, Karachi                                       |
+| Dhananjaya de Silva-109  | Sri Lanka v New Zealand    | 2019-08-22 | P Sara Oval, Colombo                                            |
+| Fawad Alam-109           | Pakistan v South Africa    | 2021-01-26 | National Stadium, Karachi                                       |
+| Sanjay Manjrekar-108     | India v West Indies        | 1989-04-07 | Kensington Oval, Bridgetown                                     |
+| Lance Klusener-108       | South Africa v India       | 2001-11-03 | Goodyear Park, Bloemfontein                                     |
+| Doug Walters-107         | Australia v New Zealand    | 1980-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Neil Johnson-107         | Zimbabwe v Pakistan        | 1998-11-27 | Arbab Niaz Stadium, Peshawar                                    |
+| Craig McMillan-107       | New Zealand v England      | 1999-08-05 | Old Trafford, Manchester                                        |
+| Mohammad Azharuddin-106  | India v Australia          | 1992-01-25 | Adelaide Oval, Adelaide                                         |
+| Allan Border-106         | Australia v Sri Lanka      | 1992-09-08 | Tyronne Fernando Stadium, Moratuwa                              |
+| Grant Flower-106         | Zimbabwe v India           | 2000-11-25 | Vidarbha Cricket Association Ground, Nagpur                     |
+| Jos Buttler-106          | England v India            | 2018-08-18 | Trent Bridge, Nottingham                                        |
+| Roston Chase-106         | West Indies v India        | 2018-10-12 | Rajiv Gandhi International Stadium, Uppal, Hyderabad            |
+| Viv Richards-105         | West Indies v New Zealand  | 1985-04-26 | Kensington Oval, Bridgetown                                     |
+| Ricky Ponting-105        | Australia v South Africa   | 1997-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Andy Flower-105          | Zimbabwe v Sri Lanka       | 1998-01-14 | Sinhalese Sports Club Ground, Colombo                           |
+| Ricky Ponting-105        | Australia v Sri Lanka      | 1999-09-30 | Sinhalese Sports Club Ground, Colombo                           |
+| Angelo Mathews-105       | Sri Lanka v Australia      | 2011-09-16 | Sinhalese Sports Club Ground, Colombo                           |
+| Doug Walters-104         | Australia v New Zealand    | 1974-03-22 | Eden Park, Auckland                                             |
+| Peter Kirsten-104        | South Africa v England     | 1994-08-04 | Headingley, Leeds                                               |
+| Dwayne Bravo-104         | West Indies v Australia    | 2009-12-04 | Adelaide Oval, Adelaide                                         |
+| Alan Melville-103        | South Africa v England     | 1939-03-03 | Kingsmead, Durban                                               |
+| Brian Booth-103          | Australia v England        | 1962-12-29 | Melbourne Cricket Ground, Melbourne                             |
+| Tony Greig-103           | England v India            | 1977-01-01 | Eden Gardens, Calcutta                                          |
+| Sir Ian Botham-103       | England v New Zealand      | 1983-08-25 | Trent Bridge, Nottingham                                        |
+| Sir Clive Lloyd-103      | West Indies v India        | 1983-10-29 | Feroz Shah Kotla, Delhi                                         |
+| Pravin Amre-103          | India v South Africa       | 1992-11-13 | Kingsmead, Durban                                               |
+| Hashan Tillakaratne-103  | Sri Lanka v Pakistan       | 1997-04-19 | R Premadasa Stadium, Colombo                                    |
+| Mohammad Azharuddin-103  | India v New Zealand        | 1998-12-26 | Basin Reserve, Wellington                                       |
+| Scott Styris-103         | New Zealand v West Indies  | 2006-03-09 | Eden Park, Auckland                                             |
+| Pathum Nissanka-103      | Sri Lanka v West Indies    | 2021-03-21 | Sir Vivian Richards Stadium, North Sound                        |
+| Sir Clive Lloyd-102      | West Indies v Australia    | 1975-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Ravi Shastri-102         | India v West Indies        | 1983-04-28 | Antigua Recreation Ground, St John's                            |
+| Greg Blewett-102         | Australia v England        | 1995-01-26 | Adelaide Oval, Adelaide                                         |
+| Nathan Astle-102         | New Zealand v England      | 1997-01-24 | Eden Park, Auckland                                             |
+| Andrew Flintoff-102      | England v West Indies      | 2004-04-10 | Antigua Recreation Ground, St John's                            |
+| Andrew Flintoff-102      | England v Australia        | 2005-08-25 | Trent Bridge, Nottingham                                        |
+| Sourav Ganguly-102       | India v Australia          | 2008-10-17 | Punjab Cricket Association Stadium, Mohali                      |
+| Matthew Wade-102         | Australia v Sri Lanka      | 2013-01-03 | Sydney Cricket Ground, Sydney                                   |
+| Mushtaq Mohammad-101     | Pakistan v India           | 1961-02-08 | Feroz Shah Kotla, Delhi                                         |
+| Motganhalli Jaisimha-101 | India v Australia          | 1968-01-19 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Sir Clive Lloyd-101      | West Indies v England      | 1980-07-10 | Old Trafford, Manchester                                        |
+| Inzamam-ul-Haq-101       | Pakistan v Zimbabwe        | 1995-02-15 | Harare Sports Club, Harare                                      |
+| Rishabh Pant-101         | India v England            | 2021-03-04 | Sardar Patel Stadium, Motera, Ahmedabad                         |
+| Javed Miandad-100        | Pakistan v India           | 1978-11-14 | National Stadium, Karachi                                       |
+| Allan Border-100         | Australia v West Indies    | 1984-03-16 | Queen's Park Oval, Port of Spain                                |
+| Brian McMillan-100       | South Africa v England     | 1995-11-30 | New Wanderers Stadium, Johannesburg                             |
+| Shiv Chanderpaul-100     | West Indies v Australia    | 2003-04-10 | Bourda, Georgetown                                              |
+| Shakib Al Hasan-100      | Bangladesh v New Zealand   | 2010-02-15 | Seddon Park, Hamilton                                           |
+| Ben Stokes-100           | England v West Indies      | 2017-08-25 | Headingley, Leeds                                               |
+| Rishabh Pant-100         | India v South Africa       | 2022-01-11 | PPC Newlands, Cape Town                                         |
+| Robert Christiani-99     | West Indies v England      | 1948-01-21 | Kensington Oval, Bridgetown                                     |
+| Saleem Malik-99          | Pakistan v England         | 1987-07-02 | Headingley, Leeds                                               |
+| Dipak Patel-99           | New Zealand v England      | 1992-01-18 | Lancaster Park, Christchurch                                    |
+| Sourav Ganguly-99        | India v Sri Lanka          | 1997-11-26 | Vidarbha Cricket Association Ground, Nagpur                     |
+| AB de Villiers-99        | South Africa v Sri Lanka   | 2011-12-15 | SuperSport Park, Centurion                                      |
+| Babar Azam-99            | Pakistan v Australia       | 2018-10-16 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Geoff Miller-98          | England v Pakistan         | 1977-12-14 | Gaddafi Stadium, Lahore                                         |
+| David Capel-98           | England v Pakistan         | 1987-12-16 | National Stadium, Karachi                                       |
+| Aamer Malik-98           | Pakistan v England         | 1987-12-16 | National Stadium, Karachi                                       |
+| Gus Logie-98             | West Indies v England      | 1990-03-23 | Queen's Park Oval, Port of Spain                                |
+| Jimmy Adams-98           | West Indies v England      | 2000-06-15 | Edgbaston, Birmingham                                           |
+| Mohammad Ashraful-98     | Bangladesh v Zimbabwe      | 2004-02-19 | Harare Sports Club, Harare                                      |
+| Lance Klusener-97        | South Africa v India       | 2000-03-02 | M Chinnaswamy Stadium, Bangalore                                |
+| AB de Villiers-97        | South Africa v New Zealand | 2006-04-15 | SuperSport Park, Centurion                                      |
+| Ian Bell-97              | England v West Indies      | 2007-06-07 | Old Trafford, Manchester                                        |
+| AB de Villiers-97        | South Africa v England     | 2008-08-07 | The Brit Oval, Kennington                                       |
+| Brun Smith-96            | New Zealand v England      | 1949-06-11 | Headingley, Leeds                                               |
+| Tony Greig-96            | England v Australia        | 1975-07-31 | Lord's Cricket Ground, St John's Wood                           |
+| Ricky Ponting-96         | Australia v Sri Lanka      | 1999-09-09 | Asgiriya Stadium, Kandy                                         |
+| Shakib Al Hasan-96       | Bangladesh v England       | 2010-03-20 | Shere Bangla National Stadium, Mirpur                           |
+| Ajinkya Rahane-96        | India v South Africa       | 2013-12-26 | Sahara Stadium Kingsmead, Durban                                |
+| Mitchell Marsh-96        | Australia v South Africa   | 2018-03-01 | Sahara Stadium, Kingsmead, Durban                               |
+| Quinton de Kock-96       | South Africa v West Indies | 2021-06-18 | Darren Sammy National Cricket Stadium, Gros Islet               |
+| Bob Catterall-95         | South Africa v England     | 1924-08-16 | Kennington Oval, Kennington                                     |
+| Shafqat Rana-95          | Pakistan v New Zealand     | 1969-10-30 | Gaddafi Stadium, Lahore                                         |
+| Shiv Chanderpaul-95      | West Indies v Pakistan     | 1997-11-29 | Rawalpindi Cricket Stadium, Rawalpindi                          |
+| Jonty Rhodes-95          | South Africa v England     | 1998-06-04 | Edgbaston, Birmingham                                           |
+| Lance Klusener-95        | South Africa v Sri Lanka   | 2000-08-06 | Sinhalese Sports Club Ground, Colombo                           |
+| AB de Villiers-95        | South Africa v Sri Lanka   | 2006-08-04 | P Saravanamuttu Stadium, Colombo                                |
+| Jonathan Bairstow-95     | England v South Africa     | 2012-08-16 | Lord's Cricket Ground, St John's Wood                           |
+| Quinton de Kock-95       | South Africa v England     | 2019-12-26 | SuperSport Park, Centurion                                      |
+| Joe Hardstaff-94         | England v West Indies      | 1939-08-19 | Kennington Oval, Kennington                                     |
+| Hanumant Singh-94        | India v Australia          | 1964-10-02 | Nehru Stadium, Madras                                           |
+| Steve Waugh-94           | Australia v England        | 1994-12-24 | Melbourne Cricket Ground, Melbourne                             |
+| Craig Wishart-94         | Zimbabwe v Bangladesh      | 2001-11-08 | Bangabandhu National Stadium, Dhaka                             |
+| Herbie Taylor-93         | South Africa v Australia   | 1912-07-15 | Lord's Cricket Ground, St John's Wood                           |
+| Walter Hadlee-93         | New Zealand v England      | 1937-07-24 | Old Trafford, Manchester                                        |
+| John Reid-93             | New Zealand v England      | 1949-08-13 | Kennington Oval, Kennington                                     |
+| Chandu Borde-93          | India v West Indies        | 1962-03-07 | Sabina Park, Kingston                                           |
+| Doug Walters-93          | Australia v India          | 1968-01-19 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Jeremy Coney-93          | New Zealand v Australia    | 1986-03-13 | Eden Park, Auckland                                             |
+| Hashan Tillakaratne-93   | Sri Lanka v England        | 1993-03-13 | Sinhalese Sports Club Ground, Colombo                           |
+| Mushfiqur Rahim-93       | Bangladesh v Zimbabwe      | 2013-04-25 | Harare Sports Club, Harare                                      |
+| Shimron Hetmyer-93       | West Indies v Bangladesh   | 2018-11-30 | Shere Bangla National Stadium, Mirpur                           |
+| Steve Waugh-92           | Australia v England        | 1989-07-27 | Old Trafford, Manchester                                        |
+| Basit Ali-92             | Pakistan v West Indies     | 1993-04-23 | Kensington Oval, Bridgetown                                     |
+| Hashan Tillakaratne-92   | Sri Lanka v South Africa   | 1993-08-25 | Tyronne Fernando Stadium, Moratuwa                              |
+| Ricky Ponting-92         | Australia v West Indies    | 2000-12-15 | Adelaide Oval, Adelaide                                         |
+| Azhar Ali-92             | Pakistan v England         | 2010-08-18 | The Brit Oval, Kennington                                       |
+| Jermaine Blackwood-92    | West Indies v Sri Lanka    | 2015-10-14 | Galle International Stadium, Galle                              |
+| Rishabh Pant-92          | India v West Indies        | 2018-10-12 | Rajiv Gandhi International Stadium, Uppal, Hyderabad            |
+| Michael Bevan-91         | Australia v Pakistan       | 1994-11-01 | Gaddafi Stadium, Lahore                                         |
+| Roland Holder-91         | West Indies v India        | 1997-03-14 | Queen's Park Oval, Port of Spain                                |
+| Asim Kamal-91            | Pakistan v India           | 2005-03-08 | Punjab Cricket Association Stadium, Mohali                      |
+| Mohammad Kaif-91         | India v England            | 2006-03-01 | Vidarbha Cricket Association Ground, Nagpur                     |
+| Angelo Mathews-91        | Sri Lanka v Pakistan       | 2013-12-31 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Rishabh Pant-91          | India v England            | 2021-02-05 | MA Chidambaram Stadium, Chepauk, Chennai                        |
+| Jock Cameron-90          | South Africa v England     | 1935-06-29 | Lord's Cricket Ground, St John's Wood                           |
+| Everton Weekes-90        | West Indies v England      | 1957-06-20 | Lord's Cricket Ground, St John's Wood                           |
+| Alan Knott-90            | England v India            | 1971-08-19 | Kennington Oval, Kennington                                     |
+| Arjuna Ranatunga-90      | Sri Lanka v Australia      | 1983-04-22 | Asgiriya Stadium, Kandy                                         |
+| Neil McKenzie-90         | South Africa v England     | 2003-08-14 | Trent Bridge, Nottingham                                        |
+| Majid Khan-89            | Pakistan v Australia       | 1980-02-27 | National Stadium, Karachi                                       |
+| Allan Border-89          | Australia v England        | 1983-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Ranjan Madugalle-89      | Sri Lanka v New Zealand    | 1984-03-24 | Colombo Cricket Club Ground, Colombo                            |
+| Adam Parore-89           | New Zealand v South Africa | 1995-03-04 | Eden Park, Auckland                                             |
+| VVS Laxman-89            | India v South Africa       | 2001-11-16 | St George's Park, Port Elizabeth                                |
+| Andrew Flintoff-89       | England v Australia        | 2007-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Mike Hussey-89           | Australia v India          | 2011-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Angelo Mathews-89        | Sri Lanka v South Africa   | 2014-07-16 | Galle International Stadium, Galle                              |
+| Archie MacLaren-88       | England v Australia        | 1899-06-15 | Lord's Cricket Ground, St John's Wood                           |
+| Trevor Bailey-88         | England v Australia        | 1954-11-26 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Mohammad Ilyas-88        | Pakistan v New Zealand     | 1965-02-12 | Lancaster Park, Christchurch                                    |
+| Basil D'Oliveira-88      | England v West Indies      | 1966-08-04 | Headingley, Leeds                                               |
+| Allan Border-88          | Australia v New Zealand    | 1993-02-25 | Lancaster Park, Christchurch                                    |
+| Arjuna Ranatunga-88      | Sri Lanka v South Africa   | 2000-07-30 | Asgiriya Stadium, Kandy                                         |
+| Gus Logie-87             | West Indies v India        | 1989-04-15 | Queen's Park Oval, Port of Spain                                |
+| Michael Bevan-87         | Australia v West Indies    | 1997-02-01 | Western Australia Cricket Association Ground, Perth             |
+| Jonty Rhodes-87          | South Africa v West Indies | 1998-12-26 | Kingsmead, Durban                                               |
+| Neil McKenzie-87         | South Africa v Australia   | 2001-12-14 | Adelaide Oval, Adelaide                                         |
+| Johnny Taylor-86         | Australia v England        | 1925-02-13 | Melbourne Cricket Ground, Melbourne                             |
+| Collie Smith-86          | West Indies v Pakistan     | 1958-03-26 | Queen's Park Oval, Port of Spain                                |
+| Nawab of Pataudi-86      | India v Australia          | 1964-10-10 | Brabourne Stadium, Bombay                                       |
+| Keith Fletcher-86        | England v West Indies      | 1973-08-23 | Lord's Cricket Ground, St John's Wood                           |
+| Jonty Rhodes-86          | South Africa v India       | 1993-01-02 | Newlands, Cape Town                                             |
+| Graham Thorpe-86         | England v West Indies      | 1994-03-25 | Queen's Park Oval, Port of Spain                                |
+| Grant Flower-86          | Zimbabwe v India           | 2001-06-15 | Harare Sports Club, Harare                                      |
+| Sean Ervine-86           | Zimbabwe v Bangladesh      | 2004-02-19 | Harare Sports Club, Harare                                      |
+| Elton Chigumbura-86      | Zimbabwe v Bangladesh      | 2013-04-25 | Harare Sports Club, Harare                                      |
+| Quinton de Kock-86       | South Africa v Sri Lanka   | 2019-02-21 | St George's Park, Port Elizabeth                                |
+| Len Darling-85           | Australia v England        | 1933-02-23 | Sydney Cricket Ground, Sydney                                   |
+| Peter Toohey-85          | Australia v India          | 1978-01-07 | Sydney Cricket Ground, Sydney                                   |
+| Hansie Cronje-85         | South Africa v Pakistan    | 1998-03-06 | St George's Park, Port Elizabeth                                |
+| Jonty Rhodes-85          | South Africa v England     | 1998-08-06 | Headingley, Leeds                                               |
+| Alok Kapali-85           | Bangladesh v West Indies   | 2002-12-16 | MA Aziz Stadium, Chittagong                                     |
+| Tatenda Taibu-85         | Zimbabwe v Bangladesh      | 2005-01-14 | Bangabandhu National Stadium, Dhaka                             |
+| Jermaine Blackwood-85    | West Indies v England      | 2015-05-01 | Kensington Oval, Bridgetown                                     |
+| Ben Stokes-85            | England v Bangladesh       | 2016-10-20 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| BJ Watling-85            | New Zealand v England      | 2018-03-30 | Hagley Oval, Christchurch                                       |
+| Sikandar Raza-85         | Zimbabwe v Afghanistan     | 2021-03-10 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Wasim Raja-84            | Pakistan v West Indies     | 1977-03-04 | Queen's Park Oval, Port of Spain                                |
+| Sandeep Patil-84         | India v Pakistan           | 1983-01-03 | Iqbal Stadium, Faisalabad                                       |
+| Shane Thomson-84         | New Zealand v South Africa | 1994-11-25 | New Wanderers Stadium, Johannesburg                             |
+| Angelo Mathews-84        | Sri Lanka v New Zealand    | 2012-11-25 | P Sara Oval, Colombo                                            |
+| Travis Head-84           | Australia v Sri Lanka      | 2019-01-24 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Philip Sharpe-83         | England v West Indies      | 1963-08-22 | Kennington Oval, Kennington                                     |
+| Jeremy Coney-83          | New Zealand v West Indies  | 1985-04-26 | Kensington Oval, Bridgetown                                     |
+| John Crawley-83          | England v Australia        | 1997-07-03 | Old Trafford, Manchester                                        |
+| Andy Flower-83           | Zimbabwe v India           | 2001-06-07 | Queens Sports Club, Bulawayo                                    |
+| Faisal Iqbal-83          | Pakistan v Australia       | 2002-10-03 | P Saravanamuttu Stadium, Colombo                                |
+| Thilan Samaraweera-83    | Sri Lanka v India          | 2010-08-03 | P Sara Oval, Colombo                                            |
+| Asad Shafiq-83           | Pakistan v New Zealand     | 2011-01-07 | Seddon Park, Hamilton                                           |
+| AB de Villiers-83        | South Africa v New Zealand | 2012-03-15 | Seddon Park, Hamilton                                           |
+| Peter Toohey-82          | Australia v India          | 1977-12-02 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Jeremy Coney-82          | New Zealand v Pakistan     | 1979-02-23 | Eden Park, Auckland                                             |
+| Peter Willey-82          | England v Australia        | 1981-07-02 | Lord's Cricket Ground, St John's Wood                           |
+| Imran Khan-82            | Pakistan v Australia       | 1990-02-03 | Sydney Cricket Ground, Sydney                                   |
+| Shane Thomson-82         | New Zealand v South Africa | 1994-12-26 | Kingsmead, Durban                                               |
+| Suresh Raina-82          | India v West Indies        | 2011-06-20 | Sabina Park, Kingston                                           |
+| Mahendra Dhoni-82        | India v England            | 2014-08-15 | The Kia Oval, Kennington                                        |
+| Rohit Sharma-82          | India v New Zealand        | 2016-09-30 | Eden Gardens, Kolkata                                           |
+| CK Nayudu-81             | India v England            | 1936-08-15 | Kennington Oval, Kennington                                     |
+| Denis Lindsay-81         | South Africa v Australia   | 1966-12-31 | Newlands, Cape Town                                             |
+| Gus Logie-81             | West Indies v England      | 1988-06-16 | Lord's Cricket Ground, St John's Wood                           |
+| Mohammad Azharuddin-81   | India v New Zealand        | 1988-12-02 | Lal Bahadur Shastri Stadium, Hyderabad                          |
+| Sanath Jayasuriya-81     | Sri Lanka v Pakistan       | 1992-01-02 | Iqbal Stadium, Faisalabad                                       |
+| Brendan Nash-81          | West Indies v England      | 2009-05-06 | Lord's Cricket Ground, St John's Wood                           |
+| Jonathan Bairstow-81     | England v Pakistan         | 2016-08-11 | The Kia Oval, Kennington                                        |
+| Shimron Hetmyer-81       | West Indies v England      | 2019-01-23 | Kensington Oval, Bridgetown                                     |
+| Ollie Pope-81            | England v India            | 2021-09-02 | The Kia Oval, Kennington                                        |
+| Bill Ponsford-80         | Australia v England        | 1925-02-27 | Sydney Cricket Ground, Sydney                                   |
+| Garry Sobers-80          | West Indies v Pakistan     | 1958-02-05 | Queen's Park Oval, Port of Spain                                |
+| Quinton de Kock-80       | South Africa v Sri Lanka   | 2019-02-13 | Kingsmead, Durban                                               |
+| Patsy Hendren-79         | England v Australia        | 1934-06-08 | Trent Bridge, Nottingham                                        |
+| Freddie Brown-79         | England v Australia        | 1951-01-05 | Sydney Cricket Ground, Sydney                                   |
+| Lee Irvine-79            | South Africa v Australia   | 1970-02-19 | New Wanderers Stadium, Johannesburg                             |
+| Jimmy Adams-79           | West Indies v South Africa | 1992-04-18 | Kensington Oval, Bridgetown                                     |
+| Craig McMillan-79        | New Zealand v Australia    | 2000-03-31 | WestpacTrust Park, Hamilton                                     |
+| Umar Akmal-79            | Pakistan v England         | 2010-08-26 | Lord's Cricket Ground, St John's Wood                           |
+| Jermaine Blackwood-79    | West Indies v England      | 2017-08-17 | Edgbaston, Birmingham                                           |
+| Ben Stokes-79            | England v West Indies      | 2019-02-09 | Darren Sammy National Cricket Stadium, Gros Islet               |
+| Jack Ryder-78            | Australia v South Africa   | 1921-11-05 | Lord's, Durban                                                  |
+| Stan Nichols-78          | England v New Zealand      | 1930-01-24 | Basin Reserve, Wellington                                       |
+| Barry Shepherd-78        | Australia v South Africa   | 1964-01-24 | Adelaide Oval, Adelaide                                         |
+| Allan Border-78          | Australia v West Indies    | 1982-01-30 | Adelaide Oval, Adelaide                                         |
+| Arjuna Ranatunga-78      | Sri Lanka v England        | 1988-08-25 | Lord's Cricket Ground, St John's Wood                           |
+| Craig McMillan-78        | New Zealand v Australia    | 2000-03-11 | Eden Park, Auckland                                             |
+| Alec Stewart-78          | England v India            | 2002-08-22 | Headingley, Leeds                                               |
+| Shane Watson-78          | Australia v India          | 2008-10-17 | Punjab Cricket Association Stadium, Mohali                      |
+| Suresh Raina-78          | India v England            | 2011-07-21 | Lord's Cricket Ground, St John's Wood                           |
+| Jimmy Neesham-78         | New Zealand v West Indies  | 2014-06-26 | Kensington Oval, Bridgetown                                     |
+| Sarfraz Ahmed-78         | Pakistan v Sri Lanka       | 2015-07-03 | Pallekele Cricket Stadium, Pallekele                            |
+| Russell Endean-77        | South Africa v Australia   | 1957-12-23 | New Wanderers Stadium, Johannesburg                             |
+| Wasim Raja-77            | Pakistan v West Indies     | 1980-12-22 | National Stadium, Karachi                                       |
+| Gus Logie-77             | West Indies v Australia    | 1991-03-01 | Sabina Park, Kingston                                           |
+| Sanath Jayasuriya-77     | Sri Lanka v Pakistan       | 1991-12-12 | Jinnah Stadium, Sialkot                                         |
+| Shiv Chanderpaul-77      | West Indies v England      | 1994-04-08 | Kensington Oval, Bridgetown                                     |
+| Andrew Flintoff-77       | England v Sri Lanka        | 2003-12-18 | Sinhalese Sports Club Ground, Colombo                           |
+| Dwayne Bravo-77          | West Indies v England      | 2004-08-12 | Old Trafford, Manchester                                        |
+| Joe Root-77              | England v India            | 2014-08-07 | Emirates Old Trafford, Manchester                               |
+| BJ Watling-77            | New Zealand v Sri Lanka    | 2019-08-14 | Galle International Stadium, Galle                              |
+| Jack Hearne-76           | England v Australia        | 1911-12-15 | Sydney Cricket Ground, Sydney                                   |
+| Robert Christiani-76     | West Indies v Australia    | 1951-11-30 | Sydney Cricket Ground, Sydney                                   |
+| Tony Greig-76            | England v West Indies      | 1976-07-22 | Headingley, Leeds                                               |
+| Jonty Rhodes-76          | South Africa v Australia   | 1994-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Ijaz Ahmed-76            | Pakistan v Zimbabwe        | 1995-02-07 | Queens Sports Club, Bulawayo                                    |
+| Chris Cairns-76          | New Zealand v Pakistan     | 1995-12-08 | Lancaster Park, Christchurch                                    |
+| Michael Vaughan-76       | England v West Indies      | 2000-08-17 | Headingley, Leeds                                               |
+| Tatenda Taibu-76         | Zimbabwe v New Zealand     | 2005-08-15 | Queens Sports Club, Bulawayo                                    |
+| Ian Bell-76              | England v Australia        | 2010-11-25 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Thilan Samaraweera-76    | Sri Lanka v New Zealand    | 2012-11-25 | P Sara Oval, Colombo                                            |
+| Chandu Borde-75          | India v England            | 1959-07-23 | Old Trafford, Manchester                                        |
+| Eknath Solkar-75         | India v England            | 1972-12-20 | Feroz Shah Kotla, Delhi                                         |
+| Derek Randall-75         | England v New Zealand      | 1983-07-14 | Kennington Oval, Kennington                                     |
+| Inzamam-ul-Haq-75        | Pakistan v New Zealand     | 1993-01-02 | Trust Bank Park, Hamilton                                       |
+| Keith Arthurton-75       | West Indies v England      | 1995-06-22 | Lord's Cricket Ground, St John's Wood                           |
+| Arjuna Ranatunga-75      | Sri Lanka v Zimbabwe       | 1996-09-11 | R Premadasa Stadium, Colombo                                    |
+| Neil Johnson-75          | Zimbabwe v Australia       | 1999-10-14 | Harare Sports Club, Harare                                      |
+| Virat Kohli-75           | India v Australia          | 2012-01-13 | Western Australia Cricket Association Ground, Perth             |
+| Asad Shafiq-75           | Pakistan v Sri Lanka       | 2012-07-08 | Pallekele Cricket Stadium, Pallekele                            |
+| George Ulyett-74         | England v Australia        | 1890-07-21 | Lord's Cricket Ground, St John's Wood                           |
+| Joe Darling-74           | Australia v England        | 1895-03-01 | Melbourne Cricket Ground, Melbourne                             |
+| Dattu Phadkar-74         | India v West Indies        | 1948-12-09 | Brabourne Stadium, Bombay                                       |
+| Ken Mackay-74            | Australia v West Indies    | 1960-12-30 | Melbourne Cricket Ground, Melbourne                             |
+| Zin Harris-74            | New Zealand v South Africa | 1961-12-08 | Kingsmead, Durban                                               |
+| Sir Ian Botham-74        | England v Australia        | 1979-01-27 | Adelaide Oval, Adelaide                                         |
+| Jimmy Adams-74           | West Indies v Australia    | 1996-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Nathan Astle-74          | New Zealand v India        | 1999-10-29 | Sardar Patel Stadium, Motera, Ahmedabad                         |
+| Jacob Oram-74            | New Zealand v Sri Lanka    | 2003-05-03 | Asgiriya Stadium, Kandy                                         |
+| Shiv Chanderpaul-74      | West Indies v South Africa | 2003-12-12 | New Wanderers Stadium, Johannesburg                             |
+| Dinesh Chandimal-74      | Sri Lanka v Pakistan       | 2019-12-19 | National Stadium, Karachi                                       |
+| Joe Darling-73           | Australia v England        | 1905-07-24 | Old Trafford, Manchester                                        |
+| Gerry Alexander-73       | West Indies v Australia    | 1961-02-10 | Melbourne Cricket Ground, Melbourne                             |
+| Steve Waugh-73           | Australia v England        | 1987-01-10 | Sydney Cricket Ground, Sydney                                   |
+| Allan Border-73          | Australia v West Indies    | 1992-11-27 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Shoaib Malik-73          | Pakistan v South Africa    | 2007-10-01 | National Stadium, Karachi                                       |
+| Jean-Paul Duminy-73      | South Africa v Australia   | 2009-03-06 | Sahara Stadium Kingsmead, Durban                                |
+| Shakib Al Hasan-73       | Bangladesh v West Indies   | 2011-10-29 | Shere Bangla National Stadium, Mirpur                           |
+| Mike Hussey-73           | Australia v West Indies    | 2012-04-15 | Queen's Park Oval, Port of Spain                                |
+| Joe Hardstaff-72         | England v Australia        | 1908-01-10 | Adelaide Oval, Adelaide                                         |
+| Sir Clive Lloyd-72       | West Indies v Australia    | 1984-12-30 | Sydney Cricket Ground, Sydney                                   |
+| Romesh Kaluwitharana-72  | Sri Lanka v New Zealand    | 1998-05-27 | R Premadasa Stadium, Colombo                                    |
+| Grant Flower-72          | Zimbabwe v Sri Lanka       | 2002-01-04 | Asgiriya Stadium, Kandy                                         |
+| Andrew Flintoff-72       | England v West Indies      | 2004-08-19 | The Brit Oval, Kennington                                       |
+| VVS Laxman-72            | India v Pakistan           | 2007-11-22 | Feroz Shah Kotla, Delhi                                         |
+| Travis Head-72           | Australia v India          | 2018-12-06 | Adelaide Oval, Adelaide                                         |
+| Jackie Grant-71          | West Indies v Australia    | 1930-12-12 | Adelaide Oval, Adelaide                                         |
+| Salim Durani-71          | India v England            | 1961-11-11 | Brabourne Stadium, Bombay                                       |
+| Mahendra Dhoni-71        | India v England            | 2014-08-07 | Emirates Old Trafford, Manchester                               |
+| Babar Azam-71            | Pakistan v South Africa    | 2018-12-26 | SuperSport Park, Centurion                                      |
+| Brian Close-70           | England v West Indies      | 1963-06-20 | Lord's Cricket Ground, St John's Wood                           |
+| Jonty Rhodes-70          | South Africa v Zimbabwe    | 1999-10-29 | Goodyear Park, Bloemfontein                                     |
+| Andrew Flintoff-70       | England v India            | 2006-03-09 | Punjab Cricket Association Stadium, Mohali                      |
+| Ben Stokes-70            | England v India            | 2016-11-17 | Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam |
+| Liton Das-70             | Bangladesh v South Africa  | 2017-10-06 | Mangaung Oval, Bloemfontein                                     |
+| Roshen Silva-70          | Sri Lanka v Bangladesh     | 2018-02-08 | Shere Bangla National Stadium, Mirpur                           |
+| Jos Buttler-70           | England v Australia        | 2019-09-12 | The Kia Oval, Kennington                                        |
+| Imtiaz Ahmed-69          | Pakistan v India           | 1955-02-12 | Peshawar Club Ground, Peshawar                                  |
+| Bob Barber-69            | England v India            | 1961-12-01 | Modi Stadium, Kanpur                                            |
+| Tiger Lance-69           | South Africa v England     | 1965-08-26 | Kennington Oval, Kennington                                     |
+| Jonty Rhodes-69          | South Africa v Australia   | 1994-03-04 | New Wanderers Stadium, Johannesburg                             |
+| Greg Blewett-69          | Australia v West Indies    | 1996-11-29 | Sydney Cricket Ground, Sydney                                   |
+| Mark Ramprakash-69       | England v New Zealand      | 1999-08-05 | Old Trafford, Manchester                                        |
+| Tillakaratne Dilshan-69  | Sri Lanka v Pakistan       | 2006-03-26 | Sinhalese Sports Club Ground, Colombo                           |
+| David Bernard-69         | West Indies v Bangladesh   | 2009-07-17 | Queen's Park (New), St George's                                 |
+| AB de Villiers-69        | South Africa v Sri Lanka   | 2011-12-26 | Sahara Stadium Kingsmead, Durban                                |
+| Brendon McCullum-69      | New Zealand v England      | 2013-03-14 | Basin Reserve, Wellington                                       |
+| Jermaine Blackwood-69    | West Indies v New Zealand  | 2020-12-11 | Basin Reserve, Wellington                                       |
+| Keith Rigg-68            | Australia v South Africa   | 1931-12-31 | Melbourne Cricket Ground, Melbourne                             |
+| Tony Greig-68            | England v India            | 1972-12-20 | Feroz Shah Kotla, Delhi                                         |
+| Rahul Dravid-68          | India v Zimbabwe           | 2001-06-15 | Harare Sports Club, Harare                                      |
+| Hasan Raza-68            | Pakistan v Australia       | 2002-10-19 | Sharjah Cricket Association Stadium, Sharjah                    |
+| Milinda Siriwardene-68   | Sri Lanka v West Indies    | 2015-10-22 | P Sara Oval, Colombo                                            |
+| Mushfiqur Rahim-68       | Bangladesh v Australia     | 2017-09-04 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| Paul Sheahan-67          | Australia v South Africa   | 1970-03-05 | St George's Park, Port Elizabeth                                |
+| Tony Greig-67            | England v India            | 1972-12-30 | Eden Gardens, Calcutta                                          |
+| Bob Simpson-67           | Australia v West Indies    | 1978-03-31 | Bourda, Georgetown                                              |
+| Allan Lamb-67            | England v India            | 1984-12-31 | Eden Gardens, Calcutta                                          |
+| Damien Martyn-67         | Australia v West Indies    | 1992-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Basit Ali-67             | Pakistan v New Zealand     | 1994-02-24 | Lancaster Park, Christchurch                                    |
+| Steve Waugh-67           | Australia v India          | 1996-10-10 | Feroz Shah Kotla, Delhi                                         |
+| Shiv Chanderpaul-67      | West Indies v India        | 2002-04-19 | Queen's Park Oval, Port of Spain                                |
+| Daniel Vettori-67        | New Zealand v Sri Lanka    | 2009-08-18 | Galle International Stadium, Galle                              |
+| Faf du Plessis-67        | South Africa v Australia   | 2014-03-01 | Sahara Park Newlands, Cape Town                                 |
+| Mahmudullah-67           | Bangladesh v New Zealand   | 2019-03-08 | Basin Reserve, Wellington                                       |
+| John Beck-66             | New Zealand v West Indies  | 1956-02-03 | Carisbrook, Dunedin                                             |
+| Tony MacGibbon-66        | New Zealand v England      | 1958-07-24 | Old Trafford, Manchester                                        |
+| Ken Barrington-66        | England v Australia        | 1961-06-22 | Lord's Cricket Ground, St John's Wood                           |
+| Saleem Malik-66          | Pakistan v New Zealand     | 1985-01-18 | Basin Reserve, Wellington                                       |
+| Saleem Malik-66          | Pakistan v West Indies     | 1988-04-14 | Queen's Park Oval, Port of Spain                                |
+| Sanath Jayasuriya-66     | Sri Lanka v England        | 1991-08-22 | Lord's Cricket Ground, St John's Wood                           |
+| Andrew Symonds-66        | Australia v India          | 2008-01-16 | Western Australia Cricket Association Ground, Perth             |
+| Doug Walters-65          | Australia v New Zealand    | 1974-03-08 | Lancaster Park, Christchurch                                    |
+| Wasim Raja-65            | Pakistan v West Indies     | 1977-03-04 | Queen's Park Oval, Port of Spain                                |
+| Sandeep Patil-65         | India v Australia          | 1981-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Inzamam-ul-Haq-65        | Pakistan v Zimbabwe        | 1995-01-31 | Harare Sports Club, Harare                                      |
+| Hashan Tillakaratne-65   | Sri Lanka v Australia      | 1996-01-25 | Adelaide Oval, Adelaide                                         |
+| Arjuna Ranatunga-65      | Sri Lanka v Pakistan       | 2000-06-21 | Galle International Stadium, Galle                              |
+| Alec Stewart-65          | England v Australia        | 2001-07-05 | Edgbaston, Birmingham                                           |
+| VVS Laxman-65            | India v West Indies        | 2002-05-18 | Sabina Park, Kingston                                           |
+| Tillakaratne Dilshan-65  | Sri Lanka v India          | 2005-12-18 | Sardar Patel Stadium, Motera, Ahmedabad                         |
+| AB de Villiers-65        | South Africa v Sri Lanka   | 2006-07-27 | Sinhalese Sports Club Ground, Colombo                           |
+| Dave Nourse-64           | South Africa v Australia   | 1910-12-09 | Sydney Cricket Ground, Sydney                                   |
+| Wallis Mathias-64        | Pakistan v West Indies     | 1959-03-06 | Dacca Stadium, Dacca                                            |
+| Nawab of Pataudi-64      | India v England            | 1967-06-08 | Headingley, Leeds                                               |
+| Farokh Engineer-64       | India v England            | 1974-07-04 | Edgbaston, Birmingham                                           |
+| Mike Brearley-64         | England v Australia        | 1979-12-14 | Western Australia Cricket Association Ground, Perth             |
+| Allan Border-64          | Australia v England        | 1981-07-02 | Lord's Cricket Ground, St John's Wood                           |
+| Sir Ian Botham-64        | England v West Indies      | 1984-06-14 | Edgbaston, Birmingham                                           |
+| Greg Ritchie-64          | Australia v England        | 1985-08-29 | Kennington Oval, Kennington                                     |
+| Jeff Dujon-64            | West Indies v England      | 1988-08-04 | Kennington Oval, Kennington                                     |
+| Mark Waugh-64            | Australia v West Indies    | 1991-04-05 | Queen's Park Oval, Port of Spain                                |
+| Steve Waugh-64           | Australia v South Africa   | 1994-03-25 | Kingsmead, Durban                                               |
+| Mark Ramprakash-64       | England v West Indies      | 1998-02-27 | Bourda, Georgetown                                              |
+| Jonty Rhodes-64          | South Africa v West Indies | 1998-12-10 | St George's Park, Port Elizabeth                                |
+| Mahendra Dhoni-64        | India v England            | 2006-03-18 | Wankhede Stadium, Mumbai                                        |
+| Mushfiqur Rahim-64       | Bangladesh v Zimbabwe      | 2014-10-25 | Shere Bangla National Stadium, Mirpur                           |
+| Jos Buttler-64           | England v Sri Lanka        | 2018-11-23 | Sinhalese Sports Club Ground, Colombo                           |
+| George Thompson-63       | England v South Africa     | 1910-01-01 | Old Wanderers, Johannesburg                                     |
+| Graeme Hole-63           | Australia v England        | 1951-02-23 | Melbourne Cricket Ground, Melbourne                             |
+| Philip Sharpe-63         | England v West Indies      | 1963-08-22 | Kennington Oval, Kennington                                     |
+| Allan Border-63          | Australia v England        | 1981-06-18 | Trent Bridge, Nottingham                                        |
+| Ruwan Kalpage-63         | Sri Lanka v India          | 1994-01-26 | M Chinnaswamy Stadium, Bangalore                                |
+| Alec Stewart-63          | England v Australia        | 1998-12-11 | Adelaide Oval, Adelaide                                         |
+| Daren Ganga-63           | West Indies v Bangladesh   | 2002-12-16 | MA Aziz Stadium, Chittagong                                     |
+| BJ Watling-63            | New Zealand v South Africa | 2013-01-11 | Axxess DSL St George's, Port Elizabeth                          |
+| Roston Chase-63          | West Indies v Pakistan     | 2017-04-21 | Sabina Park, Kingston                                           |
+| Shimron Hetmyer-63       | West Indies v Bangladesh   | 2018-11-22 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| Mithun Ali-63            | Bangladesh v Pakistan      | 2020-02-07 | Rawalpindi Cricket Stadium, Rawalpindi                          |
+| Tom Lowry-62             | New Zealand v England      | 1931-07-29 | Kennington Oval, Kennington                                     |
+| Paul Sheahan-62          | Australia v South Africa   | 1970-02-05 | Kingsmead, Durban                                               |
+| Tony Greig-62            | England v Australia        | 1972-06-08 | Old Trafford, Manchester                                        |
+| Dipak Patel-62           | New Zealand v Australia    | 1987-12-04 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Carl Hooper-62           | West Indies v Sri Lanka    | 1993-12-08 | Tyronne Fernando Stadium, Moratuwa                              |
+| Greg Blewett-62          | Australia v West Indies    | 1996-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Guy Whittall-62          | Zimbabwe v Pakistan        | 1998-03-21 | Harare Sports Club, Harare                                      |
+| Babar Azam-62            | Pakistan v New Zealand     | 2018-11-16 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| David Denton-61          | England v South Africa     | 1906-03-10 | Old Wanderers, Johannesburg                                     |
+| Mushtaq Mohammad-61      | Pakistan v India           | 1960-12-30 | Eden Gardens, Calcutta                                          |
+| Vic Pollard-61           | New Zealand v Pakistan     | 1973-02-07 | Carisbrook, Dunedin                                             |
+| Sir Ian Botham-61        | England v New Zealand      | 1983-08-11 | Lord's Cricket Ground, St John's Wood                           |
+| Gus Logie-61             | West Indies v Australia    | 1991-04-27 | Antigua Recreation Ground, St John's                            |
+| Andy Flower-61           | Zimbabwe v Pakistan        | 1996-10-24 | Iqbal Stadium, Faisalabad                                       |
+| Dwayne Bravo-61          | West Indies v South Africa | 2010-06-26 | Kensington Oval, Bridgetown                                     |
+| Mushfiqur Rahim-61       | Bangladesh v Sri Lanka     | 2014-01-27 | Shere Bangla National Stadium, Mirpur                           |
+| Ollie Pope-61            | England v South Africa     | 2020-01-03 | PPC Newlands, Cape Town                                         |
+| George Fullerton-60      | South Africa v England     | 1951-06-21 | Lord's Cricket Ground, St John's Wood                           |
+| John Waite-60            | South Africa v England     | 1955-08-13 | Kennington Oval, Kennington                                     |
+| Sir Clive Lloyd-60       | West Indies v England      | 1984-08-09 | Kennington Oval, Kennington                                     |
+| Graham Thorpe-60         | England v Australia        | 1993-08-05 | Edgbaston, Birmingham                                           |
+| Marlon Samuels-60        | West Indies v Australia    | 2000-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Ben Stokes-60            | England v West Indies      | 2017-09-07 | Lord's Cricket Ground, St John's Wood                           |
+| Herbie Taylor-59         | South Africa v England     | 1924-07-12 | Headingley, Leeds                                               |
+| Sir Ian Botham-59        | England v Australia        | 1979-01-06 | Sydney Cricket Ground, Sydney                                   |
+| Arjuna Ranatunga-59      | Sri Lanka v India          | 1986-12-27 | Vidarbha Cricket Association Ground, Nagpur                     |
+| Gus Logie-59             | West Indies v Pakistan     | 1990-12-06 | Gaddafi Stadium, Lahore                                         |
+| Inzamam-ul-Haq-59        | Pakistan v Australia       | 1995-11-30 | Sydney Cricket Ground, Sydney                                   |
+| Ramnaresh Sarwan-59      | West Indies v England      | 2000-08-17 | Headingley, Leeds                                               |
+| VVS Laxman-59            | India v Australia          | 2001-03-11 | Eden Gardens, Calcutta                                          |
+| Shiv Chanderpaul-59      | West Indies v India        | 2002-05-18 | Sabina Park, Kingston                                           |
+| Boeta Dippenaar-59       | South Africa v Sri Lanka   | 2004-08-11 | Sinhalese Sports Club Ground, Colombo                           |
+| Shoaib Malik-59          | Pakistan v Sri Lanka       | 2004-10-20 | Iqbal Stadium, Faisalabad                                       |
+| AB de Villiers-59        | South Africa v West Indies | 2007-12-26 | Sahara Oval St George's, Port Elizabeth                         |
+| BJ Watling-59            | New Zealand v Pakistan     | 2018-11-16 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| George Hirst-58          | England v Australia        | 1904-01-15 | Adelaide Oval, Adelaide                                         |
+| Collis King-58           | West Indies v England      | 1976-07-22 | Headingley, Leeds                                               |
+| Allan Border-58          | Australia v Pakistan       | 1980-02-27 | National Stadium, Karachi                                       |
+| Duleep Mendis-58         | Sri Lanka v Pakistan       | 1986-03-22 | P Saravanamuttu Stadium, Colombo                                |
+| Gus Logie-58             | West Indies v Pakistan     | 1990-11-15 | National Stadium, Karachi                                       |
+| Greg Blewett-58          | Australia v West Indies    | 1999-03-05 | Queen's Park Oval, Port of Spain                                |
+| Younis Khan-58           | Pakistan v England         | 2001-05-17 | Lord's Cricket Ground, St John's Wood                           |
+| Frank Woolley-57         | England v South Africa     | 1912-07-08 | Headingley, Leeds                                               |
+| Tony Greig-57            | England v Australia        | 1972-06-08 | Old Trafford, Manchester                                        |
+| Sir Ian Botham-57        | England v West Indies      | 1980-06-05 | Trent Bridge, Nottingham                                        |
+| Sandeep Patil-57         | India v New Zealand        | 1981-03-13 | Eden Park, Auckland                                             |
+| Jeff Crowe-57            | New Zealand v Pakistan     | 1984-11-25 | Niaz Stadium, Hyderabad                                         |
+| Alec Stewart-57          | England v Australia        | 2002-11-21 | Adelaide Oval, Adelaide                                         |
+| Polly Umrigar-56         | India v West Indies        | 1962-04-04 | Queen's Park Oval, Port of Spain                                |
+| Bert Sutcliffe-56        | New Zealand v India        | 1965-02-27 | Nehru Stadium, Madras                                           |
+| Brian Booth-56           | Australia v West Indies    | 1965-03-03 | Sabina Park, Kingston                                           |
+| VVS Laxman-56            | India v Sri Lanka          | 2008-07-23 | Sinhalese Sports Club Ground, Colombo                           |
+| Dean Brownlie-56         | New Zealand v Australia    | 2011-12-09 | Bellerive Oval, Hobart                                          |
+| Jermaine Blackwood-56    | West Indies v South Africa | 2015-01-02 | Sahara Park Newlands, Cape Town                                 |
+| John Beck-55             | New Zealand v West Indies  | 1956-03-03 | Basin Reserve, Wellington                                       |
+| Vic Pollard-55           | New Zealand v England      | 1965-06-17 | Lord's Cricket Ground, St John's Wood                           |
+| Larry Gomes-55           | West Indies v Australia    | 1981-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Arjuna Ranatunga-55      | Sri Lanka v New Zealand    | 1995-03-11 | McLean Park, Napier                                             |
+| Hashan Tillakaratne-55   | Sri Lanka v New Zealand    | 1997-03-07 | Carisbrook, Dunedin                                             |
+| Mohammad Kaif-55         | India v Australia          | 2004-10-26 | Vidarbha Cricket Association Ground, Nagpur                     |
+| Hanuma Vihari-55         | India v New Zealand        | 2020-02-29 | Hagley Oval, Christchurch                                       |
+| Yasir Ali-55             | Bangladesh v New Zealand   | 2022-01-09 | Hagley Oval, Christchurch                                       |
+| Imtiaz Ahmed-54          | Pakistan v India           | 1955-01-01 | Dacca Stadium, Dacca                                            |
+| Tony Greig-54            | England v Australia        | 1972-06-22 | Lord's Cricket Ground, St John's Wood                           |
+| Tony Greig-54            | England v Australia        | 1975-01-04 | Sydney Cricket Ground, Sydney                                   |
+| Allan Border-54          | Australia v West Indies    | 1980-01-26 | Adelaide Oval, Adelaide                                         |
+| Sir Ian Botham-54        | England v West Indies      | 1984-08-09 | Kennington Oval, Kennington                                     |
+| Robin Smith-54           | England v West Indies      | 1991-06-06 | Headingley, Leeds                                               |
+| Asif Mujtaba-54          | Pakistan v Zimbabwe        | 1993-12-09 | Rawalpindi Cricket Stadium, Rawalpindi                          |
+| Guy Whittall-54          | Zimbabwe v New Zealand     | 1996-01-13 | Trust Bank Park, Hamilton                                       |
+| Craig McMillan-54        | New Zealand v Australia    | 1997-11-20 | Western Australia Cricket Association Ground, Perth             |
+| Sourav Ganguly-54        | India v Pakistan           | 1999-01-28 | MA Chidambaram Stadium, Chepauk, Chennai                        |
+| Marlon Samuels-54        | West Indies v Sri Lanka    | 2001-11-21 | Asgiriya Stadium, Kandy                                         |
+| Hasan Raza-54            | Pakistan v Australia       | 2002-10-19 | Sharjah Cricket Association Stadium, Sharjah                    |
+| Ian Bell-53              | England v Australia        | 2010-12-16 | Western Australia Cricket Association Ground, Perth             |
+| Mahmudullah-53           | Bangladesh v West Indies   | 2014-09-13 | Beausejour Stadium, Gros Islet                                  |
+| Roston Chase-53          | West Indies v India        | 2018-10-04 | Saurashtra Cricket Association Stadium, Rajkot                  |
+| Temba Bavuma-53          | South Africa v Pakistan    | 2018-12-26 | SuperSport Park, Centurion                                      |
+| George Ulyett-52         | England v Australia        | 1877-03-31 | Melbourne Cricket Ground, Melbourne                             |
+| Somachandra de Silva-52  | Sri Lanka v New Zealand    | 1983-03-04 | Lancaster Park, Christchurch                                    |
+| Robin Smith-52           | England v South Africa     | 1995-11-30 | New Wanderers Stadium, Johannesburg                             |
+| Mohammad Azharuddin-52   | India v South Africa       | 1996-11-27 | Eden Gardens, Calcutta                                          |
+| Chris Cairns-52          | New Zealand v England      | 1997-02-14 | Lancaster Park, Christchurch                                    |
+| Alok Kapali-52           | Bangladesh v West Indies   | 2002-12-08 | Bangabandhu National Stadium, Dhaka                             |
+| Andrew Symonds-52        | Australia v West Indies    | 2008-06-12 | Kensington Oval, Bridgetown                                     |
+| Angelo Mathews-52        | Sri Lanka v Pakistan       | 2011-10-18 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Misbah-ul-Haq-52         | Pakistan v England         | 2016-07-22 | Emirates Old Trafford, Manchester                               |
+| Temba Bavuma-52          | South Africa v England     | 2017-07-27 | The Kia Oval, Kennington                                        |
+| Philip Hands-51          | South Africa v England     | 1914-02-14 | Lord's, Durban                                                  |
+| Arjuna Ranatunga-51      | Sri Lanka v New Zealand    | 1984-03-09 | Asgiriya Stadium, Kandy                                         |
+| Craig Wishart-51         | Zimbabwe v Sri Lanka       | 1996-09-11 | R Premadasa Stadium, Colombo                                    |
+| VVS Laxman-51            | India v South Africa       | 1996-11-20 | Sardar Patel Stadium, Motera, Ahmedabad                         |
+| Sourav Ganguly-51        | India v South Africa       | 2006-12-15 | Liberty Life Wanderers Stadium, Johannesburg                    |
+| Niroshan Dickwella-51    | Sri Lanka v India          | 2017-08-03 | Sinhalese Sports Club Ground, Colombo                           |
+| Babar Azam-51            | Pakistan v New Zealand     | 2018-12-03 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Niroshan Dickwella-51    | Sri Lanka v New Zealand    | 2019-08-22 | P Sara Oval, Colombo                                            |
+| Bob Wyatt-50             | England v Australia        | 1937-01-29 | Adelaide Oval, Adelaide                                         |
+| Bob Simpson-50           | Australia v England        | 1964-06-04 | Trent Bridge, Nottingham                                        |
+| Gary Cosier-50           | Australia v Pakistan       | 1977-01-14 | Sydney Cricket Ground, Sydney                                   |
+| Shiv Chanderpaul-50      | West Indies v England      | 1994-03-25 | Queen's Park Oval, Port of Spain                                |
+| Grant Flower-49          | Zimbabwe v India           | 2002-02-28 | Feroz Shah Kotla, Delhi                                         |
+| Asad Shafiq-49           | Pakistan v England         | 2016-07-14 | Lord's Cricket Ground, St John's Wood                           |
+| Faf du Plessis-49        | South Africa v Sri Lanka   | 2018-07-12 | Galle International Stadium, Galle                              |
+| Jermaine Blackwood-49    | West Indies v South Africa | 2021-06-18 | Darren Sammy National Cricket Stadium, Gros Islet               |
+| Tom Campbell-48          | South Africa v England     | 1910-01-21 | Lord's, Durban                                                  |
+| Nawab of Pataudi-48      | India v West Indies        | 1962-03-23 | Kensington Oval, Bridgetown                                     |
+| Jonathan Bairstow-48     | England v Pakistan         | 2016-07-14 | Lord's Cricket Ground, St John's Wood                           |
+| Ajinkya Rahane-48        | India v South Africa       | 2018-01-24 | Bidvest Wanderers Stadium, Johannesburg                         |
+| Roy Kaia-48              | Zimbabwe v Pakistan        | 2021-04-29 | Harare Sports Club, Harare                                      |
+| Monty Noble-47           | Australia v England        | 1902-07-03 | Bramall Lane, Sheffield                                         |
+| Brian Close-47           | England v India            | 1967-07-13 | Edgbaston, Birmingham                                           |
+| John Crawley-47          | England v Zimbabwe         | 1996-12-26 | Harare Sports Club, Harare                                      |
+| Shiv Chanderpaul-47      | West Indies v India        | 2011-11-06 | Feroz Shah Kotla, Delhi                                         |
+| Rohit Sharma-47          | India v South Africa       | 2018-01-13 | SuperSport Park, Centurion                                      |
+| Abdul Kadir-46           | Pakistan v New Zealand     | 1965-01-22 | Basin Reserve, Wellington                                       |
+| Ajit Wadekar-46          | India v Australia          | 1969-11-04 | Brabourne Stadium, Bombay                                       |
+| Paul Sheahan-46          | Australia v South Africa   | 1970-03-05 | St George's Park, Port Elizabeth                                |
+| Gary Cosier-46           | Australia v West Indies    | 1978-03-03 | Queen's Park Oval, Port of Spain                                |
+| Sir Ian Botham-46        | England v Australia        | 1989-07-06 | Edgbaston, Birmingham                                           |
+| Ryan Hinds-46            | West Indies v Pakistan     | 2002-02-07 | Sharjah Cricket Association Stadium, Sharjah                    |
+| Daniel Vettori-46        | New Zealand v Australia    | 2010-03-19 | Basin Reserve, Wellington                                       |
+| Frank de Caires-45       | West Indies v England      | 1930-02-01 | Queen's Park Oval, Port of Spain                                |
+| Basil Butcher-45         | West Indies v Pakistan     | 1959-02-20 | National Stadium, Karachi                                       |
+| Wallis Mathias-45        | Pakistan v West Indies     | 1959-03-06 | Dacca Stadium, Dacca                                            |
+| Allan Border-45          | Australia v England        | 1979-01-06 | Sydney Cricket Ground, Sydney                                   |
+| Sanath Jayasuriya-45     | Sri Lanka v Pakistan       | 1992-01-02 | Iqbal Stadium, Faisalabad                                       |
+| Steve Waugh-45           | Australia v South Africa   | 1994-03-04 | New Wanderers Stadium, Johannesburg                             |
+| Yuvraj Singh-45          | India v Pakistan           | 2006-01-29 | National Stadium, Karachi                                       |
+| Asad Shafiq-45           | Pakistan v England         | 2012-02-03 | Dubai Sports City Stadium, Dubai                                |
+| Mitchell Santner-45      | New Zealand v Australia    | 2015-11-27 | Adelaide Oval, Adelaide                                         |
+| Cameron Green-45         | Australia v India          | 2020-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Jack Crawford-44         | England v South Africa     | 1906-01-02 | Old Wanderers, Johannesburg                                     |
+| Dudley Nourse-44         | South Africa v Australia   | 1936-01-01 | Newlands, Cape Town                                             |
+| Chandu Borde-44          | India v Pakistan           | 1960-12-30 | Eden Gardens, Calcutta                                          |
+| Ranjan Madugalle-44      | Sri Lanka v New Zealand    | 1984-03-16 | Sinhalese Sports Club Ground, Colombo                           |
+| Sanath Jayasuriya-44     | Sri Lanka v South Africa   | 1993-09-06 | Sinhalese Sports Club Ground, Colombo                           |
+| Hashan Tillakaratne-44   | Sri Lanka v Pakistan       | 1995-09-08 | Arbab Niaz Stadium, Peshawar                                    |
+| John Crawley-44          | England v Australia        | 1999-01-02 | Sydney Cricket Ground, Sydney                                   |
+| Aftab Ahmed-44           | Bangladesh v South Africa  | 2008-02-22 | Shere Bangla National Stadium, Mirpur                           |
+| Virat Kohli-44           | India v Australia          | 2012-01-13 | Western Australia Cricket Association Ground, Perth             |
+| Shakib Al Hasan-44       | Bangladesh v Afghanistan   | 2019-09-05 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| Abdul Kardar-43          | Pakistan v India           | 1952-10-16 | Feroz Shah Kotla, Delhi                                         |
+| Jim Parks-43             | England v West Indies      | 1966-06-02 | Old Trafford, Manchester                                        |
+| Dav Whatmore-43          | Australia v Pakistan       | 1979-03-10 | Melbourne Cricket Ground, Melbourne                             |
+| Jeff Dujon-43            | West Indies v Australia    | 1981-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Sourav Ganguly-43        | India v Australia          | 1999-12-10 | Adelaide Oval, Adelaide                                         |
+| Brendon McCullum-43      | New Zealand v Sri Lanka    | 2006-12-15 | Basin Reserve, Wellington                                       |
+| Prasanna Jayawardene-43  | Sri Lanka v England        | 2011-06-16 | The Rose Bowl, Southampton                                      |
+| James Franklin-43        | New Zealand v India        | 2012-08-23 | Rajiv Gandhi International Stadium, Uppal, Hyderabad            |
+| Freddie Brown-42         | England v South Africa     | 1951-07-05 | Old Trafford, Manchester                                        |
+| Garry Sobers-42          | West Indies v Australia    | 1965-04-14 | Bourda, Georgetown                                              |
+| Ray Illingworth-42       | England v Australia        | 1971-02-12 | Sydney Cricket Ground, Sydney                                   |
+| Warren Lees-42           | New Zealand v India        | 1976-11-10 | Wankhede Stadium, Bombay                                        |
+| Saleem Malik-42          | Pakistan v Sri Lanka       | 1986-03-14 | Colombo Cricket Club Ground, Colombo                            |
+| Steve Waugh-42           | Australia v West Indies    | 1988-12-24 | Melbourne Cricket Ground, Melbourne                             |
+| Ridley Jacobs-42         | West Indies v South Africa | 1998-11-26 | New Wanderers Stadium, Johannesburg                             |
+| Joe Darling-41           | Australia v England        | 1905-06-15 | Lord's Cricket Ground, St John's Wood                           |
+| Jock Cameron-41          | South Africa v England     | 1931-01-16 | Kingsmead, Durban                                               |
+| Saleem Malik-41          | Pakistan v New Zealand     | 1985-01-25 | Eden Park, Auckland                                             |
+| Arjuna Ranatunga-41      | Sri Lanka v Pakistan       | 1994-08-09 | P Saravanamuttu Stadium, Colombo                                |
+| Shoaib Malik-41          | Pakistan v Australia       | 2004-12-26 | Melbourne Cricket Ground, Melbourne                             |
+| Jacques Rudolph-41       | South Africa v Australia   | 2006-03-16 | Sahara Park Newlands, Cape Town                                 |
+| James Franklin-41        | New Zealand v India        | 2012-08-31 | M Chinnaswamy Stadium, Bangalore                                |
+| Jonathan Bairstow-41     | England v New Zealand      | 2013-05-16 | Lord's Cricket Ground, St John's Wood                           |
+| Rishabh Pant-41          | India v New Zealand        | 2021-06-18 | The Ageas Bowl, Southampton                                     |
+| Narsingh Deonarine-40    | West Indies v Sri Lanka    | 2005-07-22 | Asgiriya Stadium, Kandy                                         |
+| Kevin O'Brien-40         | Ireland v Pakistan         | 2018-05-11 | The Village, Malahide, Dublin                                   |
+| BJ Watling-40            | New Zealand v Australia    | 2019-12-12 | Optus Stadium, Perth                                            |
+| John Brown-39            | England v Australia        | 1895-01-11 | Adelaide Oval, Adelaide                                         |
+| Len Darling-39           | Australia v England        | 1933-02-10 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Coimbatarao Gopinath-39  | India v Australia          | 1960-01-23 | Eden Gardens, Calcutta                                          |
+| Jimmy Adams-39           | West Indies v Australia    | 1995-03-31 | Kensington Oval, Bridgetown                                     |
+| Azhar Mahmood-39         | Pakistan v Australia       | 1999-11-26 | Western Australia Cricket Association Ground, Perth             |
+| Manjural Islam-39        | Bangladesh v Zimbabwe      | 2004-02-26 | Queens Sports Club, Bulawayo                                    |
+| Shoaib Malik-39          | Pakistan v Sri Lanka       | 2009-07-12 | P Sara Oval, Colombo                                            |
+| Ashwell Prince-39        | South Africa v India       | 2010-12-26 | Sahara Stadium Kingsmead, Durban                                |
+| Shimron Hetmyer-39       | West Indies v Bangladesh   | 2018-11-30 | Shere Bangla National Stadium, Mirpur                           |
+| Denis Lindsay-38         | South Africa v England     | 1964-12-04 | Kingsmead, Durban                                               |
+| Angelo Mathews-38        | Sri Lanka v South Africa   | 2011-12-15 | SuperSport Park, Centurion                                      |
+| Mehedi Hasan-38          | Bangladesh v Sri Lanka     | 2018-02-08 | Shere Bangla National Stadium, Mirpur                           |
+| Ken Viljoen-37           | South Africa v Australia   | 1931-12-18 | Sydney Cricket Ground, Sydney                                   |
+| Brun Smith-37            | New Zealand v West Indies  | 1952-02-08 | Lancaster Park, Christchurch                                    |
+| Gulabrai Ramchand-37     | India v Pakistan           | 1955-01-01 | Dacca Stadium, Dacca                                            |
+| Hanumant Singh-37        | India v West Indies        | 1966-12-31 | Eden Gardens, Calcutta                                          |
+| Tony Greig-37            | England v West Indies      | 1974-02-02 | Queen's Park Oval, Port of Spain                                |
+| Matt Prior-37            | England v Australia        | 2009-08-07 | Headingley, Leeds                                               |
+| Afsar Zazai-37           | Afghanistan v Zimbabwe     | 2021-03-02 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Abdul Kardar-36          | Pakistan v England         | 1954-08-12 | Kennington Oval, Kennington                                     |
+| Mushtaq Mohammad-36      | Pakistan v Australia       | 1979-03-10 | Melbourne Cricket Ground, Melbourne                             |
+| Ramnaresh Sarwan-36      | West Indies v England      | 2000-08-03 | Old Trafford, Manchester                                        |
+| Younis Khan-36           | Pakistan v New Zealand     | 2001-03-27 | WestpacTrust Park, Hamilton                                     |
+| Shiv Chanderpaul-36      | West Indies v Pakistan     | 2011-05-12 | Guyana National Stadium, Providence                             |
+| Ajinkya Rahane-36        | India v Sri Lanka          | 2015-08-12 | Galle International Stadium, Galle                              |
+| Stiaan van Zyl-36        | South Africa v India       | 2015-11-05 | Punjab Cricket Association IS Bindra Stadium, Mohali            |
+| William Bruce-35         | Australia v England        | 1885-03-21 | Melbourne Cricket Ground, Melbourne                             |
+| Doug Walters-35          | Australia v England        | 1966-01-07 | Sydney Cricket Ground, Sydney                                   |
+| Shiv Chanderpaul-35      | West Indies v New Zealand  | 2002-06-21 | Kensington Oval, Bridgetown                                     |
+| Mark Ramprakash-34       | England v West Indies      | 1998-02-27 | Bourda, Georgetown                                              |
+| Nick Knight-34           | England v West Indies      | 2000-06-15 | Edgbaston, Birmingham                                           |
+| Haris Sohail-34          | Pakistan v Sri Lanka       | 2017-09-28 | Sheikh Zayed Stadium, Abu Dhabi                                 |
+| Shimron Hetmyer-34       | West Indies v India        | 2019-08-30 | Sabina Park, Kingston                                           |
+| Arjuna Ranatunga-33      | Sri Lanka v Pakistan       | 1982-03-05 | National Stadium, Karachi                                       |
+| John Lyons-32            | Australia v England        | 1888-08-30 | Old Trafford, Manchester                                        |
+| Warwick Armstrong-32     | Australia v England        | 1909-07-26 | Old Trafford, Manchester                                        |
+| Jack Ikin-32             | England v Australia        | 1946-11-29 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Bill Athey-32            | England v India            | 1986-06-19 | Headingley, Leeds                                               |
+| Adam Parore-32           | New Zealand v Sri Lanka    | 1998-06-03 | Galle International Stadium, Galle                              |
+| Billy Midwinter-31       | Australia v England        | 1877-03-31 | Melbourne Cricket Ground, Melbourne                             |
+| Henry Scott-31           | Australia v England        | 1884-07-21 | Lord's Cricket Ground, St John's Wood                           |
+| Mushfiqur Rahim-31       | Bangladesh v Australia     | 2017-09-04 | Zohur Ahmed Chowdhury Stadium, Chittagong                       |
+| Ashok Malhotra-30        | India v West Indies        | 1983-12-10 | Eden Gardens, Calcutta                                          |
+| Greg Blewett-30          | Australia v West Indies    | 1999-03-13 | Sabina Park, Kingston                                           |
+| Shakib Al Hasan-30       | Bangladesh v India         | 2007-05-25 | Shere Bangla National Stadium, Mirpur                           |
+| Sir Ian Botham-29        | England v India            | 1981-11-27 | Wankhede Stadium, Bombay                                        |
+| Narsingh Deonarine-29    | West Indies v Sri Lanka    | 2005-07-22 | Asgiriya Stadium, Kandy                                         |
+| Abdul Kardar-28          | Pakistan v England         | 1954-07-01 | Trent Bridge, Nottingham                                        |
+| Gulabrai Ramchand-28     | India v Australia          | 1956-10-19 | Nehru Stadium, Madras                                           |
+| Peter Parfitt-28         | England v Australia        | 1963-01-11 | Sydney Cricket Ground, Sydney                                   |
+| Raqibul Hasan-28         | Bangladesh v South Africa  | 2008-11-26 | SuperSport Park, Centurion                                      |
+| Elton Chigumbura-28      | Zimbabwe v Pakistan        | 2013-09-03 | Harare Sports Club, Harare                                      |
+| Trevor Bailey-27         | England v Australia        | 1958-12-05 | Brisbane Cricket Ground, Woolloongabba, Brisbane                |
+| Chandu Borde-27          | India v West Indies        | 1962-02-16 | Queen's Park Oval, Port of Spain                                |
+| Rahul Dravid-27          | India v South Africa       | 1996-12-26 | Kingsmead, Durban                                               |
+| Arthur Jones-26          | England v Australia        | 1909-06-14 | Lord's Cricket Ground, St John's Wood                           |
+| Vijay Merchant-26        | India v England            | 1934-02-10 | Madras Cricket Club Ground, Chepauk, Madras                     |
+| Nick Knight-26           | England v West Indies      | 2000-06-15 | Edgbaston, Birmingham                                           |
+| Harry Trott-25           | Australia v England        | 1890-08-11 | Kennington Oval, Kennington                                     |
+| Ron Hamence-25           | Australia v India          | 1947-12-12 | Sydney Cricket Ground, Sydney                                   |
+| Zubayr Hamza-25          | South Africa v New Zealand | 2022-02-17 | Hagley Oval, Christchurch                                       |
+| Andrew Flintoff-24       | England v West Indies      | 2009-02-04 | Sabina Park, Kingston                                           |
+| Dhananjaya de Silva-24   | Sri Lanka v Australia      | 2016-07-26 | Pallekele Cricket Stadium, Pallekele                            |
+| VVS Laxman-23            | India v New Zealand        | 2002-12-19 | Westpac Park, Hamilton                                          |
+| Umar Amin-23             | Pakistan v England         | 2010-08-06 | Edgbaston, Birmingham                                           |
+| Malcolm Waller-23        | Zimbabwe v New Zealand     | 2012-01-26 | McLean Park, Napier                                             |
+| Craig Ervine-23          | Zimbabwe v West Indies     | 2013-03-12 | Kensington Oval, Bridgetown                                     |
+| Kyle Jarvis-23           | Zimbabwe v South Africa    | 2017-12-26 | St George's Park, Port Elizabeth                                |
+| John Reid-21             | New Zealand v England      | 1963-02-23 | Eden Park, Auckland                                             |
+| Temba Bavuma-21          | South Africa v England     | 2017-07-06 | Lord's Cricket Ground, St John's Wood                           |
+| Ricky Ponting-20         | Australia v England        | 1997-08-21 | The Foster's Oval, Kennington                                   |
+| Stuart Carlisle-20       | Zimbabwe v New Zealand     | 2005-08-07 | Harare Sports Club, Harare                                      |
+| Sir Ian Botham-19        | England v New Zealand      | 1978-02-10 | Basin Reserve, Wellington                                       |
+| Ridley Jacobs-19         | West Indies v Australia    | 1999-03-05 | Queen's Park Oval, Port of Spain                                |
+| Reginald Foster-18       | England v Australia        | 1904-03-05 | Melbourne Cricket Ground, Melbourne                             |
+| Bert Sutcliffe-18        | New Zealand v England      | 1958-06-19 | Lord's Cricket Ground, St John's Wood                           |
+| Charlie Llewellyn-17     | South Africa v Australia   | 1910-12-31 | Melbourne Cricket Ground, Melbourne                             |
+| Shakib Al Hasan-16       | Bangladesh v Sri Lanka     | 2007-06-25 | Sinhalese Sports Club Ground, Colombo                           |
+| Jock Cameron-11          | South Africa v Australia   | 1932-02-12 | Melbourne Cricket Ground, Melbourne                             |
++--------------------------+----------------------------+------------+-----------------------------------------------------------------+
