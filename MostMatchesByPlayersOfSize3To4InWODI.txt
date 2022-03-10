@@ -1,0 +1,32 @@
++------------------------------------------------------+---------+------+------+------+--------+
+| Player                                               | Matches | Wins | Loss | Tied | Others |
++------------------------------------------------------+---------+------+------+------+--------+
+| [A Mohammed, DJS Dottin, SR Taylor]                  | 112     | 62   | 46   | 1    | 3      |
+| [A Sharma, JN Goswami, MD Raj]                       | 107     | 57   | 47   | 0    | 3      |
+| [CM Edwards, JL Gunn, LS Greenway]                   | 107     | 64   | 37   | 0    | 6      |
+| [DJS Dottin, MR Aguilleira, SR Taylor]               | 103     | 53   | 46   | 1    | 3      |
+| [A Mohammed, DJS Dottin, MR Aguilleira]              | 98      | 49   | 45   | 1    | 3      |
+| [A Mohammed, MR Aguilleira, SR Taylor]               | 98      | 50   | 44   | 1    | 3      |
+| [A Chopra, JN Goswami, MD Raj]                       | 94      | 47   | 44   | 0    | 3      |
+| [M du Preez, S Ismail, T Chetty]                     | 93      | 56   | 33   | 1    | 3      |
+| [H Kaur, JN Goswami, MD Raj]                         | 93      | 52   | 41   | 0    | 0      |
+| [D van Niekerk, M Kapp, M du Preez]                  | 90      | 49   | 36   | 1    | 4      |
+| [M Kapp, M du Preez, S Ismail]                       | 89      | 52   | 34   | 1    | 2      |
+| [CM Edwards, JL Gunn, SJ Taylor]                     | 88      | 58   | 25   | 0    | 5      |
+| [CM Edwards, LS Greenway, SJ Taylor]                 | 87      | 58   | 24   | 0    | 5      |
+| [A Mohammed, DJS Dottin, MR Aguilleira, SR Taylor]   | 95      | 49   | 42   | 1    | 3      |
+| [CM Edwards, JL Gunn, LS Greenway, SJ Taylor]        | 77      | 51   | 22   | 0    | 4      |
+| [M Kapp, M du Preez, S Ismail, T Chetty]             | 76      | 44   | 30   | 0    | 2      |
+| [BJ Clark, CL Fitzpatrick, JC Price, KL Rolton]      | 73      | 63   | 9    | 0    | 1      |
+| [A Chopra, A Sharma, JN Goswami, MD Raj]             | 71      | 38   | 31   | 0    | 2      |
+| [A Mohammed, DJS Dottin, SA Campbelle, SR Taylor]    | 71      | 42   | 25   | 1    | 3      |
+| [Asmavia Iqbal, Bismah Maroof, Nain Abidi, Sana Mir] | 70      | 22   | 47   | 0    | 1      |
+| [A Mohammed, DJS Dottin, SC Selman, SR Taylor]       | 70      | 45   | 23   | 0    | 2      |
+| [BJ Clark, CL Fitzpatrick, KL Rolton, LM Keightley]  | 69      | 56   | 12   | 0    | 1      |
+| [A Sharma, JN Goswami, MD Raj, RA Dhar]              | 69      | 37   | 30   | 0    | 2      |
+| [D van Niekerk, M Kapp, M du Preez, T Chetty]        | 68      | 41   | 24   | 0    | 3      |
+| [D van Niekerk, M du Preez, S Ismail, T Chetty]      | 67      | 40   | 24   | 1    | 2      |
+| [D van Niekerk, L Lee, M Kapp, M du Preez]           | 67      | 38   | 25   | 1    | 3      |
+| [L Lee, M Kapp, M du Preez, SE Luus]                 | 67      | 35   | 29   | 2    | 1      |
+| [Bismah Maroof, Javeria Khan, Nain Abidi, Sana Mir]  | 65      | 23   | 42   | 0    | 0      |
++------------------------------------------------------+---------+------+------+------+--------+
