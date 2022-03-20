@@ -1,0 +1,64 @@
++-------------------+---------+----------+----------------------------+------------+
+| Player            | Captain | MatchIds | Match                      | StartDate  |
++-------------------+---------+----------+----------------------------+------------+
+| Archie MacLaren   | Y       | f5845    | England v Australia        | 1902-06-12 |
+| Charles Kelleway  | N       | f8643    | Australia v England        | 1912-07-29 |
+| Claude Jennings   | N       | f8643    | Australia v England        | 1912-07-29 |
+| Jack Hobbs        | N       | f11581   | England v Australia        | 1926-06-12 |
+| Herbert Sutcliffe | N       | f11581   | England v Australia        | 1926-06-12 |
+| Stewie Dempster   | N       | f12995   | New Zealand v England      | 1930-02-14 |
+| Wally Hammond     | N       | f13373   | England v South Africa     | 1931-01-16 |
+| Herbert Sutcliffe | N       | f13655   | England v New Zealand      | 1931-08-15 |
+| Nazar Mohammad    | N       | f19817   | Pakistan v India           | 1952-10-23 |
+| Jackie McGlew     | N       | f19922   | South Africa v New Zealand | 1953-03-06 |
+| Arthur Milton     | N       | f22301   | England v New Zealand      | 1958-07-03 |
+| John Edrich       | N       | f25874   | England v New Zealand      | 1965-07-08 |
+| David Lloyd       | N       | f30182   | England v India            | 1974-07-04 |
+| Dennis Amiss      | N       | f30267   | England v Pakistan         | 1974-08-22 |
+| Dennis Amiss      | N       | f30509   | England v New Zealand      | 1975-02-28 |
+| Geoff Boycott     | N       | f31705   | England v Australia        | 1977-08-11 |
+| Desmond Haynes    | N       | f32953   | West Indies v New Zealand  | 1980-02-08 |
+| Taslim Arif       | N       | f32979   | Pakistan v Australia       | 1980-03-06 |
+| Bruce Laird       | N       | f33992   | Australia v New Zealand    | 1982-02-26 |
+| Mudassar Nazar    | N       | f34483   | Pakistan v India           | 1983-01-23 |
+| Sunil Gavaskar    | N       | f34567   | India v West Indies        | 1983-03-31 |
+| Gordon Greenidge  | N       | f34580   | West Indies v India        | 1983-04-28 |
+| Sunil Gavaskar    | N       | f36077   | India v Australia          | 1985-12-13 |
+| Brendon Kuruppu   | N       | f36948   | Sri Lanka v New Zealand    | 1987-04-16 |
+| Martyn Moxon      | N       | f37454   | England v New Zealand      | 1988-03-03 |
+| Navjot Sidhu      | N       | f38020   | India v West Indies        | 1989-03-25 |
+| Mark Taylor       | N       | f38567   | Australia v Pakistan       | 1990-02-03 |
+| John Wright       | Y       | f38584   | New Zealand v India        | 1990-02-09 |
+| Shoaib Mohammad   | N       | f38930   | Pakistan v New Zealand     | 1990-10-10 |
+| Rameez Raja       | N       | f39713   | Pakistan v Sri Lanka       | 1991-12-20 |
+| Mark Taylor       | N       | f40849   | Australia v South Africa   | 1993-12-26 |
+| Grant Flower      | N       | f41594   | Zimbabwe v Pakistan        | 1995-01-31 |
+| Manoj Prabhakar   | N       | f41971   | India v New Zealand        | 1995-10-25 |
+| Bryan Young       | N       | f42981   | New Zealand v Sri Lanka    | 1997-03-07 |
+| Shiv Chanderpaul  | N       | f43036   | West Indies v India        | 1997-04-17 |
+| Ali Naqvi         | N       | f43273   | Pakistan v South Africa    | 1997-10-17 |
+| Alec Stewart      | N       | f43517   | England v West Indies      | 1998-01-29 |
+| Herschelle Gibbs  | N       | f44308   | South Africa v New Zealand | 1999-03-11 |
+| Marvan Atapattu   | N       | f44724   | Sri Lanka v Zimbabwe       | 1999-11-18 |
+| Marvan Atapattu   | N       | f45168   | Sri Lanka v Pakistan       | 2000-06-28 |
+| Marvan Atapattu   | N       | f45656   | Sri Lanka v England        | 2001-02-22 |
+| Matthew Hayden    | N       | f47442   | Australia v Zimbabwe       | 2003-10-09 |
+| Rahul Dravid      | Y       | f49113   | India v Pakistan           | 2006-01-13 |
+| Upul Tharanga     | N       | f49263   | Sri Lanka v Bangladesh     | 2006-03-08 |
+| Sir Alastair Cook | N       | f51428   | England v West Indies      | 2009-02-13 |
+| Andrew Strauss    | Y       | f51428   | England v West Indies      | 2009-02-13 |
+| Salman Butt       | N       | f51479   | Pakistan v Sri Lanka       | 2009-03-01 |
+| Khurram Manzoor   | N       | f51479   | Pakistan v Sri Lanka       | 2009-03-01 |
+| Sir Alastair Cook | N       | f53316   | England v India            | 2011-08-10 |
+| Murali Vijay      | N       | f56718   | India v South Africa       | 2015-11-14 |
+| Shikhar Dhawan    | N       | f56718   | India v South Africa       | 2015-11-14 |
+| David Warner      | N       | f56884   | Australia v West Indies    | 2016-01-03 |
+| Kraigg Brathwaite | N       | f57215   | West Indies v India        | 2016-08-18 |
+| Kraigg Brathwaite | N       | f57418   | West Indies v Pakistan     | 2016-10-30 |
+| Sir Alastair Cook | N       | f57978   | England v West Indies      | 2017-08-17 |
+| Sir Alastair Cook | N       | t2289    | England v Australia        | 2017-12-26 |
+| Tom Latham        | N       | t2335    | New Zealand v Sri Lanka    | 2018-12-15 |
+| David Warner      | N       | f59740   | Australia v Pakistan       | 2019-11-29 |
+| Abid Ali          | N       | f59772   | Pakistan v Sri Lanka       | 2019-12-11 |
+| Abid Ali          | N       | f60420   | Pakistan v Zimbabwe        | 2021-05-07 |
++-------------------+---------+----------+----------------------------+------------+
