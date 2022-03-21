@@ -1,0 +1,29 @@
++-----------+---------------------------------------------+---------+-----------------------------+------------+
+| Debutants | Venue                                       | MatchNo | Teams                       | Start Date |
++-----------+---------------------------------------------+---------+-----------------------------+------------+
+| 20        | Newlands, Cape Town                         | 10      | [South Africa, Australia]   | 1921-11-26 |
+| 20        | Association Ground, Sydney                  | 36      | [Australia, England]        | 1946-12-13 |
+| 20        | Ellis Park, Johannesburg                    | 5       | [South Africa, New Zealand] | 1953-12-24 |
+| 20        | Newlands, Cape Town                         | 18      | [South Africa, New Zealand] | 1954-01-01 |
+| 20        | St George's Park, Port Elizabeth            | 6       | [South Africa, New Zealand] | 1954-02-05 |
+| 22        | Edgbaston, Birmingham                       | 5       | [England, West Indies]      | 1957-05-30 |
+| 22        | Madras Cricket Club Ground, Chepauk, Madras | 5       | [India, West Indies]        | 1967-01-13 |
+| 20        | Modi Stadium, Kanpur                        | 7       | [India, Australia]          | 1969-11-15 |
+| 22        | Carisbrook, Dunedin                         | 7       | [New Zealand, West Indies]  | 1980-02-08 |
+| 22        | Kingsmead, Durban                           | 20      | [South Africa, India]       | 1992-11-13 |
+| 22        | New Wanderers Stadium, Johannesburg         | 12      | [South Africa, India]       | 1992-11-26 |
+| 22        | St George's Park, Port Elizabeth            | 13      | [South Africa, India]       | 1992-12-26 |
+| 22        | Newlands, Cape Town                         | 25      | [South Africa, India]       | 1993-01-02 |
+| 22        | Carisbrook, Dunedin                         | 9       | [New Zealand, Sri Lanka]    | 1995-03-18 |
+| 21        | Modi Stadium, Kanpur                        | 17      | [India, South Africa]       | 1996-12-08 |
+| 22        | Dacca Stadium, Dacca                        | 8       | [Pakistan, Sri Lanka]       | 1999-03-12 |
+| 22        | Dacca Stadium, Dacca                        | 9       | [Bangladesh, India]         | 2000-11-10 |
+| 20        | P Saravanamuttu Stadium, Colombo            | 8       | [Pakistan, Australia]       | 2002-10-03 |
+| 22        | Brabourne Stadium, Bombay                   | 18      | [India, Sri Lanka]          | 2009-12-02 |
+| 20        | Eden Park, Auckland                         | 48      | [New Zealand, England]      | 2013-03-22 |
+| 22        | Modi Stadium, Kanpur                        | 22      | [India, New Zealand]        | 2016-09-22 |
+| 22        | Rawalpindi Cricket Stadium, Rawalpindi      | 9       | [Pakistan, Sri Lanka]       | 2019-12-11 |
+| 22        | National Stadium, Karachi                   | 42      | [Pakistan, Sri Lanka]       | 2019-12-19 |
+| 22        | Sheikh Zayed Stadium, Abu Dhabi             | 14      | [Afghanistan, Zimbabwe]     | 2021-03-02 |
+| 22        | Gaddafi Stadium, Lahore                     | 41      | [Pakistan, Australia]       | 2022-03-21 |
++-----------+---------------------------------------------+---------+-----------------------------+------------+
