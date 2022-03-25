@@ -14,4 +14,5 @@
 | CR Seneviratne   | Sri Lanka Women v South Africa Women  | 2011-11-14 | 1978-11-14 | Khan Shaheb Osman Ali Stadium, Fatullah                 |
 | Lata Mondal      | Bangladesh Women v South Africa Women | 2017-01-16 | 1993-01-16 | Sheikh Kamal International Cricket Stadium, Cox's Bazar |
 | HASD Siriwardene | Sri Lanka Women v South Africa Women  | 2019-02-14 | 1985-02-14 | Senwes Park, Potchefstroom                              |
+| MM Lanning       | Australia Women v Bangladesh Women    | 2022-03-25 | 1992-03-25 | Cello Basin Reserve, Wellington                         |
 +------------------+---------------------------------------+------------+------------+---------------------------------------------------------+
