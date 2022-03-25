@@ -1,0 +1,54 @@
++------------------------------------------------+--------------------------------------------------------------+------------+-----------------------------------------------------+
+| Batsmen-Runs                                   | Match                                                        | StartDate  | Venue                                               |
++------------------------------------------------+--------------------------------------------------------------+------------+-----------------------------------------------------+
+| John Parnham-90,John White-62                  | North v South                                                | 1886-06-14 | Lord's Cricket Ground, St John's Wood               |
+| John Murdin-90,Benjamin Bellamy-84             | Northamptonshire v Glamorgan                                 | 1925-06-20 | County Ground, Northampton                          |
+| Warren Wisneski-89,Lee Germon-80               | Canterbury v Northern Districts                              | 1998-03-22 | Dudley Park, Rangiora                               |
+| Datta Verma-82,Chiranjeet Shankar-56           | Andhra v Kerala                                              | 1974-12-14 | Brahmananda Reddy Stadium, Guntur                   |
+| Liam Norwell-78,Craig Miles-62                 | Gloucestershire v Worcestershire                             | 2014-07-21 | College Ground, Cheltenham                          |
+| Mark Gillespie-77,Andy McKay-33                | Wellington v Canterbury                                      | 2012-11-19 | MainPower Oval, Rangiora                            |
+| Iqbal Sikander-76,Wasim Bari-45                | Pakistan International Airlines v National Bank of Pakistan  | 1979-10-10 | Gaddafi Stadium, Lahore                             |
+| Simon Daniels-73,Terry Davies-66               | Glamorgan v Gloucestershire                                  | 1982-05-29 | St Helen's, Swansea                                 |
+| Charles Green-60,John Cockburn-Hood-45         | Cambridge University v Marylebone Cricket Club               | 1867-06-24 | Lord's Cricket Ground, St John's Wood               |
+| Nantie Hayward-55,Lulama Masikazana-50         | Eastern Province v Boland                                    | 1997-11-21 | St George's Park, Port Elizabeth                    |
+| Norton Fredrick-54,Darrell Lieversz-40         | Ceylon v Indian Universities                                 | 1964-12-05 | Nehru Stadium, Madras                               |
+| Ashraf Makda-50,Hitesh Majmudar-19             | Gujarat v Delhi                                              | 2005-12-17 | Feroz Shah Kotla, Delhi                             |
+| Michael Kasprowicz-49,Paul Carew-23            | Queensland v Western Australia                               | 1990-02-16 | Western Australia Cricket Association Ground, Perth |
+| Saqib Mahmood-49,Jack Leach-41                 | England v West Indies                                        | 2022-03-24 | Queen's Park (New), St George's                     |
+| Thomas Byrne-44,Rocco Atkins-26                | Queensland v New South Wales                                 | 1902-11-08 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| Palmer-43,John Pilcher-24                      | Kent v Surrey                                                | 1789-06-10 | Moulsey Hurst                                       |
+| Joe Hipkin-42,Robert Sharp-36                  | Essex v Derbyshire                                           | 1925-06-10 | County Ground, Leyton                               |
+| Prabhakar Raju-41,KV Rammohan-28               | Andhra v Tamil Nadu                                          | 1973-03-03 | Madras Cricket Club Ground, Chepauk, Madras         |
+| Tony Cordle-40,Malcolm Nash-32                 | Glamorgan v Warwickshire                                     | 1979-07-21 | Edgbaston, Birmingham                               |
+| Prasanth Parameswaran-38,Amit Yadav-36         | Goa v Kerala                                                 | 2015-11-15 | Goa Cricket Association Academy Ground, Porvorim    |
+| Bob Clarke-37,Frank Tyson-34                   | Northamptonshire v Sussex                                    | 1954-05-08 | County Ground, Northampton                          |
+| Tanveer-ul-Hak-37,Aniket Choudhary-30          | Rajasthan v Tripura                                          | 2019-01-07 | Maharaja Bir Bikram College Stadium, Agartala       |
+| George Wilson-36,Albert Bird-28                | Worcestershire v Warwickshire                                | 1902-05-19 | County Ground, New Road, Worcester                  |
+| Kailash Gattani-36,Chandrasekhar Joshi-32      | Rajasthan v Madhya Pradesh                                   | 1968-12-14 | Nehru Stadium, Indore                               |
+| Edwin St Hill-35,Victor Pascall-27             | Trinidad v Barbados                                          | 1924-02-19 | Kensington Oval, Bridgetown                         |
+| EG Mane-35,SJ Poonawalla-29                    | Central Provinces and Berar v Hyderabad                      | 1943-12-31 | Central Provinces Gymkhana Ground, Nagpur           |
+| Mrinmoy Dutta-35,Mukhtar Hussain-24            | Assam v Jammu and Kashmir                                    | 2018-12-30 | Barsapara Cricket Stadium, Guwahati                 |
+| Greg Smith-33,Pierre Joubert-30                | Northerns v Free State                                       | 1999-12-17 | Goodyear Park, Bloemfontein                         |
+| Jamie Overton-33,Alfonso Thomas-32             | Somerset v Leeds/Bradford Marylebone Cricket Club University | 2014-04-07 | County Ground, Taunton                              |
+| Jim Wood-32,Rupert Webb-28                     | Sussex v Derbyshire                                          | 1954-07-21 | County Ground, Derby                                |
+| George Dennett-30,Percy Ford-26                | Gloucestershire v Lancashire                                 | 1906-06-21 | Spa Ground, Gloucester                              |
+| Herbert Curteis-29,George Picknell-26          | Sussex v Marylebone Cricket Club                             | 1850-06-24 | Lord's Cricket Ground, St John's Wood               |
+| Bill Aldridge-28,Ken Ferries-22                | Canterbury v Auckland                                        | 1973-12-30 | Lancaster Park, Christchurch                        |
+| Rajeev Desai-28,Dhansukh Patel-27              | Gujarat v Baroda                                             | 1986-12-26 | Jayendra Puri Arts College Ground, Bharuch          |
+| Sanjeewa Jayaratne-28,Ranga Dias-19            | Tamil Union Cricket and Athletic Club v Colts Cricket Club   | 1999-12-03 | P Saravanamuttu Stadium, Colombo                    |
+| Schofield Haigh-27,Everard Radcliffe-24        | Yorkshire v Lancashire                                       | 1910-05-16 | Headingley, Leeds                                   |
+| Charlie Knott-27,Richard Carty-21              | Hampshire v Sussex                                           | 1951-06-16 | The Manor Sports Ground, Worthing                   |
+| Lyndon Volkwyn-26,Gurshwin Rabie-18            | South Western Districts v Griqualand West                    | 2015-02-12 | Recreation Ground, Oudtshoorn                       |
+| James Hodson-24,William Lillywhite-15          | England v Kent                                               | 1844-08-12 | Beverley Ground, Canterbury                         |
+| Taurai Muzarabani-24,Tanyaradzwa Munyaradzi-22 | Southern Rocks v Mountaineers                                | 2011-11-14 | Mutare Sports Club, Mutare                          |
+| David Fursdon-22,Paul Fisher-9                 | Oxford University v Derbyshire                               | 1974-05-08 | The University Parks, Oxford                        |
+| George Ferris-21,Winston Benjamin-14           | Leeward Islands v Jamaica                                    | 1986-01-16 | Sabina Park, Kingston                               |
+| Thomas Sueter-20,George Leer-17                | Hampshire v Surrey                                           | 1778-10-06 | Laleham Burway Cricket Ground, Laleham Burway       |
+| Teddy Tyler-20,Cres Robinson-10                | HT Hewett's XII v Cambridge University                       | 1892-06-13 | FP Fenner's Ground, Cambridge                       |
+| Jack Hearne-17,Gregor MacGregor-14             | Middlesex v Yorkshire                                        | 1894-05-31 | Lord's Cricket Ground, St John's Wood               |
+| Roy Barratt-15,Roger Tolchard-10               | Leicestershire v Kent                                        | 1968-05-22 | Grace Road, Leicester                               |
+| George Whyting-12,Charles Beauclerk-9          | Gentlemen v Players                                          | 1837-07-17 | Lord's Cricket Ground, St John's Wood               |
+| Ellys Walton-12,Alfred Mynn-10                 | Suffolk v Marylebone Cricket Club                            | 1847-08-19 | Field Lane, Bury St Edmunds                         |
+| Kunjiran Madhavan-11,Chandroth Bhaskaran-6     | Kerala v Mysore                                              | 1963-11-14 | Central College Ground, Bangalore                   |
+| James Hamilton-6,George Arthur-4               | Tasmania v Victoria                                          | 1869-02-12 | Melbourne Cricket Ground, Melbourne                 |
++------------------------------------------------+--------------------------------------------------------------+------------+-----------------------------------------------------+
