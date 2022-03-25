@@ -1,0 +1,17 @@
++------------------+---------------------------------------+------------+------------+---------------------------------------------------------+-------+
+| Runs             | Player                                | Match      | Bday       | Venue                                                   | Score |
++------------------+---------------------------------------+------------+------------+---------------------------------------------------------+-------+
+| V Bhagat         | India Women v Australia Women         | 1982-01-26 | 1959-01-26 | Basin Reserve, Wellington                               | 0     |
+| L Bhattacharjee  | India Women v England Women           | 1982-01-31 | 1960-01-31 | Trafalgar Park, Nelson                                  | 0     |
+| L Sorensen       | Denmark Women v England Women         | 1990-07-19 | 1970-07-19 | John Player Ground, Nottingham                          | 0     |
+| H Sorensen       | Denmark Women v England Women         | 1995-07-19 | 1975-07-19 | Observatory Lane, Rathmines, Dublin                     | 0     |
+| Meher Minwalla   | Pakistan Women v Denmark Women        | 1997-12-10 | 1977-12-10 | Gangothri Glades Cricket Ground, Mysore                 | 0     |
+| CA Salomons      | Netherlands Women v Ireland Women     | 1999-07-20 | 1974-07-20 | Nyk?bing Mors Cricket Stadium, Nyk?bing Mors            | 0     |
+| CJ Sweetman      | Scotland Women v West Indies Women    | 2003-07-23 | 1983-07-23 | Sportpark Thurlede, Schiedam                            | 0     |
+| R Hiroto         | Japan Women v West Indies Women       | 2003-07-26 | 1981-07-26 | VRA Ground, Amstelveen                                  | 0     |
+| LK Newton        | England Women v India Women           | 2005-11-27 | 1977-11-27 | Nahar Singh Stadium, Faridabad                          | 0     |
+| MF Fahey         | New Zealand Women v Australia Women   | 2007-03-05 | 1984-03-05 | MA Chidambaram Stadium, Chepauk, Chennai                | 0     |
+| CR Seneviratne   | Sri Lanka Women v South Africa Women  | 2011-11-14 | 1978-11-14 | Khan Shaheb Osman Ali Stadium, Fatullah                 | 0     |
+| Lata Mondal      | Bangladesh Women v South Africa Women | 2017-01-16 | 1993-01-16 | Sheikh Kamal International Cricket Stadium, Cox's Bazar | 0     |
+| HASD Siriwardene | Sri Lanka Women v South Africa Women  | 2019-02-14 | 1985-02-14 | Senwes Park, Potchefstroom                              | 0     |
++------------------+---------------------------------------+------------+------------+---------------------------------------------------------+-------+
