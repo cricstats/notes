@@ -1,0 +1,32 @@
++-------------------+------+--------+-------+---------------------------+------------+
+| Player            | Runs | FOW    | Total | Match                     | StartDate  |
++-------------------+------+--------+-------+---------------------------+------------+
+| Victor Trumper    | 74   | 10-122 | 122   | Australia v England       | 1904-01-01 |
+| Len Hutton        | 30   | 10-52  | 52    | England v Australia       | 1948-08-14 |
+| Arthur Morris     | 206  | 10-371 | 371   | Australia v England       | 1951-02-02 |
+| Abdul Kadir       | 58   | 10-207 | 207   | Pakistan v New Zealand    | 1965-01-29 |
+| John Inverarity   | 56   | 10-125 | 125   | Australia v England       | 1968-08-22 |
+| Glenn Turner      | 81   | 10-142 | 142   | New Zealand v England     | 1973-07-05 |
+| Dennis Amiss      | 183  | 10-545 | 545   | England v Pakistan        | 1974-08-22 |
+| Geoff Boycott     | 191  | 10-436 | 436   | England v Australia       | 1977-08-11 |
+| Desmond Haynes    | 55   | 10-140 | 140   | West Indies v New Zealand | 1980-02-08 |
+| Desmond Haynes    | 105  | 10-212 | 212   | West Indies v New Zealand | 1980-02-08 |
+| Kepler Wessels    | 162  | 10-341 | 341   | Australia v England       | 1982-11-26 |
+| Mudassar Nazar    | 89   | 10-183 | 183   | Pakistan v New Zealand    | 1985-01-25 |
+| Desmond Haynes    | 45   | 10-127 | 127   | West Indies v India       | 1987-11-25 |
+| Graham Gooch      | 84   | 10-202 | 202   | England v West Indies     | 1988-08-04 |
+| John Wright       | 62   | 10-124 | 124   | New Zealand v India       | 1988-12-02 |
+| Mike Atherton     | 108  | 10-217 | 217   | England v West Indies     | 2000-08-31 |
+| Kumar Sangakkara  | 98   | 10-252 | 252   | Sri Lanka v South Africa  | 2001-01-20 |
+| Matthew Hayden    | 203  | 10-391 | 391   | Australia v India         | 2001-03-18 |
+| Sanath Jayasuriya | 253  | 10-438 | 438   | Sri Lanka v Pakistan      | 2004-10-20 |
+| Justin Langer     | 191  | 10-381 | 381   | Australia v Pakistan      | 2004-12-16 |
+| Upul Tharanga     | 165  | 10-316 | 316   | Sri Lanka v Bangladesh    | 2006-03-08 |
+| Michael Vandort   | 105  | 10-231 | 231   | Sri Lanka v England       | 2006-05-25 |
+| Gautam Gambhir    | 65   | 10-142 | 142   | India v England           | 2012-11-23 |
+| Stephen Cook      | 104  | 10-250 | 250   | South Africa v Australia  | 2016-11-24 |
+| Kraigg Brathwaite | 126  | 10-354 | 354   | West Indies v Sri Lanka   | 2021-03-29 |
+| Devon Conway      | 200  | 10-378 | 378   | New Zealand v England     | 2021-06-02 |
+| Rory Burns        | 132  | 10-275 | 275   | England v New Zealand     | 2021-06-02 |
+| Mahmudul Hasan    | 137  | 10-298 | 298   | Bangladesh v South Africa | 2022-03-31 |
++-------------------+------+--------+-------+---------------------------+------------+
