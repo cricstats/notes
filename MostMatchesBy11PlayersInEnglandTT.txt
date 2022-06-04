@@ -1,0 +1,59 @@
++-------------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
+| Player                                                                                                                                                | Matches | Wins | Loss | Tied | Others |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
+| [Azhar Mahmood, DI Stevens, GO Jones, JC Tredwell, JL Denly, JM Kemp, M van Jaarsveld, R McLaren, RWT Key, SJ Cook, Yasir Arafat]                     | 10      | 6    | 4    | 0    | 0      |
+| [AD Hales, BRM Taylor, DT Christian, HF Gurney, IS Sodhi, JT Ball, MH Wessels, SJ Mullaney, SR Patel, TJ Moores, WT Root]                             | 10      | 8    | 1    | 0    | 1      |
+| [CJ Anderson, J Overton, JC Hildreth, JE Taylor, JG Myburgh, L Gregory, MTC Waller, PD Trego, RE van der Merwe, SM Davies, TB Abell]                  | 9       | 6    | 3    | 0    | 0      |
+| [CF Hughes, GT Park, JL Clare, LD Sutton, MJ Guptill, PS Jones, RA Whiteley, TC Knight, TD Groenewald, WJ Durston, WL Madsen]                         | 8       | 3    | 4    | 0    | 1      |
+| [AB McDonald, Abdul Razzaq, CW Henderson, HF Gurney, J du Toit, JJ Cobb, JWA Taylor, MJ Hoggard, PA Nixon, WA White, WI Jefferson]                    | 8       | 4    | 1    | 0    | 3      |
+| [AL Davies, DJ Vilas, GJ Maxwell, JJ Bohannon, JP Faulkner, KK Jennings, LS Livingstone, MW Parkinson, RJ Gleeson, S Mahmood, SJ Croft]               | 8       | 6    | 2    | 0    | 0      |
+| [AA Noffke, BF Smith, CD Whelan, DKH Mitchell, GJ Batty, GM Andrew, ID Fisher, MM Ali, SC Moore, SM Davies, VS Solanki]                               | 7       | 4    | 3    | 0    | 0      |
+| [AV Suppiah, CAJ Meschede, JC Buttler, JC Hildreth, KA Pollard, L Gregory, M Kartik, ME Trescothick, MTC Waller, PD Trego, SP Kirby]                  | 7       | 4    | 2    | 0    | 1      |
+| [AN Kervezee, BJM Scott, BL D'Oliveira, DKH Mitchell, DS Lucas, GM Andrew, JD Shantry, JG Cameron, MM Ali, PJ Hughes, VS Solanki]                     | 7       | 4    | 3    | 0    | 0      |
+| [AG Wakely, Azharullah, CL White, D Murphy, DJ Willey, JD Middlebrook, KJ Coetzer, LM Daggett, MNW Spriegel, RE Levi, SP Crook]                       | 7       | 6    | 1    | 0    | 0      |
+| [AK Dal, AL Hughes, BA Godleman, CS MacLeod, GC Viljoen, GC Wilson, LH Ferguson, MJJ Critchley, R Rampaul, WL Madsen, Wahab Riaz]                     | 7       | 5    | 2    | 0    | 0      |
+| [AM Ali, AM Lilley, CF Parkinson, CN Ackermann, D Klein, GT Griffiths, HE Dearden, HJ Swindells, LJ Hill, MJ Cosgrove, WS Davis]                      | 7       | 4    | 2    | 0    | 1      |
+| [AZ Lees, BA Carse, BA Raine, DG Bedingham, F Behardien, G Clark, L Trevaskis, MJ Potts, NJ Rimmington, P Coughlin, S Steel]                          | 7       | 4    | 2    | 0    | 1      |
+| [AR Caddick, AV Suppiah, CM Gazzard, GC Smith, GM Andrew, ID Blackwell, JC Hildreth, KA Parsons, MJ Wood, SRG Francis, WJ Durston]                    | 6       | 3    | 2    | 0    | 1      |
+| [CM Willoughby, CW Henderson, D Mongia, DD Masters, DL Maddy, HD Ackerman, JK Maunders, JL Sadler, JN Snape, OD Gibson, PA Nixon]                     | 6       | 4    | 2    | 0    | 0      |
+| [A Khan, AJ Hall, DI Stevens, JC Tredwell, M van Jaarsveld, MJ Walker, MM Patel, NJ Dexter, NJ O'Brien, RWT Key, T Henderson]                         | 6       | 4    | 2    | 0    | 0      |
+| [AD Mascarenhas, BV Taylor, CC Benham, CT Tremlett, DJ Thornely, GA Lamb, JJ McLean, MA Carberry, MST Stokes, N Pothas, SD Udal]                      | 6       | 2    | 4    | 0    | 0      |
+| [A McGrath, AW Gale, C White, CR Gilbert, D Gough, DJ Wainwright, GL Brophy, JA Rudolph, JN Gillespie, RM Pyrah, TT Bresnan]                          | 6       | 4    | 2    | 0    | 0      |
+| [AG Prince, F du Plessis, G Chapple, G Keedy, GD Cross, MJ Chilton, PJ Horton, SD Parry, SI Mahmood, SJ Croft, TC Smith]                              | 6       | 6    | 0    | 0    | 0      |
+| [CF Hughes, CK Langeveldt, GM Smith, GT Park, JL Sadler, LE Bosman, LJ Goddard, PS Jones, RJ Peterson, TD Groenewald, WJ Durston]                     | 6       | 1    | 4    | 0    | 1      |
+| [C Rushworth, DA Miller, DM Benkenstein, G Onions, GJ Muchall, GR Breese, ID Blackwell, LE Plunkett, ME Claydon, P Mustard, PD Collingwood]           | 6       | 2    | 3    | 0    | 1      |
+| [A Carter, AC Voges, AD Hales, CMW Read, DJ Hussey, DJ Pattinson, LJ Fletcher, MH Wessels, SJ Mullaney, SL Elstone, SR Patel]                         | 6       | 4    | 1    | 0    | 1      |
+| [AD Russell, AN Kervezee, BL D'Oliveira, DKH Mitchell, GM Andrew, J Leach, JD Shantry, MM Ali, OB Cox, SH Choudhry, TT Samaraweera]                   | 6       | 2    | 4    | 0    | 0      |
+| [C Rushworth, CS MacLeod, GJ Muchall, JW Hastings, KK Jennings, MD Stoneman, P Mustard, PD Collingwood, RD Pringle, SG Borthwick, U Arshad]           | 6       | 3    | 3    | 0    | 0      |
+| [AJ Tye, BAC Howell, CDJ Dent, GH Roderick, HJH Marshall, IA Cockbain, K Noema-Barnett, LC Norwell, M Klinger, MD Taylor, TMJ Smith]                  | 6       | 4    | 1    | 0    | 1      |
+| [AM Lilley, DJ Vilas, J Clark, JC Buttler, Junaid Khan, KR Brown, LS Livingstone, MW Parkinson, R McLaren, SD Parry, SJ Croft]                        | 6       | 3    | 3    | 0    | 0      |
+| [AHT Donald, CH Morris, CP Wood, JK Fuller, JM Vince, KJ Abbott, LA Dawson, LD McManus, MS Crane, RR Rossouw, SA Northeast]                           | 6       | 3    | 2    | 0    | 1      |
+| [Babar Azam, C Overton, EJ Byrom, JC Hildreth, JE Taylor, MTC Waller, RE van der Merwe, T Banton, TA Lammonby, TB Abell, TD Groenewald]               | 6       | 4    | 2    | 0    | 0      |
+| [AM Lilley, BWM Mike, CF Parkinson, CN Ackermann, GT Griffiths, JP Inglis, LJ Hill, LPJ Kimber, Naveen-ul-Haq, RK Patel, S Steel]                     | 6       | 3    | 3    | 0    | 0      |
+| [AJ Harris, CMW Read, DJ Hussey, GD Clough, GJ Smith, GP Swann, MA Ealham, PJ Franks, SP Fleming, SR Patel, WR Smith]                                 | 5       | 1    | 4    | 0    | 0      |
+| [A Flower, AP Palladino, AR Adams, Danish Kaneria, GW Flower, JD Middlebrook, JS Foster, ML Pettini, RC Irani, RN ten Doeschate, RS Bopara]           | 5       | 3    | 1    | 0    | 1      |
+| [DI Stevens, GO Jones, JC Tredwell, JL Denly, M Morkel, M van Jaarsveld, MJ Walker, NJ Dexter, R McLaren, SJ Cook, Yasir Arafat]                      | 5       | 3    | 1    | 0    | 1      |
+| [AG Wharf, BJ Wright, DA Cosker, DL Hemp, DS Harrison, HH Gibbs, JWM Dalrymple, MA Wallace, MJ Powell, RDB Croft, RE Watkins]                         | 5       | 2    | 2    | 0    | 1      |
+| [AG Botha, CR Woakes, CS Martin, IDK Salisbury, IJ Westwood, IJL Trott, JO Troughton, MJ Powell, NM Carter, T Frost, TD Groenewald]                   | 5       | 5    | 0    | 0    | 0      |
+| [AJ Hall, DJG Sales, J Louw, JF Brown, JJ van der Wath, L Klusener, MH Wessels, N Boje, NJ O'Brien, RA White, SP Crook]                               | 5       | 2    | 3    | 0    | 0      |
+| [CJL Rogers, DJ Pipe, GG Wagg, GM Smith, GT Park, JL Sadler, MAK Lawson, SG Law, T Lungley, TD Groenewald, WW Hinds]                                  | 5       | 2    | 3    | 0    | 0      |
+| [AC Thomas, AV Suppiah, BJ Phillips, C Kieswetter, CM Willoughby, JC Hildreth, JL Langer, ME Trescothick, MTC Waller, PD Trego, Z de Bruyn]           | 5       | 3    | 2    | 0    | 0      |
+| [BJ Hodge, CW Henderson, J du Toit, JGE Benning, JJ Cobb, JWA Taylor, MJ Hoggard, MN Malik, NL Buck, PA Nixon, WI Jefferson]                          | 5       | 2    | 3    | 0    | 0      |
+| [AD Brown, AD Hales, CMW Read, DJ Hussey, DJ Pattinson, DP Nannes, GG White, MJ Wood, RJ Sidebottom, SJ Mullaney, SR Patel]                           | 5       | 2    | 2    | 1    | 0      |
+| [G Keedy, GD Cross, Junaid Khan, KR Brown, LA Procter, MF Maharoof, SC Moore, SD Parry, SI Mahmood, SJ Croft, TC Smith]                               | 5       | 5    | 0    | 0    | 0      |
+| [AD Mascarenhas, CP Wood, DR Briggs, GJ Maxwell, JHK Adams, JM Vince, LA Dawson, MD Bates, ND McKenzie, SM Ervine, SM Katich]                         | 5       | 5    | 0    | 0    | 0      |
+| [AD Mascarenhas, AJA Wheater, CP Wood, DR Briggs, JHK Adams, JM Vince, LA Dawson, MA Carberry, ND McKenzie, SM Ervine, Sohail Tanvir]                 | 5       | 3    | 1    | 0    | 1      |
+| [AN Kervezee, BL D'Oliveira, C Munro, CJ Russell, DKH Mitchell, JD Shantry, OB Cox, RA Whiteley, RK Oliver, Saeed Ajmal, T Kohler-Cadmore]            | 5       | 3    | 2    | 0    | 0      |
+| [AJA Wheater, CP Wood, DR Briggs, FH Edwards, JHK Adams, JM Vince, MA Carberry, OA Shah, SM Ervine, WR Smith, Yasir Arafat]                           | 5       | 3    | 2    | 0    | 0      |
+| [AG Salter, BJ Wright, CA Ingram, CAJ Meschede, CB Cooke, DA Cosker, GG Wagg, JA Rudolph, MA Wallace, MG Hogan, WD Parnell]                           | 5       | 3    | 2    | 0    | 0      |
+| [DD Masters, GR Napier, JD Ryder, JS Foster, ML Pettini, NLJ Browne, RJW Topley, RN ten Doeschate, RS Bopara, SW Tait, T Westley]                     | 5       | 3    | 2    | 0    | 0      |
+| [BL D'Oliveira, C Munro, DKH Mitchell, EG Barnard, J Leach, JD Shantry, OB Cox, RA Whiteley, RK Oliver, Saeed Ajmal, T Kohler-Cadmore]                | 5       | 4    | 1    | 0    | 0      |
+| [AHT Donald, CA Ingram, CAJ Meschede, CB Cooke, DA Cosker, DL Lloyd, DW Steyn, GG Wagg, JA Rudolph, MG Hogan, T van der Gugten]                       | 5       | 4    | 1    | 0    | 0      |
+| [AJ Tye, BAC Howell, DA Payne, GH Roderick, IA Cockbain, JMR Taylor, K Noema-Barnett, M Klinger, MAH Hammond, RF Higgins, TMJ Smith]                  | 5       | 4    | 1    | 0    | 0      |
+| [CDJ Dent, DA Payne, GFB Scott, GL van Buuren, IA Cockbain, JMR Taylor, JR Bracey, MAH Hammond, MD Taylor, RF Higgins, TMJ Smith]                     | 5       | 4    | 1    | 0    | 0      |
+| [AD Hales, BM Duckett, CD Nash, DT Christian, Imad Wasim, JM Clarke, JT Ball, M Carter, SJ Mullaney, SR Patel, TJ Moores]                             | 5       | 5    | 0    | 0    | 0      |
+| [AT Thomson, BA Godleman, BD Guest, C McKerr, FJ Hudson-Prentice, GLS Scrimshaw, HRC Came, JL du Plooy, LM Reece, LV van Beek, MJJ Critchley]         | 5       | 1    | 4    | 0    | 0      |
+| [AD Hales, BM Duckett, CG Harrison, JM Clarke, JT Ball, LJ Fletcher, M Carter, SG Budinger, SJ Mullaney, SR Patel, TJ Moores]                         | 5       | 3    | 0    | 2    | 0      |
+| [BJ Dwarshuis, BL D'Oliveira, CAJ Morris, DKH Mitchell, DY Pennington, EG Barnard, IS Sodhi, JD Libby, MH Wessels, OB Cox, RA Whiteley]               | 5       | 4    | 1    | 0    | 0      |
+| [BD Guest, GLS Scrimshaw, HL Kerr, HRC Came, JL du Plooy, LM Reece, MH McKiernan, MRJ Watt, S Conners, Shan Masood, WL Madsen]                        | 5       | 2    | 3    | 0    | 0      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+---------+------+------+------+--------+
