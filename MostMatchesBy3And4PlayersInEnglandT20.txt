@@ -1,0 +1,115 @@
++--------------------------------------------------------+---------+------+------+------+--------+
+| Player                                                 | Matches | Wins | Loss | Tied | Others |
++--------------------------------------------------------+---------+------+------+------+--------+
+| [AD Hales, SJ Mullaney, SR Patel]                      | 124     | 83   | 33   | 5    | 3      |
+| [JS Foster, RN ten Doeschate, RS Bopara]               | 112     | 56   | 51   | 0    | 5      |
+| [GR Napier, JS Foster, RN ten Doeschate]               | 102     | 51   | 46   | 1    | 4      |
+| [DKH Mitchell, OB Cox, RA Whiteley]                    | 96      | 50   | 45   | 0    | 1      |
+| [JS Foster, ML Pettini, RN ten Doeschate]              | 95      | 51   | 38   | 1    | 5      |
+| [JC Hildreth, MTC Waller, PD Trego]                    | 94      | 47   | 41   | 1    | 5      |
+| [MH Wessels, SJ Mullaney, SR Patel]                    | 94      | 62   | 29   | 0    | 3      |
+| [BAC Howell, IA Cockbain, TMJ Smith]                   | 93      | 44   | 42   | 2    | 5      |
+| [BL D'Oliveira, OB Cox, RA Whiteley]                   | 91      | 47   | 42   | 1    | 1      |
+| [EG Barnard, OB Cox, RA Whiteley]                      | 88      | 45   | 42   | 1    | 0      |
+| [DI Stevens, JC Tredwell, JL Denly]                    | 87      | 51   | 34   | 1    | 1      |
+| [BL D'Oliveira, DKH Mitchell, OB Cox]                  | 86      | 44   | 41   | 0    | 1      |
+| [IA Cockbain, JMR Taylor, TMJ Smith]                   | 86      | 44   | 35   | 2    | 5      |
+| [DA Payne, IA Cockbain, JMR Taylor]                    | 85      | 39   | 39   | 2    | 5      |
+| [DA Payne, IA Cockbain, TMJ Smith]                     | 82      | 39   | 37   | 2    | 4      |
+| [JS Foster, ML Pettini, RS Bopara]                     | 81      | 43   | 35   | 0    | 3      |
+| [DI Stevens, JC Tredwell, RWT Key]                     | 81      | 40   | 39   | 2    | 0      |
+| [GR Napier, JS Foster, RS Bopara]                      | 80      | 40   | 37   | 0    | 3      |
+| [DA Cosker, MA Wallace, RDB Croft]                     | 80      | 27   | 46   | 0    | 7      |
+| [HF Gurney, SJ Mullaney, SR Patel]                     | 80      | 52   | 26   | 0    | 2      |
+| [IA Cockbain, M Klinger, TMJ Smith]                    | 80      | 39   | 34   | 2    | 5      |
+| [BL D'Oliveira, DKH Mitchell, RA Whiteley]             | 80      | 42   | 37   | 0    | 1      |
+| [BL D'Oliveira, EG Barnard, OB Cox]                    | 80      | 39   | 40   | 1    | 0      |
+| [GJ Muchall, GR Breese, P Mustard]                     | 79      | 31   | 42   | 1    | 5      |
+| [DD Masters, JS Foster, RN ten Doeschate]              | 79      | 40   | 35   | 1    | 3      |
+| [BAC Howell, IA Cockbain, JMR Taylor]                  | 79      | 34   | 39   | 2    | 4      |
+| [GR Napier, JS Foster, ML Pettini]                     | 78      | 39   | 35   | 1    | 3      |
+| [AC Thomas, JC Hildreth, PD Trego]                     | 78      | 41   | 33   | 0    | 4      |
+| [KR Brown, SD Parry, SJ Croft]                         | 78      | 44   | 31   | 3    | 0      |
+| [DM Benkenstein, GR Breese, P Mustard]                 | 77      | 30   | 38   | 2    | 7      |
+| [DR Briggs, JHK Adams, SM Ervine]                      | 77      | 50   | 23   | 0    | 4      |
+| [CP Wood, JM Vince, LA Dawson]                         | 77      | 39   | 31   | 2    | 5      |
+| [DR Briggs, JHK Adams, JM Vince]                       | 77      | 51   | 22   | 0    | 4      |
+| [HF Gurney, MH Wessels, SJ Mullaney]                   | 77      | 51   | 23   | 0    | 3      |
+| [BAC Howell, IA Cockbain, M Klinger]                   | 77      | 34   | 37   | 2    | 4      |
+| [DA Payne, JMR Taylor, TMJ Smith]                      | 77      | 40   | 31   | 2    | 4      |
+| [DKH Mitchell, EG Barnard, RA Whiteley]                | 77      | 40   | 37   | 0    | 0      |
+| [DKH Mitchell, EG Barnard, OB Cox]                     | 77      | 40   | 37   | 0    | 0      |
+| [GR Napier, ML Pettini, RN ten Doeschate]              | 76      | 39   | 33   | 1    | 3      |
+| [JHK Adams, JM Vince, SM Ervine]                       | 76      | 50   | 22   | 0    | 4      |
+| [HF Gurney, MH Wessels, SR Patel]                      | 76      | 50   | 24   | 0    | 2      |
+| [BAC Howell, JMR Taylor, TMJ Smith]                    | 76      | 36   | 34   | 2    | 4      |
+| [GR Napier, RN ten Doeschate, RS Bopara]               | 75      | 38   | 34   | 0    | 3      |
+| [AJ Blake, DI Stevens, SA Northeast]                   | 75      | 34   | 39   | 2    | 0      |
+| [JT Ball, SJ Mullaney, SR Patel]                       | 75      | 52   | 18   | 2    | 3      |
+| [BL D'Oliveira, EG Barnard, RA Whiteley]               | 75      | 38   | 36   | 1    | 0      |
+| [BL D'Oliveira, DKH Mitchell, OB Cox, RA Whiteley]     | 80      | 42   | 37   | 0    | 1      |
+| [DKH Mitchell, EG Barnard, OB Cox, RA Whiteley]        | 77      | 40   | 37   | 0    | 0      |
+| [GR Napier, JS Foster, ML Pettini, RN ten Doeschate]   | 75      | 38   | 33   | 1    | 3      |
+| [HF Gurney, MH Wessels, SJ Mullaney, SR Patel]         | 75      | 50   | 23   | 0    | 2      |
+| [BL D'Oliveira, EG Barnard, OB Cox, RA Whiteley]       | 75      | 38   | 36   | 1    | 0      |
+| [GR Napier, JS Foster, RN ten Doeschate, RS Bopara]    | 74      | 37   | 34   | 0    | 3      |
+| [DA Payne, IA Cockbain, JMR Taylor, TMJ Smith]         | 73      | 37   | 30   | 2    | 4      |
+| [DR Briggs, JHK Adams, JM Vince, SM Ervine]            | 72      | 48   | 20   | 0    | 4      |
+| [JS Foster, ML Pettini, RN ten Doeschate, RS Bopara]   | 71      | 38   | 30   | 0    | 3      |
+| [AD Hales, MH Wessels, SJ Mullaney, SR Patel]          | 71      | 50   | 19   | 0    | 2      |
+| [BAC Howell, IA Cockbain, M Klinger, TMJ Smith]        | 71      | 33   | 32   | 2    | 4      |
+| [BAC Howell, IA Cockbain, JMR Taylor, TMJ Smith]       | 71      | 33   | 32   | 2    | 4      |
+| [BAC Howell, DA Payne, IA Cockbain, TMJ Smith]         | 67      | 28   | 34   | 2    | 3      |
+| [CP Wood, DR Briggs, JHK Adams, SM Ervine]             | 65      | 43   | 18   | 0    | 4      |
+| [CP Wood, DR Briggs, JHK Adams, JM Vince]              | 65      | 44   | 17   | 0    | 4      |
+| [DD Masters, GR Napier, JS Foster, RN ten Doeschate]   | 64      | 31   | 30   | 1    | 2      |
+| [BAC Howell, DA Payne, IA Cockbain, JMR Taylor]        | 64      | 27   | 32   | 2    | 3      |
+| [BL D'Oliveira, DKH Mitchell, EG Barnard, RA Whiteley] | 64      | 33   | 31   | 0    | 0      |
+| [BL D'Oliveira, DKH Mitchell, EG Barnard, OB Cox]      | 64      | 33   | 31   | 0    | 0      |
+| [CP Wood, JHK Adams, JM Vince, SM Ervine]              | 62      | 42   | 16   | 0    | 4      |
+| [CP Wood, DR Briggs, JM Vince, SM Ervine]              | 62      | 42   | 16   | 0    | 4      |
+| [AJ Blake, DI Stevens, SA Northeast, SW Billings]      | 62      | 26   | 34   | 2    | 0      |
+| [BAC Howell, DA Payne, JMR Taylor, TMJ Smith]          | 62      | 29   | 28   | 2    | 3      |
+| [DD Masters, JS Foster, ML Pettini, RN ten Doeschate]  | 59      | 31   | 25   | 1    | 2      |
+| [AD Hales, CMW Read, SJ Mullaney, SR Patel]            | 59      | 41   | 16   | 1    | 1      |
+| [AC Thomas, JC Hildreth, ME Trescothick, PD Trego]     | 58      | 28   | 27   | 0    | 3      |
+| [AJ Blake, DI Stevens, JC Tredwell, SA Northeast]      | 58      | 24   | 33   | 1    | 0      |
+| [AD Hales, HF Gurney, SJ Mullaney, SR Patel]           | 58      | 40   | 17   | 0    | 1      |
+| [IA Cockbain, JMR Taylor, M Klinger, TMJ Smith]        | 58      | 28   | 24   | 2    | 4      |
+| [DM Benkenstein, GR Breese, LE Plunkett, P Mustard]    | 57      | 22   | 26   | 2    | 7      |
+| [AD Hales, JT Ball, SJ Mullaney, SR Patel]             | 57      | 43   | 10   | 2    | 2      |
+| [GR Napier, JS Foster, ML Pettini, RS Bopara]          | 56      | 27   | 27   | 0    | 2      |
+| [JS Foster, ML Pettini, RN ten Doeschate, TJ Phillips] | 56      | 28   | 26   | 0    | 2      |
+| [DI Stevens, GO Jones, JC Tredwell, JL Denly]          | 56      | 36   | 18   | 1    | 1      |
+| [DI Stevens, GO Jones, JC Tredwell, RWT Key]           | 56      | 32   | 23   | 1    | 0      |
+| [JC Hildreth, L Gregory, MTC Waller, PD Trego]         | 56      | 27   | 24   | 1    | 4      |
+| [DA Payne, IA Cockbain, M Klinger, TMJ Smith]          | 56      | 24   | 27   | 2    | 3      |
+| [AJ Blake, DJ Bell-Drummond, ME Claydon, SW Billings]  | 56      | 25   | 27   | 2    | 2      |
+| [DD Masters, JS Foster, RN ten Doeschate, RS Bopara]   | 55      | 29   | 25   | 0    | 1      |
+| [AD Hales, LJ Fletcher, SJ Mullaney, SR Patel]         | 55      | 34   | 16   | 3    | 2      |
+| [AD Hales, HF Gurney, MH Wessels, SR Patel]            | 55      | 39   | 15   | 0    | 1      |
+| [AJ Blake, DI Stevens, ME Claydon, SW Billings]        | 55      | 24   | 29   | 2    | 0      |
+| [GR Napier, ML Pettini, RN ten Doeschate, RS Bopara]   | 54      | 27   | 25   | 0    | 2      |
+| [DI Stevens, JC Tredwell, SA Northeast, SW Billings]   | 54      | 21   | 32   | 1    | 0      |
+| [AD Hales, HF Gurney, MH Wessels, SJ Mullaney]         | 54      | 39   | 14   | 0    | 1      |
+| [AJ Blake, DI Stevens, ME Claydon, SA Northeast]       | 54      | 24   | 28   | 2    | 0      |
+| [BAC Howell, IA Cockbain, JMR Taylor, M Klinger]       | 54      | 22   | 27   | 2    | 3      |
+| [DI Stevens, JC Tredwell, M van Jaarsveld, RWT Key]    | 53      | 27   | 25   | 1    | 0      |
+| [Azhar Mahmood, DI Stevens, GO Jones, RWT Key]         | 53      | 31   | 22   | 0    | 0      |
+| [Azhar Mahmood, DI Stevens, GO Jones, JC Tredwell]     | 53      | 31   | 22   | 0    | 0      |
+| [DM Benkenstein, GJ Muchall, GR Breese, P Mustard]     | 52      | 19   | 28   | 1    | 4      |
+| [GR Napier, JS Foster, RN ten Doeschate, TJ Phillips]  | 52      | 24   | 27   | 0    | 1      |
+| [DI Stevens, GO Jones, JL Denly, M van Jaarsveld]      | 52      | 31   | 19   | 1    | 1      |
+| [AC Thomas, C Kieswetter, JC Hildreth, PD Trego]       | 52      | 27   | 22   | 0    | 3      |
+| [PJ Horton, SD Parry, SJ Croft, TC Smith]              | 52      | 32   | 17   | 2    | 1      |
+| [GD Cross, SD Parry, SJ Croft, TC Smith]               | 52      | 29   | 19   | 3    | 1      |
+| [BAC Howell, DA Payne, IA Cockbain, M Klinger]         | 52      | 19   | 29   | 2    | 2      |
+| [DA Payne, IA Cockbain, JMR Taylor, M Klinger]         | 52      | 22   | 24   | 2    | 4      |
+| [DI Stevens, GO Jones, JC Tredwell, M van Jaarsveld]   | 51      | 29   | 20   | 1    | 1      |
+| [GD Cross, SC Moore, SJ Croft, TC Smith]               | 51      | 25   | 21   | 4    | 1      |
+| [AJ Blake, DI Stevens, DJ Bell-Drummond, SW Billings]  | 51      | 23   | 26   | 2    | 0      |
+| [AJ Blake, DI Stevens, DJ Bell-Drummond, SA Northeast] | 51      | 24   | 25   | 2    | 0      |
+| [DT Christian, JT Ball, SJ Mullaney, SR Patel]         | 51      | 37   | 11   | 0    | 3      |
+| [DT Christian, HF Gurney, SJ Mullaney, SR Patel]       | 51      | 31   | 18   | 0    | 2      |
+| [AD Hales, SJ Mullaney, SR Patel, TJ Moores]           | 51      | 33   | 13   | 3    | 2      |
++--------------------------------------------------------+---------+------+------+------+--------+
