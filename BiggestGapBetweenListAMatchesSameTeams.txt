@@ -1,0 +1,124 @@
++-------------------------------------------------------------------------+-----------------+-----------------+-----------+
+| Teams                                                                   | Prev Match      | Next Match      | Time Diff |
++-------------------------------------------------------------------------+-----------------+-----------------+-----------+
+| West Indians v Sussex                                                   | 1 - 1963-09-12  | 2 - 2004-06-19  | 40Y 281D  |
+| Nottinghamshire v Wiltshire                                             | 1 - 1965-05-01  | 2 - 2004-05-17  | 39Y 16D   |
+| Karnataka v Delhi                                                       | 1 - 1986-03-05  | 2 - 2022-11-17  | 36Y 257D  |
+| Sri Lanka Board President's XI v West Indians                           | 2 - 1979-02-20  | 3 - 2015-10-29  | 36Y 251D  |
+| Haryana v Bengal                                                        | 1 - 1985-03-13  | 2 - 2018-10-05  | 33Y 206D  |
+| Haryana v Baroda                                                        | 1 - 1984-02-08  | 2 - 2017-03-06  | 33Y 26D   |
+| Bedfordshire v Dorset                                                   | 1 - 1968-05-08  | 2 - 2001-05-15  | 33Y 7D    |
+| Pakistan v Canada                                                       | 1 - 1979-06-09  | 2 - 2011-03-03  | 31Y 267D  |
+| Nondescripts Cricket Club v Sri Lanka Navy Sports Club                  | 1 - 1989-12-23  | 2 - 2021-04-07  | 31Y 105D  |
+| Lancashire v Staffordshire                                              | 1 - 1973-07-11  | 2 - 2004-05-05  | 30Y 299D  |
+| Railways v Bihar                                                        | 1 - 1989-03-12  | 2 - 2019-09-25  | 30Y 197D  |
+| State Bank of Pakistan v United Bank Limited                            | 1 - 1984-02-14  | 2 - 2013-04-05  | 29Y 50D   |
+| Sussex v Australians                                                    | 3 - 1989-05-09  | 4 - 2018-06-07  | 29Y 29D   |
+| Andhra v Maharashtra                                                    | 1 - 1987-04-01  | 2 - 2015-12-14  | 28Y 257D  |
+| Maharashtra v Delhi                                                     | 1 - 1987-04-06  | 2 - 2015-12-17  | 28Y 255D  |
+| Pakistan Under-23s v Sri Lanka Under-23s                                | 4 - 1985-05-26  | 5 - 2013-08-23  | 28Y 89D   |
+| State Bank of Pakistan v Pakistan International Airlines                | 1 - 1984-02-13  | 2 - 2012-03-12  | 28Y 28D   |
+| Sussex v Durham                                                         | 1 - 1964-05-27  | 2 - 1992-06-21  | 28Y 25D   |
+| Canada v England                                                        | 1 - 1979-06-13  | 2 - 2007-03-18  | 27Y 278D  |
+| Madhya Pradesh v Hyderabad                                              | 1 - 1991-09-21  | 2 - 2018-09-19  | 26Y 363D  |
+| Pakistanis v Kent                                                       | 2 - 1992-05-04  | 3 - 2019-04-27  | 26Y 358D  |
+| Uttar Pradesh v Delhi                                                   | 2 - 1990-04-13  | 3 - 2017-03-06  | 26Y 327D  |
+| West Indians v Warwickshire                                             | 2 - 1969-05-27  | 3 - 1995-07-10  | 26Y 44D   |
+| Netherlands v New Zealand                                               | 1 - 1996-02-17  | 2 - 2022-03-29  | 26Y 40D   |
+| Islamabad v Habib Bank Limited                                          | 1 - 1992-09-18  | 2 - 2018-09-06  | 25Y 353D  |
+| Delhi v Hyderabad                                                       | 1 - 1993-01-07  | 2 - 2018-09-21  | 25Y 257D  |
+| Madhya Pradesh v Punjab                                                 | 1 - 1995-11-01  | 2 - 2021-02-28  | 25Y 119D  |
+| Peshawar v Karachi Blues                                                | 2 - 1991-11-15  | 3 - 2017-01-24  | 25Y 70D   |
+| Bengal v Uttar Pradesh                                                  | 2 - 1990-12-11  | 3 - 2015-12-13  | 25Y 2D    |
+| Essex v Sri Lankans                                                     | 1 - 1981-07-25  | 2 - 2006-06-09  | 24Y 319D  |
+| Pakistanis v Kent                                                       | 1 - 1967-09-09  | 2 - 1992-05-04  | 24Y 238D  |
+| Northern Districts v England XI                                         | 1 - 1978-01-30  | 2 - 2002-02-08  | 24Y 9D    |
+| Worcestershire v Durham                                                 | 1 - 1968-05-04  | 2 - 1992-04-30  | 23Y 362D  |
+| Glamorgan v Scotland                                                    | 2 - 1988-06-22  | 3 - 2012-05-13  | 23Y 326D  |
+| New Zealanders v Queensland                                             | 1 - 1973-12-16  | 2 - 1997-10-26  | 23Y 314D  |
+| Faisalabad v Islamabad                                                  | 2 - 1994-04-01  | 3 - 2018-01-27  | 23Y 301D  |
+| Leicestershire v Australians                                            | 1 - 1981-08-20  | 2 - 2005-06-11  | 23Y 295D  |
+| Pakistanis v Somerset                                                   | 1 - 1987-05-14  | 2 - 2010-09-02  | 23Y 111D  |
+| Suffolk v Buckinghamshire                                               | 1 - 1979-06-27  | 2 - 2002-08-29  | 23Y 63D   |
+| Leicestershire v Staffordshire                                          | 1 - 1975-06-25  | 2 - 1998-06-24  | 22Y 364D  |
+| Griqualand West v Orange Free State                                     | 1 - 1971-11-13  | 2 - 1994-10-14  | 22Y 335D  |
+| Northumberland v Bedfordshire                                           | 1 - 1977-06-29  | 2 - 2000-05-16  | 22Y 322D  |
+| Peshawar v National Bank of Pakistan                                    | 2 - 1996-01-09  | 3 - 2018-09-22  | 22Y 256D  |
+| Griqualand West v Eastern Province                                      | 1 - 1972-10-21  | 2 - 1995-02-10  | 22Y 112D  |
+| Rawalpindi v Habib Bank Limited                                         | 6 - 1993-10-22  | 7 - 2016-01-14  | 22Y 84D   |
+| Surrey v Cheshire                                                       | 1 - 1964-05-06  | 2 - 1986-06-25  | 22Y 50D   |
+| Karnataka v Uttar Pradesh                                               | 2 - 1984-02-08  | 3 - 2006-03-17  | 22Y 37D   |
+| Staffordshire v Devon                                                   | 1 - 1978-07-05  | 2 - 2000-05-16  | 21Y 316D  |
+| Norfolk v Yorkshire                                                     | 1 - 1969-05-10  | 2 - 1990-06-27  | 21Y 48D   |
+| New Zealanders v Leicestershire                                         | 2 - 1994-05-17  | 3 - 2015-06-06  | 21Y 20D   |
+| Lincolnshire v Derbyshire                                               | 1 - 1976-06-26  | 2 - 1997-06-24  | 20Y 363D  |
+| Berkshire v Durham                                                      | 1 - 1979-06-27  | 2 - 2000-06-21  | 20Y 360D  |
+| Lancashire v Buckinghamshire                                            | 1 - 1984-07-04  | 2 - 2005-05-03  | 20Y 303D  |
+| Middlesex v Northumberland                                              | 1 - 1984-07-04  | 2 - 2005-05-03  | 20Y 303D  |
+| Multan v Karachi Whites                                                 | 6 - 1998-03-19  | 7 - 2018-10-16  | 20Y 211D  |
+| Railways v Tamil Nadu                                                   | 1 - 1982-12-28  | 2 - 2003-03-04  | 20Y 66D   |
+| Gloucestershire v Berkshire                                             | 1 - 1966-05-21  | 2 - 1986-06-25  | 20Y 35D   |
+| Northamptonshire v Cheshire                                             | 1 - 1968-05-25  | 2 - 1988-06-22  | 20Y 28D   |
+| Pakistanis v Sri Lanka Board President's XI                             | 1 - 1994-08-01  | 2 - 2014-08-20  | 20Y 19D   |
+| Peshawar v United Bank Limited                                          | 2 - 1996-01-06  | 3 - 2016-01-16  | 20Y 10D   |
+| Glamorgan v Lincolnshire                                                | 1 - 1974-06-29  | 2 - 1994-06-21  | 19Y 357D  |
+| Faisalabad v Karachi Whites                                             | 9 - 1998-03-15  | 10 - 2018-01-25 | 19Y 316D  |
+| Pakistan A v New Zealand A                                              | 3 - 1998-12-12  | 4 - 2018-10-21  | 19Y 313D  |
+| Shropshire v Warwickshire                                               | 1 - 1984-07-18  | 2 - 2004-05-05  | 19Y 292D  |
+| Pakistan v Netherlands                                                  | 3 - 2003-02-25  | 4 - 2022-08-16  | 19Y 172D  |
+| United Bank Limited v Habib Bank Limited                                | 16 - 1993-11-12 | 17 - 2013-04-13 | 19Y 152D  |
+| United States of America v Leeward Islands                              | 1 - 1998-10-06  | 2 - 2018-01-31  | 19Y 117D  |
+| Australia v Canada                                                      | 1 - 1979-06-16  | 2 - 1998-09-09  | 19Y 85D   |
+| Hampshire v Norfolk                                                     | 1 - 1965-05-01  | 2 - 1984-07-04  | 19Y 64D   |
+| Essex v Wiltshire                                                       | 1 - 1969-05-10  | 2 - 1988-06-22  | 19Y 43D   |
+| Yorkshire v Cambridgeshire                                              | 1 - 1967-05-25  | 2 - 1986-06-25  | 19Y 31D   |
+| Barbados v Canada                                                       | 3 - 2000-10-11  | 4 - 2019-11-11  | 19Y 31D   |
+| South Africa v United Arab Emirates                                     | 1 - 1996-02-16  | 2 - 2015-03-12  | 19Y 24D   |
+| Pakistan v United Arab Emirates                                         | 2 - 1996-02-24  | 3 - 2015-03-04  | 19Y 8D    |
+| Essex v Durham                                                          | 1 - 1973-07-11  | 2 - 1992-06-14  | 18Y 339D  |
+| Pakistan A v United Arab Emirates                                       | 1 - 1995-12-07  | 2 - 2014-10-22  | 18Y 319D  |
+| Gloucestershire v Berkshire                                             | 2 - 1986-06-25  | 3 - 2005-05-03  | 18Y 312D  |
+| Kurunegala Youth Cricket Club v Burgher Recreation Club                 | 3 - 2003-09-20  | 4 - 2022-07-01  | 18Y 284D  |
+| Kurunegala Youth Cricket Club v Chilaw Marians Cricket Club             | 1 - 2003-10-05  | 2 - 2022-07-12  | 18Y 280D  |
+| Police Sports Club v Bloomfield Cricket and Athletic Club               | 3 - 2000-11-05  | 4 - 2019-03-12  | 18Y 127D  |
+| Kurunegala Youth Cricket Club v Sebastianites Cricket and Athletic Club | 3 - 2002-12-01  | 4 - 2021-04-03  | 18Y 123D  |
+| Moors Sports Club v Sebastianites Cricket and Athletic Club             | 3 - 2002-12-08  | 4 - 2021-04-05  | 18Y 118D  |
+| Galle Cricket Club v Sebastianites Cricket and Athletic Club            | 3 - 2003-09-21  | 4 - 2021-11-20  | 18Y 60D   |
+| Madhya Pradesh v Mumbai                                                 | 1 - 1999-01-14  | 2 - 2017-02-28  | 18Y 45D   |
+| Ragama Cricket Club v Police Sports Club                                | 1 - 2003-09-21  | 2 - 2021-11-03  | 18Y 43D   |
+| Haryana v Karnataka                                                     | 1 - 1988-02-02  | 2 - 2006-03-14  | 18Y 40D   |
+| Zimbabweans v Nottinghamshire                                           | 1 - 1982-06-09  | 2 - 2000-06-29  | 18Y 20D   |
+| Water and Power Development Authority v Karachi Whites                  | 1 - 1998-03-17  | 2 - 2016-01-12  | 17Y 301D  |
+| Kurunegala Youth Cricket Club v Colts Cricket Club                      | 4 - 2003-09-27  | 5 - 2021-03-26  | 17Y 180D  |
+| United States of America v Jamaica                                      | 2 - 2000-10-11  | 3 - 2018-02-06  | 17Y 118D  |
+| Galle Cricket Club v Panadura Sports Club                               | 3 - 2001-12-23  | 4 - 2019-03-12  | 17Y 79D   |
+| Warwickshire v Cambridgeshire                                           | 1 - 1965-04-28  | 2 - 1982-07-03  | 17Y 66D   |
+| Police Sports Club v Tamil Union Cricket and Athletic Club              | 3 - 2004-09-18  | 4 - 2021-11-23  | 17Y 66D   |
+| Bihar v Orissa                                                          | 11 - 2004-01-08 | 12 - 2021-02-26 | 17Y 49D   |
+| Rajasthan v Delhi                                                       | 1 - 2004-02-11  | 2 - 2021-03-01  | 17Y 18D   |
+| Yorkshire v Australians                                                 | 2 - 1972-05-09  | 3 - 1989-05-23  | 17Y 14D   |
+| Northamptonshire v Cambridgeshire                                       | 1 - 1975-06-25  | 2 - 1992-06-24  | 16Y 365D  |
+| Leicestershire v Sussex                                                 | 39 - 2005-08-21 | 40 - 2022-08-07 | 16Y 351D  |
+| Galle Cricket Club v Tamil Union Cricket and Athletic Club              | 5 - 2004-12-14  | 6 - 2021-11-14  | 16Y 335D  |
+| Yorkshire v Cambridgeshire                                              | 2 - 1986-06-25  | 3 - 2003-05-07  | 16Y 316D  |
+| Hampshire v Shropshire                                                  | 1 - 1988-06-22  | 2 - 2005-05-04  | 16Y 316D  |
+| Sussex v Australians                                                    | 2 - 1972-07-23  | 3 - 1989-05-09  | 16Y 290D  |
+| United Bank Limited v National Bank of Pakistan                         | 11 - 1997-02-28 | 12 - 2013-12-10 | 16Y 285D  |
+| Rawalpindi v Water and Power Development Authority                      | 2 - 1999-04-08  | 3 - 2016-01-16  | 16Y 283D  |
+| Peshawar v Lahore Whites                                                | 1 - 2001-04-29  | 2 - 2018-02-04  | 16Y 281D  |
+| Ragama Cricket Club v Kurunegala Youth Cricket Club                     | 3 - 2005-11-01  | 4 - 2022-07-21  | 16Y 262D  |
+| Nondescripts Cricket Club v Sebastianites Cricket and Athletic Club     | 7 - 2005-11-12  | 8 - 2022-07-12  | 16Y 242D  |
+| Sinhalese Sports Club v Sebastianites Cricket and Athletic Club         | 6 - 2004-08-29  | 7 - 2021-03-26  | 16Y 209D  |
+| Police Sports Club v Sinhalese Sports Club                              | 4 - 2004-09-11  | 5 - 2021-03-24  | 16Y 194D  |
+| Water and Power Development Authority v Lahore Blues                    | 1 - 2002-03-18  | 2 - 2018-09-22  | 16Y 188D  |
+| Galle Cricket Club v Colts Cricket Club                                 | 4 - 2002-01-03  | 5 - 2018-03-14  | 16Y 70D   |
+| Oxfordshire v Worcestershire                                            | 1 - 1970-04-25  | 2 - 1986-06-25  | 16Y 61D   |
+| Hertfordshire v Surrey                                                  | 1 - 1971-05-15  | 2 - 1987-06-24  | 16Y 40D   |
+| United Bank Limited v Pakistan International Airlines                   | 18 - 1997-03-02 | 19 - 2013-04-11 | 16Y 40D   |
+| Railways v Delhi                                                        | 1 - 1989-03-18  | 2 - 2005-04-08  | 16Y 21D   |
+| Sri Lankans v Victoria                                                  | 2 - 1989-12-22  | 3 - 2006-01-11  | 16Y 20D   |
+| Scotland v Warwickshire                                                 | 6 - 1989-05-11  | 7 - 2005-05-29  | 16Y 18D   |
+| Kent v Cheshire                                                         | 1 - 1983-06-29  | 2 - 1999-06-23  | 15Y 359D  |
+| Hertfordshire v Worcestershire                                          | 1 - 1985-07-03  | 2 - 2001-06-27  | 15Y 359D  |
+| Faisalabad v Lahore Blues                                               | 2 - 2002-03-08  | 3 - 2018-02-06  | 15Y 335D  |
++-------------------------------------------------------------------------+-----------------+-----------------+-----------+
