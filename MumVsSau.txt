@@ -1,0 +1,59 @@
+        13 Feb 1948	Ranji Trophy 1947/48		Kathiawar v Bombay	Dhrol	f17830
+	24 Nov 1951	Ranji Trophy 1951/52		Bombay v Saurashtra	Brabourne Stadium, Bombay	f19403
+	10 Dec 1957	Ranji Trophy 1957/58		Bombay v Saurashtra	College of Military Engineering Ground, Kirkee	f22035
+	15 Jan 1959	Ranji Trophy 1958/59		Saurashtra v Bombay	Ajitsinhji Ground, Jamnagar	f22577
+	06 Feb 1960	Ranji Trophy 1959/60		Bombay v Saurashtra	Brabourne Stadium, Bombay	f23098
+	12 Nov 1960	Ranji Trophy 1960/61		Saurashtra v Bombay	European Gymkhana Ground, Rajkot	f23488
+	28 Oct 1961	Ranji Trophy 1961/62		Bombay v Saurashtra	Brabourne Stadium, Bombay	f24013
+	11 Nov 1962	Ranji Trophy 1962/63		Saurashtra v Bombay	Rajkumar College Ground, Rajkot	f24526
+	10 Dec 1963	Ranji Trophy 1963/64		Bombay v Saurashtra	Brabourne Stadium, Bombay	f25065
+	27 Nov 1964	Ranji Trophy 1964/65		Saurashtra v Bombay	Samaldas College Ground, Bhavnagar	f25540
+	21 Nov 1965	Ranji Trophy 1965/66		Bombay v Saurashtra	Brabourne Stadium, Bombay	f26034
+	08 Jan 1967	Ranji Trophy 1966/67		Saurashtra v Bombay	Ajitsinhji Ground, Jamnagar	f26611
+	17 Nov 1967	Ranji Trophy 1967/68		Bombay v Saurashtra	Brabourne Stadium, Bombay	f27014
+	30 Nov 1968	Ranji Trophy 1968/69		Saurashtra v Bombay	Municipal Stadium, Rajkot	f27535
+	18 Jan 1970	Ranji Trophy 1969/70		Bombay v Saurashtra	Brabourne Stadium, Bombay	f28081
+	05 Dec 1970	Ranji Trophy 1970/71		Saurashtra v Bombay	Jafar Maidan, Junagadh	f28467
+	15 Jan 1972	Ranji Trophy 1971/72		Bombay v Saurashtra	Brabourne Stadium, Bombay	f28997
+	09 Dec 1972	Ranji Trophy 1972/73		Saurashtra v Bombay	Municipal Stadium, Rajkot	f29404
+	24 Nov 1973	Ranji Trophy 1973/74		Bombay v Saurashtra	Brabourne Stadium, Bombay	f29849
+	21 Sep 1974	Ranji Trophy 1974/75		Saurashtra v Bombay	Duleep School of Cricket Ground, Porbandar	f30298
+	06 Dec 1975	Ranji Trophy 1975/76		Bombay v Saurashtra	Wankhede Stadium, Bombay	f30870
+	02 Oct 1976	Ranji Trophy 1976/77		Saurashtra v Bombay	Jawahar Maidan Ground, Surendranagar	f31264
+	26 Nov 1977	Ranji Trophy 1977/78		Bombay v Saurashtra	Wankhede Stadium, Bombay	f31806
+	09 Dec 1978	Ranji Trophy 1978/79		Saurashtra v Bombay	Jubilee Maidan Ground, Bhuj	f32338
+	08 Jan 1980	Ranji Trophy 1979/80		Bombay v Saurashtra	Wankhede Stadium, Bombay	f32903
+	21 Nov 1980	Ranji Trophy 1980/81		Saurashtra v Bombay	Jubilee Maidan Ground, Bhuj	f33304
+	13 Nov 1981	Ranji Trophy 1981/82		Bombay v Saurashtra	Wankhede Stadium, Bombay	f33813
+	18 Dec 1982	Ranji Trophy 1982/83		Saurashtra v Bombay	Ajitsinhji Ground, Jamnagar	f34403
+	07 Jan 1984	Ranji Trophy 1983/84		Bombay v Saurashtra	Wankhede Stadium, Bombay	f35025
+	09 Feb 1985	Ranji Trophy 1984/85		Saurashtra v Bombay	Indian Farmers' Fertilisers Co-Operative Udyognagar Stadium, Gandhidham	f35647
+	21 Dec 1985	Ranji Trophy 1985/86		Bombay v Saurashtra	Wankhede Stadium, Bombay	f36097
+	15 Nov 1986	Ranji Trophy 1986/87		Saurashtra v Bombay	Duleep School of Cricket Ground, Porbandar	f36613
+	25 Dec 1987	Ranji Trophy 1987/88		Bombay v Saurashtra	Wankhede Stadium, Bombay	f37284
+	17 Dec 1988	Ranji Trophy 1988/89		Saurashtra v Bombay	Municipal Stadium, Rajkot	f37823
+	01 Dec 1989	Ranji Trophy 1989/90		Bombay v Saurashtra	Wankhede Stadium, Bombay	f38400
+	06 Dec 1990	Ranji Trophy 1990/91		Saurashtra v Bombay	Municipal Stadium, Rajkot	f39018
+	13 Dec 1991	Ranji Trophy 1991/92		Bombay v Saurashtra	Wankhede Stadium, Bombay	f39692
+	19 Dec 1992	Ranji Trophy 1992/93		Saurashtra v Bombay	Municipal Stadium, Rajkot	f40280
+	31 Dec 1993	Ranji Trophy 1993/94		Bombay v Saurashtra	Wankhede Stadium, Bombay	f40864
+	07 Jan 1995	Ranji Trophy 1994/95		Saurashtra v Bombay	University Ground, Bhavnagar	f41497
+	17 Jan 1996	Ranji Trophy 1995/96		Bombay v Saurashtra	Municipal Corporation Dadoji Konddeo Stadium, Thana	f42207
+	04 Nov 1996	Ranji Trophy 1996/97		Saurashtra v Mumbai	Municipal Stadium, Rajkot	f42647
+	07 Jan 1998	Ranji Trophy 1997/98		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f43465
+	30 Nov 1998	Ranji Trophy 1998/99		Saurashtra v Mumbai	Municipal Stadium, Rajkot	f44021
+	03 Jan 2000	Ranji Trophy 1999/00		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f44882
+	08 Dec 2000	Ranji Trophy 2000/01		Saurashtra v Mumbai	Indian Farmers' Fertilisers Co-Operative Udyognagar Stadium, Gandhidham	f45454
+	05 Jan 2002	Ranji Trophy 2001/02		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f46259
+	25 Dec 2007	Ranji Trophy 2007/08		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f50529
+	23 Nov 2008	Ranji Trophy 2008/09		Saurashtra v Mumbai	Madhavrao Scindia Cricket Ground, Rajkot	f51126
+	04 Jan 2009	Ranji Trophy 2008/09		Mumbai v Saurashtra	MA Chidambaram Stadium, Chepauk, Chennai	f51282
+	01 Nov 2010	Ranji Trophy 2010/11		Mumbai v Saurashtra	Bandra Kurla Complex, Mumbai	f52650
+	06 Dec 2011	Ranji Trophy 2011/12		Saurashtra v Mumbai	Khandheri Cricket Ground, Rajkot	f53653
+	15 Dec 2012	Ranji Trophy 2012/13		Saurashtra v Mumbai	Saurashtra Cricket Association Stadium, Rajkot	f54424
+	26 Jan 2013	Ranji Trophy 2012/13		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f54543
+	24 Feb 2016	Ranji Trophy 2015/16		Mumbai v Saurashtra	Maharashtra Cricket Association Stadium, Gahunje	f56982
+	22 Dec 2018	Ranji Trophy 2018/19		Mumbai v Saurashtra	Wankhede Stadium, Mumbai	f59166
+	04 Feb 2020	Ranji Trophy 2019/20		Saurashtra v Mumbai	Saurashtra Cricket Association Stadium, Rajkot	f59967
+	17 Feb 2022	Ranji Trophy 2021/22		Mumbai v Saurashtra	Narendra Modi Stadium, Motera, Ahmedabad	f60711
+	27 Dec 2022	Ranji Trophy 2022/23		Mumbai v Saurashtra	Bandra Kurla Complex, Mumbai	f61316
