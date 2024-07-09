@@ -1,0 +1,84 @@
+T20I
+-------------------------------------+------------------------------------+------------+-----------------------------------------------+
+| Openers                             | Match                              | StartDate  | Venue                                         |
++-------------------------------------+------------------------------------+------------+-----------------------------------------------+
+| David Obuya & Collins Obuya         | Kenya v Bangladesh                 | 2007-09-01 | Gymkhana Club Ground, Nairobi                 |
+| Niall O'Brien & Kevin O'Brien       | Ireland v Scotland                 | 2008-08-02 | Civil Service Cricket Club, Stormont, Belfast |
+| Irfan Ahmed & Nadeem Ahmed          | Hong Kong v Nepal                  | 2014-03-16 | Zohur Ahmed Chowdhury Stadium, Chittagong     |
+| Matthew Stokes & Anthony Stokes     | Guernsey v Jersey                  | 2019-05-31 | College Field, St Peter Port                  |
+| Okera Bascome & Onais Bascome       | Bermuda v United States of America | 2019-08-18 | White Hill Field, Somerset                    |
+| Tim Barker & James Barker           | Luxembourg v Turkey                | 2019-08-29 | Cricket Romania Ground, Moara Vlasiei         |
+| Nemanja Zimonjic & Vukasin Zimonjic | Serbia v Bulgaria                  | 2021-06-24 | National Sports Academy, Sofia                |
+| Hayden Dickson & Cory Dickson       | Cook Islands v Samoa               | 2022-09-09 | Independence Park, Port Vila                  |
++-------------------------------------+------------------------------------+------------+-----------------------------------------------+
+
+
+ODI
+-----------------------------------+------------------------------+------------+-----------------------------------------------+
+| Openers                           | Match                        | StartDate  | Venue                                         |
++-----------------------------------+------------------------------+------------+-----------------------------------------------+
+| Ian Chappell & Greg Chappell      | Australia v England          | 1971-01-05 | Melbourne Cricket Ground, Melbourne           |
+| Dayle Hadlee & Sir Richard Hadlee | New Zealand v Pakistan       | 1973-02-11 | Lancaster Park, Christchurch                  |
+| Sadiq Mohammad & Mushtaq Mohammad | Pakistan v New Zealand       | 1973-02-11 | Lancaster Park, Christchurch                  |
+| Nurul Abedin & Minhajul Abedin    | Bangladesh v Pakistan        | 1986-03-31 | Tyronne Fernando Stadium, Moratuwa            |
+| Maurice Odumbe & Tito Odumbe      | Kenya v India                | 1996-02-18 | Barabati Stadium, Cuttack                     |
+| David Obuya & Collins Obuya       | Kenya v West Indies          | 2001-08-15 | Simba Union Ground, Nairobi                   |
+| John Mooney & Paul Mooney         | Ireland v England            | 2006-06-13 | Civil Service Cricket Club, Stormont, Belfast |
+| Karim Sadiq & Hasti Gul           | Afghanistan v Scotland       | 2009-04-19 | Willowmoore Park Main Oval, Benoni            |
+| Charles Amini & Chris Amini       | Papua New Guinea v Hong Kong | 2014-11-08 | Tony Ireland Stadium, Townsville              |
+| Scott Currie & Bradley Currie     | Scotland v Canada            | 2024-03-01 | Dubai Sports City Stadium, Dubai              |
++-----------------------------------+------------------------------+------------+-----------------------------------------------+
+
+Test
++--------------------------------+------------------------+------------+---------------------------------------+
+| Openers                        | Match                  | StartDate  | Venue                                 |
++--------------------------------+------------------------+------------+---------------------------------------+
+| Dave Gregory & Ned Gregory     | Australia v England    | 1877-03-15 | Melbourne Cricket Ground, Melbourne   |
+| Edward Grace & WG Grace        | England v Australia    | 1880-09-06 | Kennington Oval, Kennington           |
+| Edward Grace & Fred Grace      | England v Australia    | 1880-09-06 | Kennington Oval, Kennington           |
+| WG Grace & Fred Grace          | England v Australia    | 1880-09-06 | Kennington Oval, Kennington           |
+| Alec Hearne & George Hearne    | England v South Africa | 1892-03-19 | Newlands, Cape Town                   |
+| Syed Wazir Ali & Nazir Ali     | India v England        | 1932-06-25 | Lord's Cricket Ground, St John's Wood |
+| Grant Flower & Andy Flower     | Zimbabwe v India       | 1992-10-18 | Harare Sports Club, Harare            |
+| Adam Hollioake & Ben Hollioake | England v Australia    | 1997-08-07 | Trent Bridge, Nottingham              |
+| Niall O'Brien & Kevin O'Brien  | Ireland v Pakistan     | 2018-05-11 | The Village, Malahide, Dublin         |
++--------------------------------+------------------------+------------+---------------------------------------+
+
+
+WTest
+
++-----------------------------+-------------------------------------+------------+------------------------------------+
+| Openers                     | Match                               | StartDate  | Venue                              |
++-----------------------------+-------------------------------------+------------+------------------------------------+
+| EM Shevill & FL Blade       | Australia Women v England Women     | 1934-12-28 | Exhibition Ground, Brisbane        |
+| MJ Haddelsey & ME Haddelsey | England Women v Australia Women     | 1937-06-12 | County Ground, Northampton         |
+| LP Browne & BM Browne       | West Indies Women v Australia Women | 1976-05-07 | Jarrett Park, Montego Bay          |
+| DF Edulji & BF Edulji       | India Women v West Indies Women     | 1976-10-31 | M Chinnaswamy Stadium, Bangalore   |
+| RJ Signal & EA Signal       | New Zealand Women v England Women   | 1984-07-06 | Headingley, Leeds                  |
+| Shaiza Khan & Sharmeen Khan | Pakistan Women v Sri Lanka Women    | 1998-04-17 | Colts Cricket Club Ground, Colombo |
++-----------------------------+-------------------------------------+------------+------------------------------------+
+
+WODI
++-----------------------------+-----------------------------------------------+------------+---------------------------+
+| Openers                     | Match                                         | StartDate  | Venue                     |
++-----------------------------+-----------------------------------------------+------------+---------------------------+
+| LP Browne & BM Browne       | Trinidad and Tobago Women v New Zealand Women | 1973-06-23 | Clarence Park, St Albans  |
+| Shaiza Khan & Sharmeen Khan | Pakistan Women v New Zealand Women            | 1997-01-28 | Hagley Oval, Christchurch |
+| SJ Bryce & KE Bryce         | Scotland Women v Ireland Women                | 2023-10-17 | Desert Springs, Almeria   |
++-----------------------------+-----------------------------------------------+------------+---------------------------+
+
+
+WT20I
++-----------------------------------------------+-----------------------------------+------------+-----------------------------------------------+
+| Openers                                       | Match                             | StartDate  | Venue                                         |
++-----------------------------------------------+-----------------------------------+------------+-----------------------------------------------+
+| KA Blackwell & AJ Blackwell                   | Australia Women v England Women   | 2005-09-02 | County Ground, Taunton                        |
+| IMHC Joyce & CNIM Joyce                       | Ireland Women v West Indies Women | 2008-06-27 | Kenure, Rush, Dublin                          |
+| WHD Fernando & WRP Fernando                   | Sri Lanka Women v Pakistan Women  | 2009-06-12 | County Ground, Taunton                        |
+| Sasha Azmi & Zumika Azmi                      | Malaysia Women v India Women      | 2018-06-03 | Kinrara Academy Oval, Kuala Lumpur            |
+| SJ Bryce & KE Bryce                           | Scotland Women v Uganda Women     | 2018-07-07 | VRA Ground, Amstelveen                        |
+| NR Ribeiro & ER Ribeiro                       | Brazil Women v Mexico Women       | 2018-08-23 | Los Pinos Polo Club Ground, Bogota            |
+| A Meyenborg & S Meyenborg                     | Germany Women v Scotland Women    | 2019-06-29 | La Manga Club Top Ground, La Manga            |
+| Alexandra Vasquez & Adriana Vasquez           | Peru Women v Argentina Women      | 2019-10-03 | Lima Cricket and Football Club Ground, Lima   |
+| Ntombizodwa Mkhatshwa & Ntombizonke Mkhatshwa | Eswatini Women v Botswana Women   | 2021-09-09 | Botswana Cricket Association Oval 1, Gaborone |
++-----------------------------------------------+-----------------------------------+------------+-----------------------------------------------+
