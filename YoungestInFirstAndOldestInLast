@@ -1,0 +1,230 @@
++-------------------+----------------------------+------------+-------+-----------------------------------------------------+
+| Player            | Match                      | StartDate  | Age   | Venue                                               |
++-------------------+----------------------------+------------+-------+-----------------------------------------------------+
+| G Giffen          | Australia v England        | 1881-12-31 | 22.76 | Melbourne Cricket Ground, Melbourne                 |
+| G Giffen          | Australia v England        | 1896-08-10 | 37.37 | Kennington Oval, Kennington                         |
+| J Briggs          | England v Australia        | 1884-12-12 | 22.19 | Adelaide Oval, Adelaide                             |
+| J Briggs          | England v Australia        | 1899-06-29 | 36.73 | Headingley, Leeds                                   |
+| SE Gregory        | Australia v England        | 1890-07-21 | 20.26 | Lord's Cricket Ground, St John's Wood               |
+| SE Gregory        | Australia v England        | 1912-08-19 | 42.34 | Kennington Oval, Kennington                         |
+| CB Fry            | England v South Africa     | 1896-02-13 | 23.80 | St George's Park, Port Elizabeth                    |
+| CB Fry            | England v Australia        | 1912-08-19 | 40.31 | Kennington Oval, Kennington                         |
+| WW Armstrong      | Australia v England        | 1902-01-01 | 22.61 | Melbourne Cricket Ground, Melbourne                 |
+| WW Armstrong      | Australia v England        | 1921-08-13 | 42.22 | Kennington Oval, Kennington                         |
+| W Rhodes          | England v Australia        | 1899-06-01 | 21.58 | Trent Bridge, Nottingham                            |
+| W Rhodes          | England v West Indies      | 1930-04-03 | 52.42 | Sabina Park, Kingston                               |
+| HW Taylor         | South Africa v Australia   | 1912-05-27 | 23.05 | Old Trafford, Manchester                            |
+| HW Taylor         | South Africa v New Zealand | 1932-02-27 | 42.81 | Lancaster Park, Christchurch                        |
+| FE Woolley        | England v Australia        | 1909-08-09 | 22.20 | Kennington Oval, Kennington                         |
+| FE Woolley        | England v Australia        | 1934-08-18 | 47.22 | Kennington Oval, Kennington                         |
+| EP Nupen          | South Africa v Australia   | 1921-11-05 | 19.84 | Lord's, Durban                                      |
+| EP Nupen          | South Africa v Australia   | 1936-02-15 | 34.12 | Old Wanderers, Johannesburg                         |
+| DG Bradman        | Australia v England        | 1928-11-30 | 20.26 | Exhibition Ground, Brisbane                         |
+| DG Bradman        | Australia v England        | 1948-08-14 | 39.96 | Kennington Oval, Kennington                         |
+| WE Hollies        | England v West Indies      | 1935-01-08 | 22.59 | Kensington Oval, Bridgetown                         |
+| WE Hollies        | England v West Indies      | 1950-07-20 | 38.12 | Trent Bridge, Nottingham                            |
+| CJ Barnett        | England v West Indies      | 1933-08-12 | 23.11 | Kennington Oval, Kennington                         |
+| CJ Barnett        | England v Australia        | 1948-06-10 | 37.93 | Trent Bridge, Nottingham                            |
+| FR Brown          | England v New Zealand      | 1931-07-29 | 20.61 | Kennington Oval, Kennington                         |
+| FR Brown          | England v Australia        | 1953-06-25 | 42.52 | Lord's Cricket Ground, St John's Wood               |
+| VM Merchant       | India v England            | 1933-12-15 | 22.17 | Gymkhana Ground, Bombay                             |
+| VM Merchant       | India v England            | 1951-11-02 | 40.05 | Feroz Shah Kotla, Delhi                             |
+| L Hutton          | England v New Zealand      | 1937-06-26 | 21.00 | Lord's Cricket Ground, St John's Wood               |
+| L Hutton          | England v New Zealand      | 1955-03-25 | 38.75 | Eden Park, Auckland                                 |
+| JB Stollmeyer     | West Indies v England      | 1939-06-24 | 18.28 | Lord's Cricket Ground, St John's Wood               |
+| JB Stollmeyer     | West Indies v Australia    | 1955-04-26 | 34.12 | Bourda, Georgetown                                  |
+| Abdul Hafeez      | India v England            | 1946-06-22 | 21.42 | Lord's Cricket Ground, St John's Wood               |
+| AH Kardar         | Pakistan v West Indies     | 1958-03-26 | 33.18 | Queen's Park Oval, Port of Spain                    |
+| DCS Compton       | England v New Zealand      | 1937-08-14 | 19.22 | Kennington Oval, Kennington                         |
+| DCS Compton       | England v South Africa     | 1957-03-01 | 38.77 | St George's Park, Port Elizabeth                    |
+| TG Evans          | England v India            | 1946-08-17 | 25.99 | Kennington Oval, Kennington                         |
+| TG Evans          | England v India            | 1959-06-18 | 38.83 | Lord's Cricket Ground, St John's Wood               |
+| JB Statham        | England v New Zealand      | 1951-03-17 | 20.74 | Lancaster Park, Christchurch                        |
+| JB Statham        | England v South Africa     | 1965-08-26 | 35.19 | Kennington Oval, Kennington                         |
+| VL Manjrekar      | India v England            | 1951-12-30 | 20.26 | Eden Gardens, Calcutta                              |
+| VL Manjrekar      | India v New Zealand        | 1965-02-27 | 33.42 | Nehru Stadium, Madras                               |
+| DS Sheppard       | England v West Indies      | 1950-08-12 | 21.43 | Kennington Oval, Kennington                         |
+| DS Sheppard       | England v New Zealand      | 1963-03-15 | 34.02 | Lancaster Park, Christchurch                        |
+| JR Reid           | New Zealand v England      | 1949-07-23 | 21.13 | Old Trafford, Manchester                            |
+| JR Reid           | New Zealand v England      | 1965-07-08 | 37.09 | Headingley, Leeds                                   |
+| JHB Waite         | South Africa v England     | 1951-06-07 | 21.38 | Trent Bridge, Nottingham                            |
+| JHB Waite         | South Africa v England     | 1965-02-12 | 35.06 | St George's Park, Port Elizabeth                    |
+| Hanif Mohammad    | Pakistan v India           | 1952-10-16 | 17.82 | Feroz Shah Kotla, Delhi                             |
+| Hanif Mohammad    | Pakistan v New Zealand     | 1969-10-24 | 34.84 | National Stadium, Karachi                           |
+| RA McLean         | South Africa v England     | 1951-07-05 | 20.98 | Old Trafford, Manchester                            |
+| RA McLean         | South Africa v England     | 1964-12-23 | 34.45 | New Wanderers Stadium, Johannesburg                 |
+| B Sutcliffe       | New Zealand v England      | 1947-03-21 | 23.34 | Lancaster Park, Christchurch                        |
+| B Sutcliffe       | New Zealand v England      | 1965-05-27 | 41.52 | Edgbaston, Birmingham                               |
+| FS Trueman        | England v India            | 1952-06-05 | 21.32 | Headingley, Leeds                                   |
+| FS Trueman        | England v New Zealand      | 1965-06-17 | 34.36 | Lord's Cricket Ground, St John's Wood               |
+| MC Cowdrey        | England v Australia        | 1954-11-26 | 21.92 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| MC Cowdrey        | England v Australia        | 1975-02-08 | 42.12 | Melbourne Cricket Ground, Melbourne                 |
+| RB Simpson        | Australia v South Africa   | 1957-12-23 | 21.88 | New Wanderers Stadium, Johannesburg                 |
+| RB Simpson        | Australia v West Indies    | 1978-04-28 | 42.23 | Sabina Park, Kingston                               |
+| Intikhab Alam     | Pakistan v Australia       | 1959-12-04 | 17.93 | National Stadium, Karachi                           |
+| Intikhab Alam     | Pakistan v West Indies     | 1977-03-04 | 35.18 | Queen's Park Oval, Port of Spain                    |
+| Nasim-ul-Ghani    | Pakistan v West Indies     | 1958-01-17 | 16.67 | Kensington Oval, Bridgetown                         |
+| Nasim-ul-Ghani    | Pakistan v Australia       | 1973-01-06 | 31.65 | Sydney Cricket Ground, Sydney                       |
+| G Boycott         | England v Australia        | 1964-06-04 | 23.61 | Trent Bridge, Nottingham                            |
+| G Boycott         | England v India            | 1982-01-01 | 41.19 | Eden Gardens, Calcutta                              |
+| FJ Titmus         | England v South Africa     | 1955-06-23 | 22.57 | Lord's Cricket Ground, St John's Wood               |
+| FJ Titmus         | England v Australia        | 1975-01-25 | 42.16 | Adelaide Oval, Adelaide                             |
+| DAJ Holford       | West Indies v England      | 1966-06-02 | 26.12 | Old Trafford, Manchester                            |
+| DAJ Holford       | West Indies v Pakistan     | 1977-04-15 | 36.99 | Sabina Park, Kingston                               |
+| S Venkataraghavan | India v New Zealand        | 1965-02-27 | 19.85 | Nehru Stadium, Madras                               |
+| S Venkataraghavan | India v Pakistan           | 1983-09-24 | 38.42 | Gandhi Stadium, Jalandhar                           |
+| DB Close          | England v New Zealand      | 1949-07-23 | 18.40 | Old Trafford, Manchester                            |
+| DB Close          | England v West Indies      | 1976-07-08 | 45.36 | Old Trafford, Manchester                            |
+| KD Walters        | Australia v England        | 1965-12-10 | 19.97 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| KD Walters        | Australia v India          | 1981-02-07 | 35.13 | Melbourne Cricket Ground, Melbourne                 |
+| DL Murray         | West Indies v England      | 1963-06-06 | 20.04 | Old Trafford, Manchester                            |
+| DL Murray         | West Indies v England      | 1980-08-07 | 37.21 | Headingley, Leeds                                   |
+| VA Holder         | West Indies v England      | 1969-06-12 | 23.67 | Old Trafford, Manchester                            |
+| VA Holder         | West Indies v India        | 1979-02-02 | 33.31 | Modi Stadium, Kanpur                                |
+| CPS Chauhan       | India v New Zealand        | 1969-09-25 | 22.18 | Brabourne Stadium, Bombay                           |
+| CPS Chauhan       | India v New Zealand        | 1981-03-13 | 33.64 | Eden Park, Auckland                                 |
+| IM Chappell       | Australia v Pakistan       | 1964-12-04 | 21.19 | Melbourne Cricket Ground, Melbourne                 |
+| IM Chappell       | Australia v England        | 1980-02-01 | 36.35 | Melbourne Cricket Ground, Melbourne                 |
+| Majid Khan        | Pakistan v Australia       | 1964-10-24 | 18.07 | National Stadium, Karachi                           |
+| Majid Khan        | Pakistan v India           | 1983-01-23 | 36.32 | Gaddafi Stadium, Lahore                             |
+| CH Lloyd          | West Indies v India        | 1966-12-13 | 22.28 | Brabourne Stadium, Bombay                           |
+| CH Lloyd          | West Indies v Australia    | 1984-12-30 | 40.33 | Sydney Cricket Ground, Sydney                       |
+| RW Marsh          | Australia v England        | 1970-11-27 | 23.06 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| RW Marsh          | Australia v Pakistan       | 1984-01-02 | 36.16 | Sydney Cricket Ground, Sydney                       |
+| GR Viswanath      | India v Australia          | 1969-11-15 | 20.75 | Modi Stadium, Kanpur                                |
+| GR Viswanath      | India v Pakistan           | 1983-01-30 | 33.96 | National Stadium, Karachi                           |
+| GM Turner         | New Zealand v West Indies  | 1969-02-27 | 21.76 | Eden Park, Auckland                                 |
+| GM Turner         | New Zealand v Sri Lanka    | 1983-03-11 | 35.79 | Basin Reserve, Wellington                           |
+| SM Gavaskar       | India v West Indies        | 1971-03-06 | 21.65 | Queen's Park Oval, Port of Spain                    |
+| SM Gavaskar       | India v Pakistan           | 1987-03-13 | 37.67 | M Chinnaswamy Stadium, Bangalore                    |
+| RGD Willis        | England v Australia        | 1971-01-09 | 21.61 | Sydney Cricket Ground, Sydney                       |
+| RGD Willis        | England v West Indies      | 1984-07-12 | 35.11 | Headingley, Leeds                                   |
+| PI Pocock         | England v West Indies      | 1968-02-29 | 21.43 | Kensington Oval, Bridgetown                         |
+| PI Pocock         | England v India            | 1985-01-31 | 38.35 | Modi Stadium, Kanpur                                |
+| P Willey          | England v West Indies      | 1976-07-22 | 26.62 | Headingley, Leeds                                   |
+| P Willey          | England v New Zealand      | 1986-07-24 | 36.63 | Lord's Cricket Ground, St John's Wood               |
+| PH Edmonds        | England v Australia        | 1975-08-14 | 24.43 | Headingley, Leeds                                   |
+| PH Edmonds        | England v Pakistan         | 1987-08-06 | 36.41 | Kennington Oval, Kennington                         |
+| Imran Khan        | Pakistan v England         | 1971-06-03 | 18.51 | Edgbaston, Birmingham                               |
+| Imran Khan        | Pakistan v Sri Lanka       | 1992-01-02 | 39.10 | Iqbal Stadium, Faisalabad                           |
+| RJ Hadlee         | New Zealand v Pakistan     | 1973-02-02 | 21.58 | Basin Reserve, Wellington                           |
+| RJ Hadlee         | New Zealand v England      | 1990-07-05 | 39.00 | Edgbaston, Birmingham                               |
+| M Amarnath        | India v Australia          | 1969-12-24 | 19.25 | Madras Cricket Club Ground, Chepauk, Madras         |
+| M Amarnath        | India v West Indies        | 1988-01-11 | 37.29 | MA Chidambaram Stadium, Chepauk, Madras             |
+| IVA Richards      | West Indies v India        | 1974-11-22 | 22.71 | M Chinnaswamy Stadium, Bangalore                    |
+| IVA Richards      | West Indies v England      | 1991-08-08 | 39.42 | The Foster's Oval, Kennington                       |
+| GA Gooch          | England v Australia        | 1975-07-10 | 21.96 | Edgbaston, Birmingham                               |
+| GA Gooch          | England v Australia        | 1995-02-03 | 41.53 | Western Australia Cricket Association Ground, Perth |
+| Kapil Dev         | India v Pakistan           | 1978-10-16 | 19.77 | Iqbal Stadium, Faisalabad                           |
+| Kapil Dev         | India v New Zealand        | 1994-03-19 | 35.19 | Trust Bank Park, Hamilton                           |
+| JG Wright         | New Zealand v England      | 1978-02-10 | 23.60 | Basin Reserve, Wellington                           |
+| JG Wright         | New Zealand v Australia    | 1993-03-12 | 38.68 | Eden Park, Auckland                                 |
+| DB Vengsarkar     | India v New Zealand        | 1976-01-24 | 19.80 | Eden Park, Auckland                                 |
+| DB Vengsarkar     | India v Australia          | 1992-02-01 | 35.82 | Western Australia Cricket Association Ground, Perth |
+| Javed Miandad     | Pakistan v New Zealand     | 1976-10-09 | 19.32 | Gaddafi Stadium, Lahore                             |
+| Javed Miandad     | Pakistan v Zimbabwe        | 1993-12-16 | 36.51 | Gaddafi Stadium, Lahore                             |
+| A Ranatunga       | Sri Lanka v England        | 1982-02-17 | 18.21 | P Saravanamuttu Stadium, Colombo                    |
+| A Ranatunga       | Sri Lanka v South Africa   | 2000-08-06 | 36.68 | Sinhalese Sports Club Ground, Colombo               |
+| DL Haynes         | West Indies v Australia    | 1978-03-03 | 22.04 | Queen's Park Oval, Port of Spain                    |
+| DL Haynes         | West Indies v England      | 1994-04-08 | 38.14 | Kensington Oval, Bridgetown                         |
+| AJ Traicos        | South Africa v Australia   | 1970-02-05 | 22.72 | Kingsmead, Durban                                   |
+| AJ Traicos        | Zimbabwe v India           | 1993-03-13 | 45.82 | Feroz Shah Kotla, Delhi                             |
+| Saleem Malik      | Pakistan v Sri Lanka       | 1982-03-05 | 18.88 | National Stadium, Karachi                           |
+| Saleem Malik      | Pakistan v India           | 1999-02-16 | 35.83 | Eden Gardens, Calcutta                              |
+| CA Walsh          | West Indies v Australia    | 1984-11-09 | 22.02 | Western Australia Cricket Association Ground, Perth |
+| CA Walsh          | West Indies v South Africa | 2001-04-19 | 38.47 | Sabina Park, Kingston                               |
+| MD Crowe          | New Zealand v Australia    | 1982-02-26 | 19.43 | Basin Reserve, Wellington                           |
+| MD Crowe          | New Zealand v India        | 1995-11-08 | 33.12 | Barabati Stadium, Cuttack                           |
+| DC Boon           | Australia v West Indies    | 1984-11-23 | 23.90 | Brisbane Cricket Ground, Woolloongabba, Brisbane    |
+| DC Boon           | Australia v Sri Lanka      | 1996-01-25 | 35.07 | Adelaide Oval, Adelaide                             |
+| RB Richardson     | West Indies v India        | 1983-11-24 | 21.86 | Wankhede Stadium, Bombay                            |
+| RB Richardson     | West Indies v England      | 1995-08-24 | 33.61 | The Foster's Oval, Kennington                       |
+| PA de Silva       | Sri Lanka v England        | 1984-08-23 | 18.85 | Lord's Cricket Ground, St John's Wood               |
+| PA de Silva       | Sri Lanka v Bangladesh     | 2002-07-21 | 36.75 | P Saravanamuttu Stadium, Colombo                    |
+| Wasim Akram       | Pakistan v New Zealand     | 1985-01-25 | 18.64 | Eden Park, Auckland                                 |
+| Wasim Akram       | Pakistan v Bangladesh      | 2002-01-09 | 35.60 | Bangabandhu National Stadium, Dhaka                 |
+| HP Tillakaratne   | Sri Lanka v Australia      | 1989-12-16 | 22.42 | Bellerive Oval, Hobart                              |
+| HP Tillakaratne   | Sri Lanka v Australia      | 2004-03-24 | 36.69 | Sinhalese Sports Club Ground, Colombo               |
+| CL Cairns         | New Zealand v Australia    | 1989-11-24 | 19.45 | Western Australia Cricket Association Ground, Perth |
+| CL Cairns         | New Zealand v England      | 2004-06-10 | 33.99 | Trent Bridge, Nottingham                            |
+| ME Waugh          | Australia v England        | 1991-01-25 | 25.64 | Adelaide Oval, Adelaide                             |
+| ME Waugh          | Australia v Pakistan       | 2002-10-19 | 37.38 | Sharjah Cricket Association Stadium, Sharjah        |
+| ST Jayasuriya     | Sri Lanka v New Zealand    | 1991-02-22 | 21.64 | Trust Bank Park, Hamilton                           |
+| ST Jayasuriya     | Sri Lanka v England        | 2007-12-01 | 38.42 | Asgiriya Stadium, Kandy                             |
+| Ijaz Ahmed        | Pakistan v India           | 1987-02-03 | 18.37 | MA Chidambaram Stadium, Chepauk, Madras             |
+| Ijaz Ahmed        | Pakistan v New Zealand     | 2001-03-27 | 32.51 | WestpacTrust Park, Hamilton                         |
+| SR Waugh          | Australia v India          | 1985-12-26 | 20.56 | Melbourne Cricket Ground, Melbourne                 |
+| SR Waugh          | Australia v India          | 2004-01-02 | 38.58 | Sydney Cricket Ground, Sydney                       |
+| CL Hooper         | West Indies v India        | 1987-12-11 | 20.98 | Wankhede Stadium, Bombay                            |
+| CL Hooper         | West Indies v India        | 2002-10-30 | 35.87 | Eden Gardens, Kolkata                               |
+| N Hussain         | England v West Indies      | 1990-02-24 | 21.91 | Sabina Park, Kingston                               |
+| N Hussain         | England v New Zealand      | 2004-05-20 | 36.14 | Lord's Cricket Ground, St John's Wood               |
+| BC Lara           | West Indies v Pakistan     | 1990-12-06 | 21.59 | Gaddafi Stadium, Lahore                             |
+| BC Lara           | West Indies v Pakistan     | 2006-11-27 | 37.57 | National Stadium, Karachi                           |
+| SM Pollock        | South Africa v England     | 1995-11-16 | 22.33 | Centurion Park, Centurion                           |
+| SM Pollock        | South Africa v West Indies | 2008-01-10 | 34.48 | Sahara Stadium Kingsmead, Durban                    |
+| SK Warne          | Australia v India          | 1992-01-02 | 22.30 | Sydney Cricket Ground, Sydney                       |
+| SK Warne          | Australia v England        | 2007-01-02 | 37.30 | Sydney Cricket Ground, Sydney                       |
+| AF Giles          | England v South Africa     | 1998-07-02 | 25.28 | Old Trafford, Manchester                            |
+| AF Giles          | England v Australia        | 2006-12-01 | 33.70 | Adelaide Oval, Adelaide                             |
+| HH Streak         | Zimbabwe v Pakistan        | 1993-12-01 | 19.71 | Defence Housing Authority Stadium, Karachi          |
+| HH Streak         | Zimbabwe v India           | 2005-09-20 | 31.51 | Harare Sports Club, Harare                          |
+| S Chanderpaul     | West Indies v England      | 1994-03-17 | 19.58 | Bourda, Georgetown                                  |
+| S Chanderpaul     | West Indies v England      | 2015-05-01 | 40.70 | Kensington Oval, Bridgetown                         |
+| ME Trescothick    | England v West Indies      | 2000-08-03 | 24.60 | Old Trafford, Manchester                            |
+| ME Trescothick    | England v Pakistan         | 2006-08-17 | 30.64 | The Brit Oval, Kennington                           |
+| SP Fleming        | New Zealand v India        | 1994-03-19 | 20.96 | Trust Bank Park, Hamilton                           |
+| SP Fleming        | New Zealand v England      | 2008-03-22 | 34.97 | McLean Park, Napier                                 |
+| JH Kallis         | South Africa v England     | 1995-12-14 | 20.16 | Kingsmead, Durban                                   |
+| JH Kallis         | South Africa v India       | 2013-12-26 | 38.19 | Sahara Stadium Kingsmead, Durban                    |
+| RT Ponting        | Australia v Sri Lanka      | 1995-12-08 | 20.96 | Western Australia Cricket Association Ground, Perth |
+| RT Ponting        | Australia v South Africa   | 2012-11-30 | 37.95 | Western Australia Cricket Association Ground, Perth |
+| ML Hayden         | Australia v South Africa   | 1994-03-04 | 22.34 | New Wanderers Stadium, Johannesburg                 |
+| ML Hayden         | Australia v South Africa   | 2009-01-03 | 37.18 | Sydney Cricket Ground, Sydney                       |
+| FL Reifer         | West Indies v Sri Lanka    | 1997-06-13 | 24.89 | Antigua Recreation Ground, St John's                |
+| FL Reifer         | West Indies v Bangladesh   | 2009-07-17 | 36.98 | Queen's Park (New), St George's                     |
+| SR Tendulkar      | India v Pakistan           | 1989-11-15 | 16.56 | National Stadium, Karachi                           |
+| SR Tendulkar      | India v West Indies        | 2013-11-14 | 40.55 | Wankhede Stadium, Mumbai                            |
+| Shahid Afridi     | Pakistan v Australia       | 1998-10-22 | 18.64 | National Stadium, Karachi                           |
+| Shahid Afridi     | Pakistan v Australia       | 2010-07-13 | 30.36 | Lord's Cricket Ground, St John's Wood               |
+| Danish Kaneria    | Pakistan v England         | 2000-11-29 | 19.95 | Iqbal Stadium, Faisalabad                           |
+| Danish Kaneria    | Pakistan v England         | 2010-07-29 | 29.61 | Trent Bridge, Nottingham                            |
+| MN Samuels        | West Indies v Australia    | 2000-12-15 | 19.94 | Adelaide Oval, Adelaide                             |
+| MN Samuels        | West Indies v Pakistan     | 2016-10-30 | 35.81 | Sharjah Cricket Association Stadium, Sharjah        |
+| T Taibu           | Zimbabwe v West Indies     | 2001-07-19 | 18.18 | Queens Sports Club, Bulawayo                        |
+| T Taibu           | Zimbabwe v New Zealand     | 2012-01-26 | 28.70 | McLean Park, Napier                                 |
+| H Masakadza       | Zimbabwe v West Indies     | 2001-07-27 | 17.96 | Harare Sports Club, Harare                          |
+| H Masakadza       | Zimbabwe v Bangladesh      | 2018-11-11 | 35.25 | Shere Bangla National Stadium, Mirpur               |
+| Z Khan            | India v Bangladesh         | 2000-11-10 | 22.09 | Bangabandhu National Stadium, Dhaka                 |
+| Z Khan            | India v New Zealand        | 2014-02-14 | 35.35 | Basin Reserve, Wellington                           |
+| DPMD Jayawardene  | Sri Lanka v India          | 1997-08-02 | 20.18 | R Premadasa Stadium, Colombo                        |
+| DPMD Jayawardene  | Sri Lanka v Pakistan       | 2014-08-14 | 37.21 | Sinhalese Sports Club Ground, Colombo               |
+| BB McCullum       | New Zealand v South Africa | 2004-03-10 | 22.45 | Westpac Park, Hamilton                              |
+| BB McCullum       | New Zealand v Australia    | 2016-02-20 | 34.39 | Hagley Oval, Christchurch                           |
+| DL Vettori        | New Zealand v England      | 1997-02-06 | 18.02 | Basin Reserve, Wellington                           |
+| DL Vettori        | New Zealand v Pakistan     | 2014-11-26 | 35.83 | Sharjah Cricket Association Stadium, Sharjah        |
+| Harbhajan Singh   | India v Australia          | 1998-03-25 | 17.72 | M Chinnaswamy Stadium, Bangalore                    |
+| Harbhajan Singh   | India v Sri Lanka          | 2015-08-12 | 35.10 | Galle International Stadium, Galle                  |
+| HM Amla           | South Africa v India       | 2004-11-28 | 21.66 | Eden Gardens, Kolkata                               |
+| HM Amla           | South Africa v Sri Lanka   | 2019-02-21 | 35.89 | St George's Park, Port Elizabeth                    |
+| JM Anderson       | England v Zimbabwe         | 2003-05-22 | 20.81 | Lord's Cricket Ground, St John's Wood               |
+| JM Anderson       | England v West Indies      | 2024-07-10 | 41.94 | Lord's Cricket Ground, St John's Wood               |
+| LRPL Taylor       | New Zealand v South Africa | 2007-11-08 | 23.66 | Liberty Life Wanderers Stadium, Johannesburg        |
+| LRPL Taylor       | New Zealand v Bangladesh   | 2022-01-09 | 37.84 | Hagley Oval, Christchurch                           |
+| KAJ Roach         | West Indies v Bangladesh   | 2009-07-09 | 21.02 | Arnos Vale Playing Field, Kingstown                 |
+| KAJ Roach         | West Indies v Pakistan     | 2025-01-25 | 36.57 | Multan Cricket Stadium, Multan                      |
+| PM Siddle         | Australia v India          | 2008-10-17 | 23.89 | Punjab Cricket Association Stadium, Mohali          |
+| PM Siddle         | Australia v England        | 2019-09-12 | 34.79 | The Kia Oval, Kennington                            |
+| Mushfiqur Rahim   | Bangladesh v England       | 2005-05-26 | 16.73 | Lord's Cricket Ground, St John's Wood               |
+| Mushfiqur Rahim   | Bangladesh v Sri Lanka     | 2025-06-17 | 36.79 | Galle International Stadium, Galle                  |
+| Shakib Al Hasan   | Bangladesh v India         | 2007-05-18 | 20.15 | Bir Shrestha Shahid Ruhul Amin Stadium, Chittagong  |
+| Shakib Al Hasan   | Bangladesh v India         | 2024-09-27 | 37.51 | Modi Stadium, Kanpur                                |
+| D Elgar           | South Africa v Australia   | 2012-11-30 | 25.47 | Western Australia Cricket Association Ground, Perth |
+| D Elgar           | South Africa v India       | 2024-01-03 | 36.56 | PPC Newlands, Cape Town                             |
+| AD Mathews        | Sri Lanka v Pakistan       | 2009-07-04 | 22.08 | Galle International Stadium, Galle                  |
+| AD Mathews        | Sri Lanka v Bangladesh     | 2025-06-17 | 38.04 | Galle International Stadium, Galle                  |
+| TG Southee        | New Zealand v England      | 2008-03-22 | 19.27 | McLean Park, Napier                                 |
+| TG Southee        | New Zealand v England      | 2024-12-14 | 36.00 | Seddon Park, Hamilton                               |
+| JE Root           | England v India            | 2012-12-13 | 21.95 | Vidarbha Cricket Association Stadium, Nagpur        |
+| JE Root           | England v Zimbabwe         | 2025-05-22 | 34.39 | Trent Bridge, Nottingham                            |
++-------------------+----------------------------+------------+-------+-----------------------------------------------------+
